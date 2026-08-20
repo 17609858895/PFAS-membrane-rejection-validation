@@ -1,0 +1,9 @@
+03_Figures/
+04_Tables/
+99_Working_Files/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
