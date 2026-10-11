@@ -1,0 +1,4 @@
+﻿exposure,all_outcome_varying_studies,exact_outcome_varying_studies,exact_outcome_ols_rows,dropped_studies,reason
+Monovalent cations,22,22,878,,
+Divalent cations,23,22,939,"Appleman et al, 2013","After restriction to exact outcomes, the remaining exact rows in the dropped study/studies have no within-study variation in the exposure."
+DOC,20,19,766,"Appleman et al, 2013","After restriction to exact outcomes, the remaining exact rows in the dropped study/studies have no within-study variation in the exposure."

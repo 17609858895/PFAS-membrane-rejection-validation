@@ -1,0 +1,8 @@
+{
+  "primary_ranking_estimand": "Equal-weight mean of within-study C-index across studies with >=1 comparable pair; no cross-study pairs.",
+  "eligible_studies": 59,
+  "all_studies": 61,
+  "bootstrap": "5000 draws of 61 studies with replacement; frozen out-of-fold predictions; exclude unscorable studies only from the concordance denominator; row-pooled exact-outcome error metrics.",
+  "baseline_within_study_c": 0.5,
+  "limitation": "Conditional uncertainty for the archived fitting procedure, not full retraining or future-population validation."
+}

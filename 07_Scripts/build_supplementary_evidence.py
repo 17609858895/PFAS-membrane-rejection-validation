@@ -478,7 +478,8 @@ def draw_temporal_figure(frame: pd.DataFrame) -> None:
             ax.hist(vals, bins=12, color=LIGHT, edgecolor=BLUE, linewidth=1.2)
             ax.axvline(actual, color=CORAL, lw=2.5)
             style_axis(ax, xlabel=f"Size-matched control {xlabel}", ylabel="Control splits", tick_size=11.5, label_size=14.0)
-            ax.text(actual, 0.96, "Actual time-out", transform=ax.get_xaxis_transform(), ha="center", va="top", color=CORAL, fontsize=10.0)
+            ax.plot([], [], color=CORAL, lw=2.5, label="Actual temporal holdout")
+            ax.legend(loc="lower center", bbox_to_anchor=(0.5, 1.01), frameon=False, fontsize=10.0)
             numeric_ticks(ax, n=5)
         return draw
 

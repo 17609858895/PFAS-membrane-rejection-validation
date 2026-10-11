@@ -1,0 +1,3051 @@
+﻿repeat,seed,study,regime
+1,20270831,"Abdikheibari, 2022",development
+1,20270831,"Appleman et al, 2013",development
+1,20270831,"Bi et al, 2024",development
+1,20270831,"Boo, 2018",development
+1,20270831,"Boonya-atichart, 2017",development
+1,20270831,"Chen et al, 2023",development
+1,20270831,"Franke, 2019",development
+1,20270831,"Franke, 2021",development
+1,20270831,"Fujioka, 2024",development
+1,20270831,"Ge et al, 2025",unseen_study_test
+1,20270831,"Griffin, 2024",unseen_study_test
+1,20270831,"H. Hara-Yamamura, 2022",unseen_study_test
+1,20270831,"Hang, 2015",development
+1,20270831,"Jeong et al, 2024",unseen_study_test
+1,20270831,"Kim et al, 2025",development
+1,20270831,"Le et al, 2022",development
+1,20270831,"Li et al, 2021",development
+1,20270831,"Lipp et al, 2010",development
+1,20270831,"Liu Z et al, 2024",development
+1,20270831,"Liu Z et al, 2024 (2)",development
+1,20270831,"Liu et al, 2021",development
+1,20270831,"Liu et al, 2023",development
+1,20270831,"Lu et al, 2025",development
+1,20270831,"Luo et al, 2025",development
+1,20270831,"Luo, 2016",unseen_study_test
+1,20270831,"L√©niz-Pizarro, 2022",development
+1,20270831,"Ma J., 2022",development
+1,20270831,"Ma et al, 2024",development
+1,20270831,"Ma et al, 2024 (2)",development
+1,20270831,"Minhas et al, 2025",development
+1,20270831,"Pica, 2019",development
+1,20270831,"Pilevar et al, 2025",unseen_study_test
+1,20270831,"Pramanik, 2017",development
+1,20270831,"Qi et al, 2022",unseen_study_test
+1,20270831,"Rattanaoudom, 2011",development
+1,20270831,"Rychlewska, 2024",development
+1,20270831,"Safulko et al., 2023",unseen_study_test
+1,20270831,"Soriano, 2019",development
+1,20270831,"Steinle-Darling & Reinhard, 2008",development
+1,20270831,"Steinle-Darling et al, 2010",development
+1,20270831,"Tang, 2006",unseen_study_test
+1,20270831,"Tang, 2007",development
+1,20270831,"Toure, 2019",unseen_study_test
+1,20270831,"Turk et al, 2025",development
+1,20270831,"Wang et al, 2018",development
+1,20270831,"Wang et al, 2025",unseen_study_test
+1,20270831,"Wang et al, 2025 (2)",development
+1,20270831,"Wang, 2015",development
+1,20270831,"Wang, 2021",development
+1,20270831,"Wu Y, 2023",development
+1,20270831,"Yang et al, 2024",development
+1,20270831,"Yu, 2016",development
+1,20270831,"Zeng, 2017",development
+1,20270831,"Zhai et al, 2025",unseen_study_test
+1,20270831,"Zhang, 2024",unseen_study_test
+1,20270831,"Zhao, 2013",development
+1,20270831,"Zhao, 2016",development
+1,20270831,"Zhao, 2018",development
+1,20270831,"Zhao, 2020",development
+1,20270831,"Zhi et al, 2022",development
+1,20270831,"Zhi et al, 2025",development
+2,20270832,"Abdikheibari, 2022",development
+2,20270832,"Appleman et al, 2013",unseen_study_test
+2,20270832,"Bi et al, 2024",development
+2,20270832,"Boo, 2018",development
+2,20270832,"Boonya-atichart, 2017",development
+2,20270832,"Chen et al, 2023",unseen_study_test
+2,20270832,"Franke, 2019",development
+2,20270832,"Franke, 2021",development
+2,20270832,"Fujioka, 2024",unseen_study_test
+2,20270832,"Ge et al, 2025",development
+2,20270832,"Griffin, 2024",unseen_study_test
+2,20270832,"H. Hara-Yamamura, 2022",development
+2,20270832,"Hang, 2015",unseen_study_test
+2,20270832,"Jeong et al, 2024",development
+2,20270832,"Kim et al, 2025",development
+2,20270832,"Le et al, 2022",development
+2,20270832,"Li et al, 2021",development
+2,20270832,"Lipp et al, 2010",development
+2,20270832,"Liu Z et al, 2024",development
+2,20270832,"Liu Z et al, 2024 (2)",development
+2,20270832,"Liu et al, 2021",development
+2,20270832,"Liu et al, 2023",development
+2,20270832,"Lu et al, 2025",unseen_study_test
+2,20270832,"Luo et al, 2025",development
+2,20270832,"Luo, 2016",development
+2,20270832,"L√©niz-Pizarro, 2022",development
+2,20270832,"Ma J., 2022",development
+2,20270832,"Ma et al, 2024",unseen_study_test
+2,20270832,"Ma et al, 2024 (2)",development
+2,20270832,"Minhas et al, 2025",development
+2,20270832,"Pica, 2019",unseen_study_test
+2,20270832,"Pilevar et al, 2025",unseen_study_test
+2,20270832,"Pramanik, 2017",development
+2,20270832,"Qi et al, 2022",development
+2,20270832,"Rattanaoudom, 2011",development
+2,20270832,"Rychlewska, 2024",development
+2,20270832,"Safulko et al., 2023",development
+2,20270832,"Soriano, 2019",development
+2,20270832,"Steinle-Darling & Reinhard, 2008",unseen_study_test
+2,20270832,"Steinle-Darling et al, 2010",unseen_study_test
+2,20270832,"Tang, 2006",unseen_study_test
+2,20270832,"Tang, 2007",development
+2,20270832,"Toure, 2019",development
+2,20270832,"Turk et al, 2025",development
+2,20270832,"Wang et al, 2018",development
+2,20270832,"Wang et al, 2025",unseen_study_test
+2,20270832,"Wang et al, 2025 (2)",development
+2,20270832,"Wang, 2015",development
+2,20270832,"Wang, 2021",development
+2,20270832,"Wu Y, 2023",development
+2,20270832,"Yang et al, 2024",development
+2,20270832,"Yu, 2016",development
+2,20270832,"Zeng, 2017",development
+2,20270832,"Zhai et al, 2025",development
+2,20270832,"Zhang, 2024",development
+2,20270832,"Zhao, 2013",development
+2,20270832,"Zhao, 2016",development
+2,20270832,"Zhao, 2018",development
+2,20270832,"Zhao, 2020",development
+2,20270832,"Zhi et al, 2022",development
+2,20270832,"Zhi et al, 2025",development
+3,20270833,"Abdikheibari, 2022",development
+3,20270833,"Appleman et al, 2013",development
+3,20270833,"Bi et al, 2024",development
+3,20270833,"Boo, 2018",unseen_study_test
+3,20270833,"Boonya-atichart, 2017",unseen_study_test
+3,20270833,"Chen et al, 2023",development
+3,20270833,"Franke, 2019",development
+3,20270833,"Franke, 2021",unseen_study_test
+3,20270833,"Fujioka, 2024",development
+3,20270833,"Ge et al, 2025",development
+3,20270833,"Griffin, 2024",development
+3,20270833,"H. Hara-Yamamura, 2022",development
+3,20270833,"Hang, 2015",development
+3,20270833,"Jeong et al, 2024",unseen_study_test
+3,20270833,"Kim et al, 2025",development
+3,20270833,"Le et al, 2022",development
+3,20270833,"Li et al, 2021",development
+3,20270833,"Lipp et al, 2010",development
+3,20270833,"Liu Z et al, 2024",development
+3,20270833,"Liu Z et al, 2024 (2)",development
+3,20270833,"Liu et al, 2021",development
+3,20270833,"Liu et al, 2023",unseen_study_test
+3,20270833,"Lu et al, 2025",development
+3,20270833,"Luo et al, 2025",unseen_study_test
+3,20270833,"Luo, 2016",development
+3,20270833,"L√©niz-Pizarro, 2022",development
+3,20270833,"Ma J., 2022",unseen_study_test
+3,20270833,"Ma et al, 2024",development
+3,20270833,"Ma et al, 2024 (2)",development
+3,20270833,"Minhas et al, 2025",development
+3,20270833,"Pica, 2019",development
+3,20270833,"Pilevar et al, 2025",development
+3,20270833,"Pramanik, 2017",development
+3,20270833,"Qi et al, 2022",unseen_study_test
+3,20270833,"Rattanaoudom, 2011",development
+3,20270833,"Rychlewska, 2024",development
+3,20270833,"Safulko et al., 2023",development
+3,20270833,"Soriano, 2019",development
+3,20270833,"Steinle-Darling & Reinhard, 2008",unseen_study_test
+3,20270833,"Steinle-Darling et al, 2010",development
+3,20270833,"Tang, 2006",development
+3,20270833,"Tang, 2007",development
+3,20270833,"Toure, 2019",development
+3,20270833,"Turk et al, 2025",unseen_study_test
+3,20270833,"Wang et al, 2018",development
+3,20270833,"Wang et al, 2025",development
+3,20270833,"Wang et al, 2025 (2)",development
+3,20270833,"Wang, 2015",development
+3,20270833,"Wang, 2021",development
+3,20270833,"Wu Y, 2023",development
+3,20270833,"Yang et al, 2024",development
+3,20270833,"Yu, 2016",development
+3,20270833,"Zeng, 2017",development
+3,20270833,"Zhai et al, 2025",development
+3,20270833,"Zhang, 2024",development
+3,20270833,"Zhao, 2013",unseen_study_test
+3,20270833,"Zhao, 2016",development
+3,20270833,"Zhao, 2018",development
+3,20270833,"Zhao, 2020",unseen_study_test
+3,20270833,"Zhi et al, 2022",unseen_study_test
+3,20270833,"Zhi et al, 2025",development
+4,20270834,"Abdikheibari, 2022",unseen_study_test
+4,20270834,"Appleman et al, 2013",unseen_study_test
+4,20270834,"Bi et al, 2024",development
+4,20270834,"Boo, 2018",development
+4,20270834,"Boonya-atichart, 2017",development
+4,20270834,"Chen et al, 2023",development
+4,20270834,"Franke, 2019",development
+4,20270834,"Franke, 2021",development
+4,20270834,"Fujioka, 2024",development
+4,20270834,"Ge et al, 2025",development
+4,20270834,"Griffin, 2024",development
+4,20270834,"H. Hara-Yamamura, 2022",development
+4,20270834,"Hang, 2015",unseen_study_test
+4,20270834,"Jeong et al, 2024",development
+4,20270834,"Kim et al, 2025",development
+4,20270834,"Le et al, 2022",development
+4,20270834,"Li et al, 2021",unseen_study_test
+4,20270834,"Lipp et al, 2010",development
+4,20270834,"Liu Z et al, 2024",development
+4,20270834,"Liu Z et al, 2024 (2)",unseen_study_test
+4,20270834,"Liu et al, 2021",development
+4,20270834,"Liu et al, 2023",development
+4,20270834,"Lu et al, 2025",development
+4,20270834,"Luo et al, 2025",unseen_study_test
+4,20270834,"Luo, 2016",development
+4,20270834,"L√©niz-Pizarro, 2022",unseen_study_test
+4,20270834,"Ma J., 2022",development
+4,20270834,"Ma et al, 2024",development
+4,20270834,"Ma et al, 2024 (2)",development
+4,20270834,"Minhas et al, 2025",development
+4,20270834,"Pica, 2019",development
+4,20270834,"Pilevar et al, 2025",development
+4,20270834,"Pramanik, 2017",unseen_study_test
+4,20270834,"Qi et al, 2022",development
+4,20270834,"Rattanaoudom, 2011",development
+4,20270834,"Rychlewska, 2024",development
+4,20270834,"Safulko et al., 2023",development
+4,20270834,"Soriano, 2019",development
+4,20270834,"Steinle-Darling & Reinhard, 2008",development
+4,20270834,"Steinle-Darling et al, 2010",development
+4,20270834,"Tang, 2006",development
+4,20270834,"Tang, 2007",development
+4,20270834,"Toure, 2019",development
+4,20270834,"Turk et al, 2025",unseen_study_test
+4,20270834,"Wang et al, 2018",development
+4,20270834,"Wang et al, 2025",development
+4,20270834,"Wang et al, 2025 (2)",development
+4,20270834,"Wang, 2015",development
+4,20270834,"Wang, 2021",development
+4,20270834,"Wu Y, 2023",unseen_study_test
+4,20270834,"Yang et al, 2024",development
+4,20270834,"Yu, 2016",development
+4,20270834,"Zeng, 2017",development
+4,20270834,"Zhai et al, 2025",development
+4,20270834,"Zhang, 2024",development
+4,20270834,"Zhao, 2013",unseen_study_test
+4,20270834,"Zhao, 2016",development
+4,20270834,"Zhao, 2018",development
+4,20270834,"Zhao, 2020",development
+4,20270834,"Zhi et al, 2022",unseen_study_test
+4,20270834,"Zhi et al, 2025",unseen_study_test
+5,20270835,"Abdikheibari, 2022",development
+5,20270835,"Appleman et al, 2013",development
+5,20270835,"Bi et al, 2024",development
+5,20270835,"Boo, 2018",development
+5,20270835,"Boonya-atichart, 2017",unseen_study_test
+5,20270835,"Chen et al, 2023",development
+5,20270835,"Franke, 2019",development
+5,20270835,"Franke, 2021",development
+5,20270835,"Fujioka, 2024",development
+5,20270835,"Ge et al, 2025",development
+5,20270835,"Griffin, 2024",unseen_study_test
+5,20270835,"H. Hara-Yamamura, 2022",development
+5,20270835,"Hang, 2015",development
+5,20270835,"Jeong et al, 2024",development
+5,20270835,"Kim et al, 2025",development
+5,20270835,"Le et al, 2022",development
+5,20270835,"Li et al, 2021",development
+5,20270835,"Lipp et al, 2010",unseen_study_test
+5,20270835,"Liu Z et al, 2024",development
+5,20270835,"Liu Z et al, 2024 (2)",unseen_study_test
+5,20270835,"Liu et al, 2021",development
+5,20270835,"Liu et al, 2023",development
+5,20270835,"Lu et al, 2025",development
+5,20270835,"Luo et al, 2025",development
+5,20270835,"Luo, 2016",development
+5,20270835,"L√©niz-Pizarro, 2022",development
+5,20270835,"Ma J., 2022",development
+5,20270835,"Ma et al, 2024",unseen_study_test
+5,20270835,"Ma et al, 2024 (2)",development
+5,20270835,"Minhas et al, 2025",development
+5,20270835,"Pica, 2019",development
+5,20270835,"Pilevar et al, 2025",development
+5,20270835,"Pramanik, 2017",development
+5,20270835,"Qi et al, 2022",development
+5,20270835,"Rattanaoudom, 2011",unseen_study_test
+5,20270835,"Rychlewska, 2024",development
+5,20270835,"Safulko et al., 2023",development
+5,20270835,"Soriano, 2019",unseen_study_test
+5,20270835,"Steinle-Darling & Reinhard, 2008",development
+5,20270835,"Steinle-Darling et al, 2010",development
+5,20270835,"Tang, 2006",development
+5,20270835,"Tang, 2007",unseen_study_test
+5,20270835,"Toure, 2019",development
+5,20270835,"Turk et al, 2025",development
+5,20270835,"Wang et al, 2018",development
+5,20270835,"Wang et al, 2025",unseen_study_test
+5,20270835,"Wang et al, 2025 (2)",unseen_study_test
+5,20270835,"Wang, 2015",development
+5,20270835,"Wang, 2021",development
+5,20270835,"Wu Y, 2023",unseen_study_test
+5,20270835,"Yang et al, 2024",development
+5,20270835,"Yu, 2016",development
+5,20270835,"Zeng, 2017",unseen_study_test
+5,20270835,"Zhai et al, 2025",development
+5,20270835,"Zhang, 2024",development
+5,20270835,"Zhao, 2013",development
+5,20270835,"Zhao, 2016",unseen_study_test
+5,20270835,"Zhao, 2018",development
+5,20270835,"Zhao, 2020",development
+5,20270835,"Zhi et al, 2022",development
+5,20270835,"Zhi et al, 2025",development
+6,20270836,"Abdikheibari, 2022",development
+6,20270836,"Appleman et al, 2013",unseen_study_test
+6,20270836,"Bi et al, 2024",development
+6,20270836,"Boo, 2018",unseen_study_test
+6,20270836,"Boonya-atichart, 2017",development
+6,20270836,"Chen et al, 2023",development
+6,20270836,"Franke, 2019",development
+6,20270836,"Franke, 2021",development
+6,20270836,"Fujioka, 2024",development
+6,20270836,"Ge et al, 2025",development
+6,20270836,"Griffin, 2024",unseen_study_test
+6,20270836,"H. Hara-Yamamura, 2022",development
+6,20270836,"Hang, 2015",development
+6,20270836,"Jeong et al, 2024",unseen_study_test
+6,20270836,"Kim et al, 2025",development
+6,20270836,"Le et al, 2022",development
+6,20270836,"Li et al, 2021",unseen_study_test
+6,20270836,"Lipp et al, 2010",unseen_study_test
+6,20270836,"Liu Z et al, 2024",development
+6,20270836,"Liu Z et al, 2024 (2)",development
+6,20270836,"Liu et al, 2021",development
+6,20270836,"Liu et al, 2023",development
+6,20270836,"Lu et al, 2025",development
+6,20270836,"Luo et al, 2025",development
+6,20270836,"Luo, 2016",development
+6,20270836,"L√©niz-Pizarro, 2022",development
+6,20270836,"Ma J., 2022",development
+6,20270836,"Ma et al, 2024",development
+6,20270836,"Ma et al, 2024 (2)",development
+6,20270836,"Minhas et al, 2025",development
+6,20270836,"Pica, 2019",development
+6,20270836,"Pilevar et al, 2025",unseen_study_test
+6,20270836,"Pramanik, 2017",unseen_study_test
+6,20270836,"Qi et al, 2022",development
+6,20270836,"Rattanaoudom, 2011",development
+6,20270836,"Rychlewska, 2024",development
+6,20270836,"Safulko et al., 2023",development
+6,20270836,"Soriano, 2019",development
+6,20270836,"Steinle-Darling & Reinhard, 2008",development
+6,20270836,"Steinle-Darling et al, 2010",unseen_study_test
+6,20270836,"Tang, 2006",development
+6,20270836,"Tang, 2007",development
+6,20270836,"Toure, 2019",development
+6,20270836,"Turk et al, 2025",development
+6,20270836,"Wang et al, 2018",development
+6,20270836,"Wang et al, 2025",development
+6,20270836,"Wang et al, 2025 (2)",development
+6,20270836,"Wang, 2015",unseen_study_test
+6,20270836,"Wang, 2021",development
+6,20270836,"Wu Y, 2023",development
+6,20270836,"Yang et al, 2024",unseen_study_test
+6,20270836,"Yu, 2016",development
+6,20270836,"Zeng, 2017",development
+6,20270836,"Zhai et al, 2025",development
+6,20270836,"Zhang, 2024",development
+6,20270836,"Zhao, 2013",unseen_study_test
+6,20270836,"Zhao, 2016",development
+6,20270836,"Zhao, 2018",development
+6,20270836,"Zhao, 2020",development
+6,20270836,"Zhi et al, 2022",development
+6,20270836,"Zhi et al, 2025",unseen_study_test
+7,20270837,"Abdikheibari, 2022",development
+7,20270837,"Appleman et al, 2013",development
+7,20270837,"Bi et al, 2024",development
+7,20270837,"Boo, 2018",development
+7,20270837,"Boonya-atichart, 2017",unseen_study_test
+7,20270837,"Chen et al, 2023",development
+7,20270837,"Franke, 2019",development
+7,20270837,"Franke, 2021",unseen_study_test
+7,20270837,"Fujioka, 2024",development
+7,20270837,"Ge et al, 2025",development
+7,20270837,"Griffin, 2024",development
+7,20270837,"H. Hara-Yamamura, 2022",development
+7,20270837,"Hang, 2015",development
+7,20270837,"Jeong et al, 2024",development
+7,20270837,"Kim et al, 2025",unseen_study_test
+7,20270837,"Le et al, 2022",unseen_study_test
+7,20270837,"Li et al, 2021",development
+7,20270837,"Lipp et al, 2010",unseen_study_test
+7,20270837,"Liu Z et al, 2024",development
+7,20270837,"Liu Z et al, 2024 (2)",development
+7,20270837,"Liu et al, 2021",development
+7,20270837,"Liu et al, 2023",development
+7,20270837,"Lu et al, 2025",development
+7,20270837,"Luo et al, 2025",development
+7,20270837,"Luo, 2016",development
+7,20270837,"L√©niz-Pizarro, 2022",development
+7,20270837,"Ma J., 2022",development
+7,20270837,"Ma et al, 2024",development
+7,20270837,"Ma et al, 2024 (2)",development
+7,20270837,"Minhas et al, 2025",development
+7,20270837,"Pica, 2019",development
+7,20270837,"Pilevar et al, 2025",development
+7,20270837,"Pramanik, 2017",development
+7,20270837,"Qi et al, 2022",development
+7,20270837,"Rattanaoudom, 2011",development
+7,20270837,"Rychlewska, 2024",unseen_study_test
+7,20270837,"Safulko et al., 2023",development
+7,20270837,"Soriano, 2019",development
+7,20270837,"Steinle-Darling & Reinhard, 2008",development
+7,20270837,"Steinle-Darling et al, 2010",development
+7,20270837,"Tang, 2006",unseen_study_test
+7,20270837,"Tang, 2007",development
+7,20270837,"Toure, 2019",development
+7,20270837,"Turk et al, 2025",development
+7,20270837,"Wang et al, 2018",development
+7,20270837,"Wang et al, 2025",development
+7,20270837,"Wang et al, 2025 (2)",development
+7,20270837,"Wang, 2015",development
+7,20270837,"Wang, 2021",unseen_study_test
+7,20270837,"Wu Y, 2023",unseen_study_test
+7,20270837,"Yang et al, 2024",development
+7,20270837,"Yu, 2016",development
+7,20270837,"Zeng, 2017",unseen_study_test
+7,20270837,"Zhai et al, 2025",development
+7,20270837,"Zhang, 2024",development
+7,20270837,"Zhao, 2013",development
+7,20270837,"Zhao, 2016",development
+7,20270837,"Zhao, 2018",unseen_study_test
+7,20270837,"Zhao, 2020",unseen_study_test
+7,20270837,"Zhi et al, 2022",development
+7,20270837,"Zhi et al, 2025",unseen_study_test
+8,20270838,"Abdikheibari, 2022",development
+8,20270838,"Appleman et al, 2013",unseen_study_test
+8,20270838,"Bi et al, 2024",development
+8,20270838,"Boo, 2018",development
+8,20270838,"Boonya-atichart, 2017",development
+8,20270838,"Chen et al, 2023",unseen_study_test
+8,20270838,"Franke, 2019",development
+8,20270838,"Franke, 2021",development
+8,20270838,"Fujioka, 2024",development
+8,20270838,"Ge et al, 2025",unseen_study_test
+8,20270838,"Griffin, 2024",development
+8,20270838,"H. Hara-Yamamura, 2022",development
+8,20270838,"Hang, 2015",unseen_study_test
+8,20270838,"Jeong et al, 2024",development
+8,20270838,"Kim et al, 2025",unseen_study_test
+8,20270838,"Le et al, 2022",development
+8,20270838,"Li et al, 2021",unseen_study_test
+8,20270838,"Lipp et al, 2010",development
+8,20270838,"Liu Z et al, 2024",development
+8,20270838,"Liu Z et al, 2024 (2)",development
+8,20270838,"Liu et al, 2021",development
+8,20270838,"Liu et al, 2023",development
+8,20270838,"Lu et al, 2025",development
+8,20270838,"Luo et al, 2025",development
+8,20270838,"Luo, 2016",unseen_study_test
+8,20270838,"L√©niz-Pizarro, 2022",development
+8,20270838,"Ma J., 2022",development
+8,20270838,"Ma et al, 2024",development
+8,20270838,"Ma et al, 2024 (2)",development
+8,20270838,"Minhas et al, 2025",development
+8,20270838,"Pica, 2019",development
+8,20270838,"Pilevar et al, 2025",unseen_study_test
+8,20270838,"Pramanik, 2017",development
+8,20270838,"Qi et al, 2022",development
+8,20270838,"Rattanaoudom, 2011",unseen_study_test
+8,20270838,"Rychlewska, 2024",development
+8,20270838,"Safulko et al., 2023",development
+8,20270838,"Soriano, 2019",development
+8,20270838,"Steinle-Darling & Reinhard, 2008",development
+8,20270838,"Steinle-Darling et al, 2010",development
+8,20270838,"Tang, 2006",unseen_study_test
+8,20270838,"Tang, 2007",development
+8,20270838,"Toure, 2019",development
+8,20270838,"Turk et al, 2025",development
+8,20270838,"Wang et al, 2018",development
+8,20270838,"Wang et al, 2025",development
+8,20270838,"Wang et al, 2025 (2)",development
+8,20270838,"Wang, 2015",unseen_study_test
+8,20270838,"Wang, 2021",development
+8,20270838,"Wu Y, 2023",development
+8,20270838,"Yang et al, 2024",unseen_study_test
+8,20270838,"Yu, 2016",development
+8,20270838,"Zeng, 2017",development
+8,20270838,"Zhai et al, 2025",development
+8,20270838,"Zhang, 2024",development
+8,20270838,"Zhao, 2013",development
+8,20270838,"Zhao, 2016",development
+8,20270838,"Zhao, 2018",development
+8,20270838,"Zhao, 2020",development
+8,20270838,"Zhi et al, 2022",development
+8,20270838,"Zhi et al, 2025",unseen_study_test
+9,20270839,"Abdikheibari, 2022",development
+9,20270839,"Appleman et al, 2013",development
+9,20270839,"Bi et al, 2024",unseen_study_test
+9,20270839,"Boo, 2018",development
+9,20270839,"Boonya-atichart, 2017",development
+9,20270839,"Chen et al, 2023",development
+9,20270839,"Franke, 2019",unseen_study_test
+9,20270839,"Franke, 2021",development
+9,20270839,"Fujioka, 2024",development
+9,20270839,"Ge et al, 2025",unseen_study_test
+9,20270839,"Griffin, 2024",unseen_study_test
+9,20270839,"H. Hara-Yamamura, 2022",development
+9,20270839,"Hang, 2015",unseen_study_test
+9,20270839,"Jeong et al, 2024",unseen_study_test
+9,20270839,"Kim et al, 2025",development
+9,20270839,"Le et al, 2022",development
+9,20270839,"Li et al, 2021",development
+9,20270839,"Lipp et al, 2010",development
+9,20270839,"Liu Z et al, 2024",development
+9,20270839,"Liu Z et al, 2024 (2)",development
+9,20270839,"Liu et al, 2021",unseen_study_test
+9,20270839,"Liu et al, 2023",unseen_study_test
+9,20270839,"Lu et al, 2025",development
+9,20270839,"Luo et al, 2025",development
+9,20270839,"Luo, 2016",development
+9,20270839,"L√©niz-Pizarro, 2022",development
+9,20270839,"Ma J., 2022",unseen_study_test
+9,20270839,"Ma et al, 2024",development
+9,20270839,"Ma et al, 2024 (2)",development
+9,20270839,"Minhas et al, 2025",development
+9,20270839,"Pica, 2019",development
+9,20270839,"Pilevar et al, 2025",unseen_study_test
+9,20270839,"Pramanik, 2017",development
+9,20270839,"Qi et al, 2022",development
+9,20270839,"Rattanaoudom, 2011",development
+9,20270839,"Rychlewska, 2024",unseen_study_test
+9,20270839,"Safulko et al., 2023",development
+9,20270839,"Soriano, 2019",development
+9,20270839,"Steinle-Darling & Reinhard, 2008",development
+9,20270839,"Steinle-Darling et al, 2010",development
+9,20270839,"Tang, 2006",unseen_study_test
+9,20270839,"Tang, 2007",development
+9,20270839,"Toure, 2019",development
+9,20270839,"Turk et al, 2025",development
+9,20270839,"Wang et al, 2018",development
+9,20270839,"Wang et al, 2025",development
+9,20270839,"Wang et al, 2025 (2)",development
+9,20270839,"Wang, 2015",development
+9,20270839,"Wang, 2021",development
+9,20270839,"Wu Y, 2023",development
+9,20270839,"Yang et al, 2024",development
+9,20270839,"Yu, 2016",development
+9,20270839,"Zeng, 2017",development
+9,20270839,"Zhai et al, 2025",development
+9,20270839,"Zhang, 2024",development
+9,20270839,"Zhao, 2013",development
+9,20270839,"Zhao, 2016",unseen_study_test
+9,20270839,"Zhao, 2018",development
+9,20270839,"Zhao, 2020",development
+9,20270839,"Zhi et al, 2022",development
+9,20270839,"Zhi et al, 2025",development
+10,20270840,"Abdikheibari, 2022",development
+10,20270840,"Appleman et al, 2013",development
+10,20270840,"Bi et al, 2024",unseen_study_test
+10,20270840,"Boo, 2018",development
+10,20270840,"Boonya-atichart, 2017",development
+10,20270840,"Chen et al, 2023",development
+10,20270840,"Franke, 2019",development
+10,20270840,"Franke, 2021",unseen_study_test
+10,20270840,"Fujioka, 2024",development
+10,20270840,"Ge et al, 2025",development
+10,20270840,"Griffin, 2024",development
+10,20270840,"H. Hara-Yamamura, 2022",development
+10,20270840,"Hang, 2015",development
+10,20270840,"Jeong et al, 2024",development
+10,20270840,"Kim et al, 2025",development
+10,20270840,"Le et al, 2022",development
+10,20270840,"Li et al, 2021",development
+10,20270840,"Lipp et al, 2010",unseen_study_test
+10,20270840,"Liu Z et al, 2024",development
+10,20270840,"Liu Z et al, 2024 (2)",development
+10,20270840,"Liu et al, 2021",development
+10,20270840,"Liu et al, 2023",unseen_study_test
+10,20270840,"Lu et al, 2025",development
+10,20270840,"Luo et al, 2025",unseen_study_test
+10,20270840,"Luo, 2016",unseen_study_test
+10,20270840,"L√©niz-Pizarro, 2022",development
+10,20270840,"Ma J., 2022",development
+10,20270840,"Ma et al, 2024",unseen_study_test
+10,20270840,"Ma et al, 2024 (2)",development
+10,20270840,"Minhas et al, 2025",development
+10,20270840,"Pica, 2019",development
+10,20270840,"Pilevar et al, 2025",unseen_study_test
+10,20270840,"Pramanik, 2017",development
+10,20270840,"Qi et al, 2022",development
+10,20270840,"Rattanaoudom, 2011",development
+10,20270840,"Rychlewska, 2024",development
+10,20270840,"Safulko et al., 2023",development
+10,20270840,"Soriano, 2019",unseen_study_test
+10,20270840,"Steinle-Darling & Reinhard, 2008",development
+10,20270840,"Steinle-Darling et al, 2010",development
+10,20270840,"Tang, 2006",development
+10,20270840,"Tang, 2007",unseen_study_test
+10,20270840,"Toure, 2019",development
+10,20270840,"Turk et al, 2025",unseen_study_test
+10,20270840,"Wang et al, 2018",development
+10,20270840,"Wang et al, 2025",development
+10,20270840,"Wang et al, 2025 (2)",development
+10,20270840,"Wang, 2015",development
+10,20270840,"Wang, 2021",development
+10,20270840,"Wu Y, 2023",development
+10,20270840,"Yang et al, 2024",development
+10,20270840,"Yu, 2016",development
+10,20270840,"Zeng, 2017",development
+10,20270840,"Zhai et al, 2025",unseen_study_test
+10,20270840,"Zhang, 2024",development
+10,20270840,"Zhao, 2013",development
+10,20270840,"Zhao, 2016",development
+10,20270840,"Zhao, 2018",development
+10,20270840,"Zhao, 2020",unseen_study_test
+10,20270840,"Zhi et al, 2022",development
+10,20270840,"Zhi et al, 2025",development
+11,20270841,"Abdikheibari, 2022",development
+11,20270841,"Appleman et al, 2013",unseen_study_test
+11,20270841,"Bi et al, 2024",unseen_study_test
+11,20270841,"Boo, 2018",development
+11,20270841,"Boonya-atichart, 2017",unseen_study_test
+11,20270841,"Chen et al, 2023",development
+11,20270841,"Franke, 2019",development
+11,20270841,"Franke, 2021",development
+11,20270841,"Fujioka, 2024",development
+11,20270841,"Ge et al, 2025",development
+11,20270841,"Griffin, 2024",development
+11,20270841,"H. Hara-Yamamura, 2022",development
+11,20270841,"Hang, 2015",development
+11,20270841,"Jeong et al, 2024",development
+11,20270841,"Kim et al, 2025",development
+11,20270841,"Le et al, 2022",development
+11,20270841,"Li et al, 2021",development
+11,20270841,"Lipp et al, 2010",development
+11,20270841,"Liu Z et al, 2024",development
+11,20270841,"Liu Z et al, 2024 (2)",unseen_study_test
+11,20270841,"Liu et al, 2021",development
+11,20270841,"Liu et al, 2023",unseen_study_test
+11,20270841,"Lu et al, 2025",development
+11,20270841,"Luo et al, 2025",development
+11,20270841,"Luo, 2016",development
+11,20270841,"L√©niz-Pizarro, 2022",development
+11,20270841,"Ma J., 2022",development
+11,20270841,"Ma et al, 2024",development
+11,20270841,"Ma et al, 2024 (2)",unseen_study_test
+11,20270841,"Minhas et al, 2025",development
+11,20270841,"Pica, 2019",unseen_study_test
+11,20270841,"Pilevar et al, 2025",development
+11,20270841,"Pramanik, 2017",development
+11,20270841,"Qi et al, 2022",unseen_study_test
+11,20270841,"Rattanaoudom, 2011",unseen_study_test
+11,20270841,"Rychlewska, 2024",development
+11,20270841,"Safulko et al., 2023",unseen_study_test
+11,20270841,"Soriano, 2019",development
+11,20270841,"Steinle-Darling & Reinhard, 2008",development
+11,20270841,"Steinle-Darling et al, 2010",development
+11,20270841,"Tang, 2006",development
+11,20270841,"Tang, 2007",development
+11,20270841,"Toure, 2019",development
+11,20270841,"Turk et al, 2025",development
+11,20270841,"Wang et al, 2018",unseen_study_test
+11,20270841,"Wang et al, 2025",development
+11,20270841,"Wang et al, 2025 (2)",development
+11,20270841,"Wang, 2015",development
+11,20270841,"Wang, 2021",development
+11,20270841,"Wu Y, 2023",development
+11,20270841,"Yang et al, 2024",unseen_study_test
+11,20270841,"Yu, 2016",development
+11,20270841,"Zeng, 2017",development
+11,20270841,"Zhai et al, 2025",unseen_study_test
+11,20270841,"Zhang, 2024",development
+11,20270841,"Zhao, 2013",development
+11,20270841,"Zhao, 2016",development
+11,20270841,"Zhao, 2018",development
+11,20270841,"Zhao, 2020",development
+11,20270841,"Zhi et al, 2022",development
+11,20270841,"Zhi et al, 2025",development
+12,20270842,"Abdikheibari, 2022",unseen_study_test
+12,20270842,"Appleman et al, 2013",development
+12,20270842,"Bi et al, 2024",unseen_study_test
+12,20270842,"Boo, 2018",development
+12,20270842,"Boonya-atichart, 2017",development
+12,20270842,"Chen et al, 2023",development
+12,20270842,"Franke, 2019",development
+12,20270842,"Franke, 2021",development
+12,20270842,"Fujioka, 2024",development
+12,20270842,"Ge et al, 2025",development
+12,20270842,"Griffin, 2024",development
+12,20270842,"H. Hara-Yamamura, 2022",unseen_study_test
+12,20270842,"Hang, 2015",development
+12,20270842,"Jeong et al, 2024",development
+12,20270842,"Kim et al, 2025",development
+12,20270842,"Le et al, 2022",development
+12,20270842,"Li et al, 2021",development
+12,20270842,"Lipp et al, 2010",development
+12,20270842,"Liu Z et al, 2024",unseen_study_test
+12,20270842,"Liu Z et al, 2024 (2)",development
+12,20270842,"Liu et al, 2021",development
+12,20270842,"Liu et al, 2023",development
+12,20270842,"Lu et al, 2025",development
+12,20270842,"Luo et al, 2025",development
+12,20270842,"Luo, 2016",development
+12,20270842,"L√©niz-Pizarro, 2022",development
+12,20270842,"Ma J., 2022",development
+12,20270842,"Ma et al, 2024",development
+12,20270842,"Ma et al, 2024 (2)",development
+12,20270842,"Minhas et al, 2025",unseen_study_test
+12,20270842,"Pica, 2019",development
+12,20270842,"Pilevar et al, 2025",development
+12,20270842,"Pramanik, 2017",development
+12,20270842,"Qi et al, 2022",unseen_study_test
+12,20270842,"Rattanaoudom, 2011",unseen_study_test
+12,20270842,"Rychlewska, 2024",development
+12,20270842,"Safulko et al., 2023",development
+12,20270842,"Soriano, 2019",development
+12,20270842,"Steinle-Darling & Reinhard, 2008",unseen_study_test
+12,20270842,"Steinle-Darling et al, 2010",development
+12,20270842,"Tang, 2006",development
+12,20270842,"Tang, 2007",development
+12,20270842,"Toure, 2019",development
+12,20270842,"Turk et al, 2025",unseen_study_test
+12,20270842,"Wang et al, 2018",development
+12,20270842,"Wang et al, 2025",development
+12,20270842,"Wang et al, 2025 (2)",development
+12,20270842,"Wang, 2015",development
+12,20270842,"Wang, 2021",unseen_study_test
+12,20270842,"Wu Y, 2023",development
+12,20270842,"Yang et al, 2024",unseen_study_test
+12,20270842,"Yu, 2016",development
+12,20270842,"Zeng, 2017",development
+12,20270842,"Zhai et al, 2025",unseen_study_test
+12,20270842,"Zhang, 2024",unseen_study_test
+12,20270842,"Zhao, 2013",development
+12,20270842,"Zhao, 2016",development
+12,20270842,"Zhao, 2018",development
+12,20270842,"Zhao, 2020",development
+12,20270842,"Zhi et al, 2022",development
+12,20270842,"Zhi et al, 2025",development
+13,20270843,"Abdikheibari, 2022",unseen_study_test
+13,20270843,"Appleman et al, 2013",development
+13,20270843,"Bi et al, 2024",development
+13,20270843,"Boo, 2018",unseen_study_test
+13,20270843,"Boonya-atichart, 2017",development
+13,20270843,"Chen et al, 2023",unseen_study_test
+13,20270843,"Franke, 2019",development
+13,20270843,"Franke, 2021",development
+13,20270843,"Fujioka, 2024",development
+13,20270843,"Ge et al, 2025",unseen_study_test
+13,20270843,"Griffin, 2024",unseen_study_test
+13,20270843,"H. Hara-Yamamura, 2022",development
+13,20270843,"Hang, 2015",unseen_study_test
+13,20270843,"Jeong et al, 2024",development
+13,20270843,"Kim et al, 2025",development
+13,20270843,"Le et al, 2022",unseen_study_test
+13,20270843,"Li et al, 2021",development
+13,20270843,"Lipp et al, 2010",development
+13,20270843,"Liu Z et al, 2024",development
+13,20270843,"Liu Z et al, 2024 (2)",development
+13,20270843,"Liu et al, 2021",unseen_study_test
+13,20270843,"Liu et al, 2023",development
+13,20270843,"Lu et al, 2025",development
+13,20270843,"Luo et al, 2025",development
+13,20270843,"Luo, 2016",development
+13,20270843,"L√©niz-Pizarro, 2022",development
+13,20270843,"Ma J., 2022",development
+13,20270843,"Ma et al, 2024",development
+13,20270843,"Ma et al, 2024 (2)",development
+13,20270843,"Minhas et al, 2025",development
+13,20270843,"Pica, 2019",unseen_study_test
+13,20270843,"Pilevar et al, 2025",unseen_study_test
+13,20270843,"Pramanik, 2017",development
+13,20270843,"Qi et al, 2022",development
+13,20270843,"Rattanaoudom, 2011",development
+13,20270843,"Rychlewska, 2024",development
+13,20270843,"Safulko et al., 2023",development
+13,20270843,"Soriano, 2019",development
+13,20270843,"Steinle-Darling & Reinhard, 2008",development
+13,20270843,"Steinle-Darling et al, 2010",unseen_study_test
+13,20270843,"Tang, 2006",development
+13,20270843,"Tang, 2007",development
+13,20270843,"Toure, 2019",development
+13,20270843,"Turk et al, 2025",development
+13,20270843,"Wang et al, 2018",development
+13,20270843,"Wang et al, 2025",development
+13,20270843,"Wang et al, 2025 (2)",development
+13,20270843,"Wang, 2015",development
+13,20270843,"Wang, 2021",development
+13,20270843,"Wu Y, 2023",development
+13,20270843,"Yang et al, 2024",development
+13,20270843,"Yu, 2016",development
+13,20270843,"Zeng, 2017",development
+13,20270843,"Zhai et al, 2025",unseen_study_test
+13,20270843,"Zhang, 2024",development
+13,20270843,"Zhao, 2013",development
+13,20270843,"Zhao, 2016",development
+13,20270843,"Zhao, 2018",unseen_study_test
+13,20270843,"Zhao, 2020",development
+13,20270843,"Zhi et al, 2022",development
+13,20270843,"Zhi et al, 2025",development
+14,20270844,"Abdikheibari, 2022",development
+14,20270844,"Appleman et al, 2013",development
+14,20270844,"Bi et al, 2024",development
+14,20270844,"Boo, 2018",development
+14,20270844,"Boonya-atichart, 2017",development
+14,20270844,"Chen et al, 2023",development
+14,20270844,"Franke, 2019",development
+14,20270844,"Franke, 2021",development
+14,20270844,"Fujioka, 2024",unseen_study_test
+14,20270844,"Ge et al, 2025",unseen_study_test
+14,20270844,"Griffin, 2024",unseen_study_test
+14,20270844,"H. Hara-Yamamura, 2022",development
+14,20270844,"Hang, 2015",development
+14,20270844,"Jeong et al, 2024",development
+14,20270844,"Kim et al, 2025",development
+14,20270844,"Le et al, 2022",development
+14,20270844,"Li et al, 2021",development
+14,20270844,"Lipp et al, 2010",development
+14,20270844,"Liu Z et al, 2024",development
+14,20270844,"Liu Z et al, 2024 (2)",development
+14,20270844,"Liu et al, 2021",unseen_study_test
+14,20270844,"Liu et al, 2023",development
+14,20270844,"Lu et al, 2025",development
+14,20270844,"Luo et al, 2025",development
+14,20270844,"Luo, 2016",development
+14,20270844,"L√©niz-Pizarro, 2022",development
+14,20270844,"Ma J., 2022",development
+14,20270844,"Ma et al, 2024",unseen_study_test
+14,20270844,"Ma et al, 2024 (2)",unseen_study_test
+14,20270844,"Minhas et al, 2025",development
+14,20270844,"Pica, 2019",development
+14,20270844,"Pilevar et al, 2025",development
+14,20270844,"Pramanik, 2017",unseen_study_test
+14,20270844,"Qi et al, 2022",development
+14,20270844,"Rattanaoudom, 2011",development
+14,20270844,"Rychlewska, 2024",development
+14,20270844,"Safulko et al., 2023",development
+14,20270844,"Soriano, 2019",development
+14,20270844,"Steinle-Darling & Reinhard, 2008",development
+14,20270844,"Steinle-Darling et al, 2010",unseen_study_test
+14,20270844,"Tang, 2006",development
+14,20270844,"Tang, 2007",development
+14,20270844,"Toure, 2019",development
+14,20270844,"Turk et al, 2025",development
+14,20270844,"Wang et al, 2018",development
+14,20270844,"Wang et al, 2025",unseen_study_test
+14,20270844,"Wang et al, 2025 (2)",development
+14,20270844,"Wang, 2015",unseen_study_test
+14,20270844,"Wang, 2021",unseen_study_test
+14,20270844,"Wu Y, 2023",development
+14,20270844,"Yang et al, 2024",development
+14,20270844,"Yu, 2016",unseen_study_test
+14,20270844,"Zeng, 2017",development
+14,20270844,"Zhai et al, 2025",development
+14,20270844,"Zhang, 2024",development
+14,20270844,"Zhao, 2013",unseen_study_test
+14,20270844,"Zhao, 2016",development
+14,20270844,"Zhao, 2018",development
+14,20270844,"Zhao, 2020",development
+14,20270844,"Zhi et al, 2022",development
+14,20270844,"Zhi et al, 2025",development
+15,20270845,"Abdikheibari, 2022",development
+15,20270845,"Appleman et al, 2013",unseen_study_test
+15,20270845,"Bi et al, 2024",development
+15,20270845,"Boo, 2018",development
+15,20270845,"Boonya-atichart, 2017",development
+15,20270845,"Chen et al, 2023",unseen_study_test
+15,20270845,"Franke, 2019",development
+15,20270845,"Franke, 2021",development
+15,20270845,"Fujioka, 2024",development
+15,20270845,"Ge et al, 2025",development
+15,20270845,"Griffin, 2024",unseen_study_test
+15,20270845,"H. Hara-Yamamura, 2022",development
+15,20270845,"Hang, 2015",development
+15,20270845,"Jeong et al, 2024",development
+15,20270845,"Kim et al, 2025",development
+15,20270845,"Le et al, 2022",development
+15,20270845,"Li et al, 2021",development
+15,20270845,"Lipp et al, 2010",development
+15,20270845,"Liu Z et al, 2024",development
+15,20270845,"Liu Z et al, 2024 (2)",development
+15,20270845,"Liu et al, 2021",development
+15,20270845,"Liu et al, 2023",unseen_study_test
+15,20270845,"Lu et al, 2025",development
+15,20270845,"Luo et al, 2025",development
+15,20270845,"Luo, 2016",development
+15,20270845,"L√©niz-Pizarro, 2022",unseen_study_test
+15,20270845,"Ma J., 2022",development
+15,20270845,"Ma et al, 2024",development
+15,20270845,"Ma et al, 2024 (2)",unseen_study_test
+15,20270845,"Minhas et al, 2025",unseen_study_test
+15,20270845,"Pica, 2019",development
+15,20270845,"Pilevar et al, 2025",unseen_study_test
+15,20270845,"Pramanik, 2017",unseen_study_test
+15,20270845,"Qi et al, 2022",development
+15,20270845,"Rattanaoudom, 2011",development
+15,20270845,"Rychlewska, 2024",development
+15,20270845,"Safulko et al., 2023",development
+15,20270845,"Soriano, 2019",unseen_study_test
+15,20270845,"Steinle-Darling & Reinhard, 2008",development
+15,20270845,"Steinle-Darling et al, 2010",development
+15,20270845,"Tang, 2006",development
+15,20270845,"Tang, 2007",development
+15,20270845,"Toure, 2019",unseen_study_test
+15,20270845,"Turk et al, 2025",development
+15,20270845,"Wang et al, 2018",development
+15,20270845,"Wang et al, 2025",development
+15,20270845,"Wang et al, 2025 (2)",development
+15,20270845,"Wang, 2015",unseen_study_test
+15,20270845,"Wang, 2021",development
+15,20270845,"Wu Y, 2023",development
+15,20270845,"Yang et al, 2024",development
+15,20270845,"Yu, 2016",development
+15,20270845,"Zeng, 2017",unseen_study_test
+15,20270845,"Zhai et al, 2025",development
+15,20270845,"Zhang, 2024",development
+15,20270845,"Zhao, 2013",development
+15,20270845,"Zhao, 2016",development
+15,20270845,"Zhao, 2018",development
+15,20270845,"Zhao, 2020",development
+15,20270845,"Zhi et al, 2022",development
+15,20270845,"Zhi et al, 2025",development
+16,20270846,"Abdikheibari, 2022",development
+16,20270846,"Appleman et al, 2013",unseen_study_test
+16,20270846,"Bi et al, 2024",development
+16,20270846,"Boo, 2018",development
+16,20270846,"Boonya-atichart, 2017",development
+16,20270846,"Chen et al, 2023",development
+16,20270846,"Franke, 2019",unseen_study_test
+16,20270846,"Franke, 2021",development
+16,20270846,"Fujioka, 2024",development
+16,20270846,"Ge et al, 2025",development
+16,20270846,"Griffin, 2024",development
+16,20270846,"H. Hara-Yamamura, 2022",development
+16,20270846,"Hang, 2015",development
+16,20270846,"Jeong et al, 2024",development
+16,20270846,"Kim et al, 2025",unseen_study_test
+16,20270846,"Le et al, 2022",development
+16,20270846,"Li et al, 2021",development
+16,20270846,"Lipp et al, 2010",unseen_study_test
+16,20270846,"Liu Z et al, 2024",development
+16,20270846,"Liu Z et al, 2024 (2)",unseen_study_test
+16,20270846,"Liu et al, 2021",development
+16,20270846,"Liu et al, 2023",development
+16,20270846,"Lu et al, 2025",development
+16,20270846,"Luo et al, 2025",unseen_study_test
+16,20270846,"Luo, 2016",development
+16,20270846,"L√©niz-Pizarro, 2022",unseen_study_test
+16,20270846,"Ma J., 2022",development
+16,20270846,"Ma et al, 2024",development
+16,20270846,"Ma et al, 2024 (2)",development
+16,20270846,"Minhas et al, 2025",development
+16,20270846,"Pica, 2019",development
+16,20270846,"Pilevar et al, 2025",unseen_study_test
+16,20270846,"Pramanik, 2017",unseen_study_test
+16,20270846,"Qi et al, 2022",unseen_study_test
+16,20270846,"Rattanaoudom, 2011",development
+16,20270846,"Rychlewska, 2024",development
+16,20270846,"Safulko et al., 2023",development
+16,20270846,"Soriano, 2019",development
+16,20270846,"Steinle-Darling & Reinhard, 2008",development
+16,20270846,"Steinle-Darling et al, 2010",development
+16,20270846,"Tang, 2006",development
+16,20270846,"Tang, 2007",development
+16,20270846,"Toure, 2019",development
+16,20270846,"Turk et al, 2025",development
+16,20270846,"Wang et al, 2018",development
+16,20270846,"Wang et al, 2025",development
+16,20270846,"Wang et al, 2025 (2)",development
+16,20270846,"Wang, 2015",development
+16,20270846,"Wang, 2021",development
+16,20270846,"Wu Y, 2023",unseen_study_test
+16,20270846,"Yang et al, 2024",development
+16,20270846,"Yu, 2016",development
+16,20270846,"Zeng, 2017",development
+16,20270846,"Zhai et al, 2025",development
+16,20270846,"Zhang, 2024",development
+16,20270846,"Zhao, 2013",unseen_study_test
+16,20270846,"Zhao, 2016",development
+16,20270846,"Zhao, 2018",development
+16,20270846,"Zhao, 2020",unseen_study_test
+16,20270846,"Zhi et al, 2022",development
+16,20270846,"Zhi et al, 2025",development
+17,20270847,"Abdikheibari, 2022",development
+17,20270847,"Appleman et al, 2013",development
+17,20270847,"Bi et al, 2024",development
+17,20270847,"Boo, 2018",development
+17,20270847,"Boonya-atichart, 2017",development
+17,20270847,"Chen et al, 2023",development
+17,20270847,"Franke, 2019",development
+17,20270847,"Franke, 2021",development
+17,20270847,"Fujioka, 2024",unseen_study_test
+17,20270847,"Ge et al, 2025",development
+17,20270847,"Griffin, 2024",unseen_study_test
+17,20270847,"H. Hara-Yamamura, 2022",development
+17,20270847,"Hang, 2015",development
+17,20270847,"Jeong et al, 2024",development
+17,20270847,"Kim et al, 2025",development
+17,20270847,"Le et al, 2022",development
+17,20270847,"Li et al, 2021",unseen_study_test
+17,20270847,"Lipp et al, 2010",development
+17,20270847,"Liu Z et al, 2024",development
+17,20270847,"Liu Z et al, 2024 (2)",development
+17,20270847,"Liu et al, 2021",development
+17,20270847,"Liu et al, 2023",unseen_study_test
+17,20270847,"Lu et al, 2025",development
+17,20270847,"Luo et al, 2025",development
+17,20270847,"Luo, 2016",development
+17,20270847,"L√©niz-Pizarro, 2022",development
+17,20270847,"Ma J., 2022",unseen_study_test
+17,20270847,"Ma et al, 2024",development
+17,20270847,"Ma et al, 2024 (2)",unseen_study_test
+17,20270847,"Minhas et al, 2025",development
+17,20270847,"Pica, 2019",development
+17,20270847,"Pilevar et al, 2025",unseen_study_test
+17,20270847,"Pramanik, 2017",development
+17,20270847,"Qi et al, 2022",development
+17,20270847,"Rattanaoudom, 2011",development
+17,20270847,"Rychlewska, 2024",development
+17,20270847,"Safulko et al., 2023",development
+17,20270847,"Soriano, 2019",unseen_study_test
+17,20270847,"Steinle-Darling & Reinhard, 2008",development
+17,20270847,"Steinle-Darling et al, 2010",development
+17,20270847,"Tang, 2006",development
+17,20270847,"Tang, 2007",unseen_study_test
+17,20270847,"Toure, 2019",development
+17,20270847,"Turk et al, 2025",unseen_study_test
+17,20270847,"Wang et al, 2018",development
+17,20270847,"Wang et al, 2025",development
+17,20270847,"Wang et al, 2025 (2)",unseen_study_test
+17,20270847,"Wang, 2015",development
+17,20270847,"Wang, 2021",development
+17,20270847,"Wu Y, 2023",development
+17,20270847,"Yang et al, 2024",development
+17,20270847,"Yu, 2016",development
+17,20270847,"Zeng, 2017",unseen_study_test
+17,20270847,"Zhai et al, 2025",development
+17,20270847,"Zhang, 2024",development
+17,20270847,"Zhao, 2013",development
+17,20270847,"Zhao, 2016",development
+17,20270847,"Zhao, 2018",unseen_study_test
+17,20270847,"Zhao, 2020",development
+17,20270847,"Zhi et al, 2022",development
+17,20270847,"Zhi et al, 2025",development
+18,20270848,"Abdikheibari, 2022",unseen_study_test
+18,20270848,"Appleman et al, 2013",development
+18,20270848,"Bi et al, 2024",development
+18,20270848,"Boo, 2018",development
+18,20270848,"Boonya-atichart, 2017",development
+18,20270848,"Chen et al, 2023",unseen_study_test
+18,20270848,"Franke, 2019",development
+18,20270848,"Franke, 2021",unseen_study_test
+18,20270848,"Fujioka, 2024",unseen_study_test
+18,20270848,"Ge et al, 2025",development
+18,20270848,"Griffin, 2024",development
+18,20270848,"H. Hara-Yamamura, 2022",unseen_study_test
+18,20270848,"Hang, 2015",development
+18,20270848,"Jeong et al, 2024",unseen_study_test
+18,20270848,"Kim et al, 2025",development
+18,20270848,"Le et al, 2022",development
+18,20270848,"Li et al, 2021",development
+18,20270848,"Lipp et al, 2010",development
+18,20270848,"Liu Z et al, 2024",development
+18,20270848,"Liu Z et al, 2024 (2)",unseen_study_test
+18,20270848,"Liu et al, 2021",development
+18,20270848,"Liu et al, 2023",development
+18,20270848,"Lu et al, 2025",development
+18,20270848,"Luo et al, 2025",development
+18,20270848,"Luo, 2016",development
+18,20270848,"L√©niz-Pizarro, 2022",development
+18,20270848,"Ma J., 2022",development
+18,20270848,"Ma et al, 2024",development
+18,20270848,"Ma et al, 2024 (2)",development
+18,20270848,"Minhas et al, 2025",development
+18,20270848,"Pica, 2019",unseen_study_test
+18,20270848,"Pilevar et al, 2025",development
+18,20270848,"Pramanik, 2017",development
+18,20270848,"Qi et al, 2022",development
+18,20270848,"Rattanaoudom, 2011",development
+18,20270848,"Rychlewska, 2024",development
+18,20270848,"Safulko et al., 2023",development
+18,20270848,"Soriano, 2019",unseen_study_test
+18,20270848,"Steinle-Darling & Reinhard, 2008",development
+18,20270848,"Steinle-Darling et al, 2010",unseen_study_test
+18,20270848,"Tang, 2006",development
+18,20270848,"Tang, 2007",development
+18,20270848,"Toure, 2019",development
+18,20270848,"Turk et al, 2025",development
+18,20270848,"Wang et al, 2018",unseen_study_test
+18,20270848,"Wang et al, 2025",development
+18,20270848,"Wang et al, 2025 (2)",development
+18,20270848,"Wang, 2015",development
+18,20270848,"Wang, 2021",development
+18,20270848,"Wu Y, 2023",development
+18,20270848,"Yang et al, 2024",development
+18,20270848,"Yu, 2016",development
+18,20270848,"Zeng, 2017",development
+18,20270848,"Zhai et al, 2025",unseen_study_test
+18,20270848,"Zhang, 2024",unseen_study_test
+18,20270848,"Zhao, 2013",development
+18,20270848,"Zhao, 2016",development
+18,20270848,"Zhao, 2018",development
+18,20270848,"Zhao, 2020",development
+18,20270848,"Zhi et al, 2022",development
+18,20270848,"Zhi et al, 2025",development
+19,20270849,"Abdikheibari, 2022",unseen_study_test
+19,20270849,"Appleman et al, 2013",development
+19,20270849,"Bi et al, 2024",unseen_study_test
+19,20270849,"Boo, 2018",development
+19,20270849,"Boonya-atichart, 2017",development
+19,20270849,"Chen et al, 2023",development
+19,20270849,"Franke, 2019",development
+19,20270849,"Franke, 2021",unseen_study_test
+19,20270849,"Fujioka, 2024",development
+19,20270849,"Ge et al, 2025",development
+19,20270849,"Griffin, 2024",development
+19,20270849,"H. Hara-Yamamura, 2022",development
+19,20270849,"Hang, 2015",development
+19,20270849,"Jeong et al, 2024",development
+19,20270849,"Kim et al, 2025",development
+19,20270849,"Le et al, 2022",unseen_study_test
+19,20270849,"Li et al, 2021",development
+19,20270849,"Lipp et al, 2010",development
+19,20270849,"Liu Z et al, 2024",development
+19,20270849,"Liu Z et al, 2024 (2)",development
+19,20270849,"Liu et al, 2021",development
+19,20270849,"Liu et al, 2023",development
+19,20270849,"Lu et al, 2025",development
+19,20270849,"Luo et al, 2025",development
+19,20270849,"Luo, 2016",development
+19,20270849,"L√©niz-Pizarro, 2022",development
+19,20270849,"Ma J., 2022",development
+19,20270849,"Ma et al, 2024",development
+19,20270849,"Ma et al, 2024 (2)",unseen_study_test
+19,20270849,"Minhas et al, 2025",development
+19,20270849,"Pica, 2019",development
+19,20270849,"Pilevar et al, 2025",unseen_study_test
+19,20270849,"Pramanik, 2017",development
+19,20270849,"Qi et al, 2022",development
+19,20270849,"Rattanaoudom, 2011",development
+19,20270849,"Rychlewska, 2024",development
+19,20270849,"Safulko et al., 2023",development
+19,20270849,"Soriano, 2019",development
+19,20270849,"Steinle-Darling & Reinhard, 2008",development
+19,20270849,"Steinle-Darling et al, 2010",development
+19,20270849,"Tang, 2006",unseen_study_test
+19,20270849,"Tang, 2007",development
+19,20270849,"Toure, 2019",development
+19,20270849,"Turk et al, 2025",unseen_study_test
+19,20270849,"Wang et al, 2018",unseen_study_test
+19,20270849,"Wang et al, 2025",development
+19,20270849,"Wang et al, 2025 (2)",development
+19,20270849,"Wang, 2015",unseen_study_test
+19,20270849,"Wang, 2021",development
+19,20270849,"Wu Y, 2023",unseen_study_test
+19,20270849,"Yang et al, 2024",development
+19,20270849,"Yu, 2016",development
+19,20270849,"Zeng, 2017",development
+19,20270849,"Zhai et al, 2025",development
+19,20270849,"Zhang, 2024",development
+19,20270849,"Zhao, 2013",development
+19,20270849,"Zhao, 2016",development
+19,20270849,"Zhao, 2018",unseen_study_test
+19,20270849,"Zhao, 2020",development
+19,20270849,"Zhi et al, 2022",unseen_study_test
+19,20270849,"Zhi et al, 2025",development
+20,20270850,"Abdikheibari, 2022",development
+20,20270850,"Appleman et al, 2013",unseen_study_test
+20,20270850,"Bi et al, 2024",development
+20,20270850,"Boo, 2018",development
+20,20270850,"Boonya-atichart, 2017",unseen_study_test
+20,20270850,"Chen et al, 2023",unseen_study_test
+20,20270850,"Franke, 2019",development
+20,20270850,"Franke, 2021",development
+20,20270850,"Fujioka, 2024",development
+20,20270850,"Ge et al, 2025",development
+20,20270850,"Griffin, 2024",development
+20,20270850,"H. Hara-Yamamura, 2022",development
+20,20270850,"Hang, 2015",development
+20,20270850,"Jeong et al, 2024",unseen_study_test
+20,20270850,"Kim et al, 2025",development
+20,20270850,"Le et al, 2022",development
+20,20270850,"Li et al, 2021",development
+20,20270850,"Lipp et al, 2010",development
+20,20270850,"Liu Z et al, 2024",unseen_study_test
+20,20270850,"Liu Z et al, 2024 (2)",development
+20,20270850,"Liu et al, 2021",development
+20,20270850,"Liu et al, 2023",development
+20,20270850,"Lu et al, 2025",unseen_study_test
+20,20270850,"Luo et al, 2025",development
+20,20270850,"Luo, 2016",development
+20,20270850,"L√©niz-Pizarro, 2022",development
+20,20270850,"Ma J., 2022",development
+20,20270850,"Ma et al, 2024",development
+20,20270850,"Ma et al, 2024 (2)",development
+20,20270850,"Minhas et al, 2025",unseen_study_test
+20,20270850,"Pica, 2019",development
+20,20270850,"Pilevar et al, 2025",development
+20,20270850,"Pramanik, 2017",development
+20,20270850,"Qi et al, 2022",development
+20,20270850,"Rattanaoudom, 2011",development
+20,20270850,"Rychlewska, 2024",unseen_study_test
+20,20270850,"Safulko et al., 2023",development
+20,20270850,"Soriano, 2019",development
+20,20270850,"Steinle-Darling & Reinhard, 2008",development
+20,20270850,"Steinle-Darling et al, 2010",unseen_study_test
+20,20270850,"Tang, 2006",development
+20,20270850,"Tang, 2007",development
+20,20270850,"Toure, 2019",development
+20,20270850,"Turk et al, 2025",development
+20,20270850,"Wang et al, 2018",development
+20,20270850,"Wang et al, 2025",development
+20,20270850,"Wang et al, 2025 (2)",unseen_study_test
+20,20270850,"Wang, 2015",unseen_study_test
+20,20270850,"Wang, 2021",development
+20,20270850,"Wu Y, 2023",development
+20,20270850,"Yang et al, 2024",development
+20,20270850,"Yu, 2016",development
+20,20270850,"Zeng, 2017",unseen_study_test
+20,20270850,"Zhai et al, 2025",development
+20,20270850,"Zhang, 2024",development
+20,20270850,"Zhao, 2013",development
+20,20270850,"Zhao, 2016",development
+20,20270850,"Zhao, 2018",development
+20,20270850,"Zhao, 2020",development
+20,20270850,"Zhi et al, 2022",development
+20,20270850,"Zhi et al, 2025",unseen_study_test
+21,20270851,"Abdikheibari, 2022",development
+21,20270851,"Appleman et al, 2013",development
+21,20270851,"Bi et al, 2024",unseen_study_test
+21,20270851,"Boo, 2018",development
+21,20270851,"Boonya-atichart, 2017",development
+21,20270851,"Chen et al, 2023",development
+21,20270851,"Franke, 2019",unseen_study_test
+21,20270851,"Franke, 2021",development
+21,20270851,"Fujioka, 2024",development
+21,20270851,"Ge et al, 2025",development
+21,20270851,"Griffin, 2024",unseen_study_test
+21,20270851,"H. Hara-Yamamura, 2022",development
+21,20270851,"Hang, 2015",development
+21,20270851,"Jeong et al, 2024",development
+21,20270851,"Kim et al, 2025",development
+21,20270851,"Le et al, 2022",unseen_study_test
+21,20270851,"Li et al, 2021",unseen_study_test
+21,20270851,"Lipp et al, 2010",development
+21,20270851,"Liu Z et al, 2024",development
+21,20270851,"Liu Z et al, 2024 (2)",development
+21,20270851,"Liu et al, 2021",development
+21,20270851,"Liu et al, 2023",development
+21,20270851,"Lu et al, 2025",development
+21,20270851,"Luo et al, 2025",development
+21,20270851,"Luo, 2016",development
+21,20270851,"L√©niz-Pizarro, 2022",development
+21,20270851,"Ma J., 2022",development
+21,20270851,"Ma et al, 2024",development
+21,20270851,"Ma et al, 2024 (2)",development
+21,20270851,"Minhas et al, 2025",development
+21,20270851,"Pica, 2019",development
+21,20270851,"Pilevar et al, 2025",development
+21,20270851,"Pramanik, 2017",development
+21,20270851,"Qi et al, 2022",development
+21,20270851,"Rattanaoudom, 2011",unseen_study_test
+21,20270851,"Rychlewska, 2024",development
+21,20270851,"Safulko et al., 2023",development
+21,20270851,"Soriano, 2019",development
+21,20270851,"Steinle-Darling & Reinhard, 2008",unseen_study_test
+21,20270851,"Steinle-Darling et al, 2010",unseen_study_test
+21,20270851,"Tang, 2006",development
+21,20270851,"Tang, 2007",development
+21,20270851,"Toure, 2019",development
+21,20270851,"Turk et al, 2025",unseen_study_test
+21,20270851,"Wang et al, 2018",development
+21,20270851,"Wang et al, 2025",development
+21,20270851,"Wang et al, 2025 (2)",development
+21,20270851,"Wang, 2015",unseen_study_test
+21,20270851,"Wang, 2021",development
+21,20270851,"Wu Y, 2023",development
+21,20270851,"Yang et al, 2024",development
+21,20270851,"Yu, 2016",unseen_study_test
+21,20270851,"Zeng, 2017",unseen_study_test
+21,20270851,"Zhai et al, 2025",development
+21,20270851,"Zhang, 2024",development
+21,20270851,"Zhao, 2013",development
+21,20270851,"Zhao, 2016",unseen_study_test
+21,20270851,"Zhao, 2018",development
+21,20270851,"Zhao, 2020",development
+21,20270851,"Zhi et al, 2022",development
+21,20270851,"Zhi et al, 2025",development
+22,20270852,"Abdikheibari, 2022",unseen_study_test
+22,20270852,"Appleman et al, 2013",unseen_study_test
+22,20270852,"Bi et al, 2024",development
+22,20270852,"Boo, 2018",development
+22,20270852,"Boonya-atichart, 2017",development
+22,20270852,"Chen et al, 2023",development
+22,20270852,"Franke, 2019",development
+22,20270852,"Franke, 2021",unseen_study_test
+22,20270852,"Fujioka, 2024",development
+22,20270852,"Ge et al, 2025",development
+22,20270852,"Griffin, 2024",development
+22,20270852,"H. Hara-Yamamura, 2022",development
+22,20270852,"Hang, 2015",development
+22,20270852,"Jeong et al, 2024",development
+22,20270852,"Kim et al, 2025",development
+22,20270852,"Le et al, 2022",development
+22,20270852,"Li et al, 2021",development
+22,20270852,"Lipp et al, 2010",development
+22,20270852,"Liu Z et al, 2024",development
+22,20270852,"Liu Z et al, 2024 (2)",unseen_study_test
+22,20270852,"Liu et al, 2021",development
+22,20270852,"Liu et al, 2023",development
+22,20270852,"Lu et al, 2025",development
+22,20270852,"Luo et al, 2025",development
+22,20270852,"Luo, 2016",unseen_study_test
+22,20270852,"L√©niz-Pizarro, 2022",development
+22,20270852,"Ma J., 2022",development
+22,20270852,"Ma et al, 2024",unseen_study_test
+22,20270852,"Ma et al, 2024 (2)",development
+22,20270852,"Minhas et al, 2025",unseen_study_test
+22,20270852,"Pica, 2019",development
+22,20270852,"Pilevar et al, 2025",development
+22,20270852,"Pramanik, 2017",development
+22,20270852,"Qi et al, 2022",unseen_study_test
+22,20270852,"Rattanaoudom, 2011",development
+22,20270852,"Rychlewska, 2024",unseen_study_test
+22,20270852,"Safulko et al., 2023",development
+22,20270852,"Soriano, 2019",development
+22,20270852,"Steinle-Darling & Reinhard, 2008",development
+22,20270852,"Steinle-Darling et al, 2010",development
+22,20270852,"Tang, 2006",development
+22,20270852,"Tang, 2007",development
+22,20270852,"Toure, 2019",development
+22,20270852,"Turk et al, 2025",development
+22,20270852,"Wang et al, 2018",development
+22,20270852,"Wang et al, 2025",development
+22,20270852,"Wang et al, 2025 (2)",development
+22,20270852,"Wang, 2015",development
+22,20270852,"Wang, 2021",development
+22,20270852,"Wu Y, 2023",development
+22,20270852,"Yang et al, 2024",development
+22,20270852,"Yu, 2016",development
+22,20270852,"Zeng, 2017",unseen_study_test
+22,20270852,"Zhai et al, 2025",development
+22,20270852,"Zhang, 2024",development
+22,20270852,"Zhao, 2013",development
+22,20270852,"Zhao, 2016",development
+22,20270852,"Zhao, 2018",development
+22,20270852,"Zhao, 2020",unseen_study_test
+22,20270852,"Zhi et al, 2022",unseen_study_test
+22,20270852,"Zhi et al, 2025",unseen_study_test
+23,20270853,"Abdikheibari, 2022",unseen_study_test
+23,20270853,"Appleman et al, 2013",development
+23,20270853,"Bi et al, 2024",development
+23,20270853,"Boo, 2018",development
+23,20270853,"Boonya-atichart, 2017",development
+23,20270853,"Chen et al, 2023",development
+23,20270853,"Franke, 2019",development
+23,20270853,"Franke, 2021",development
+23,20270853,"Fujioka, 2024",development
+23,20270853,"Ge et al, 2025",development
+23,20270853,"Griffin, 2024",development
+23,20270853,"H. Hara-Yamamura, 2022",unseen_study_test
+23,20270853,"Hang, 2015",development
+23,20270853,"Jeong et al, 2024",unseen_study_test
+23,20270853,"Kim et al, 2025",development
+23,20270853,"Le et al, 2022",development
+23,20270853,"Li et al, 2021",development
+23,20270853,"Lipp et al, 2010",development
+23,20270853,"Liu Z et al, 2024",development
+23,20270853,"Liu Z et al, 2024 (2)",unseen_study_test
+23,20270853,"Liu et al, 2021",development
+23,20270853,"Liu et al, 2023",development
+23,20270853,"Lu et al, 2025",development
+23,20270853,"Luo et al, 2025",development
+23,20270853,"Luo, 2016",development
+23,20270853,"L√©niz-Pizarro, 2022",development
+23,20270853,"Ma J., 2022",development
+23,20270853,"Ma et al, 2024",unseen_study_test
+23,20270853,"Ma et al, 2024 (2)",development
+23,20270853,"Minhas et al, 2025",development
+23,20270853,"Pica, 2019",development
+23,20270853,"Pilevar et al, 2025",development
+23,20270853,"Pramanik, 2017",unseen_study_test
+23,20270853,"Qi et al, 2022",unseen_study_test
+23,20270853,"Rattanaoudom, 2011",development
+23,20270853,"Rychlewska, 2024",development
+23,20270853,"Safulko et al., 2023",development
+23,20270853,"Soriano, 2019",unseen_study_test
+23,20270853,"Steinle-Darling & Reinhard, 2008",development
+23,20270853,"Steinle-Darling et al, 2010",development
+23,20270853,"Tang, 2006",development
+23,20270853,"Tang, 2007",unseen_study_test
+23,20270853,"Toure, 2019",unseen_study_test
+23,20270853,"Turk et al, 2025",development
+23,20270853,"Wang et al, 2018",unseen_study_test
+23,20270853,"Wang et al, 2025",development
+23,20270853,"Wang et al, 2025 (2)",development
+23,20270853,"Wang, 2015",unseen_study_test
+23,20270853,"Wang, 2021",development
+23,20270853,"Wu Y, 2023",development
+23,20270853,"Yang et al, 2024",development
+23,20270853,"Yu, 2016",development
+23,20270853,"Zeng, 2017",development
+23,20270853,"Zhai et al, 2025",development
+23,20270853,"Zhang, 2024",development
+23,20270853,"Zhao, 2013",unseen_study_test
+23,20270853,"Zhao, 2016",development
+23,20270853,"Zhao, 2018",development
+23,20270853,"Zhao, 2020",development
+23,20270853,"Zhi et al, 2022",development
+23,20270853,"Zhi et al, 2025",development
+24,20270854,"Abdikheibari, 2022",unseen_study_test
+24,20270854,"Appleman et al, 2013",development
+24,20270854,"Bi et al, 2024",development
+24,20270854,"Boo, 2018",development
+24,20270854,"Boonya-atichart, 2017",development
+24,20270854,"Chen et al, 2023",development
+24,20270854,"Franke, 2019",development
+24,20270854,"Franke, 2021",development
+24,20270854,"Fujioka, 2024",development
+24,20270854,"Ge et al, 2025",development
+24,20270854,"Griffin, 2024",development
+24,20270854,"H. Hara-Yamamura, 2022",development
+24,20270854,"Hang, 2015",unseen_study_test
+24,20270854,"Jeong et al, 2024",unseen_study_test
+24,20270854,"Kim et al, 2025",development
+24,20270854,"Le et al, 2022",development
+24,20270854,"Li et al, 2021",development
+24,20270854,"Lipp et al, 2010",development
+24,20270854,"Liu Z et al, 2024",development
+24,20270854,"Liu Z et al, 2024 (2)",development
+24,20270854,"Liu et al, 2021",development
+24,20270854,"Liu et al, 2023",unseen_study_test
+24,20270854,"Lu et al, 2025",development
+24,20270854,"Luo et al, 2025",development
+24,20270854,"Luo, 2016",unseen_study_test
+24,20270854,"L√©niz-Pizarro, 2022",development
+24,20270854,"Ma J., 2022",development
+24,20270854,"Ma et al, 2024",development
+24,20270854,"Ma et al, 2024 (2)",development
+24,20270854,"Minhas et al, 2025",development
+24,20270854,"Pica, 2019",development
+24,20270854,"Pilevar et al, 2025",development
+24,20270854,"Pramanik, 2017",unseen_study_test
+24,20270854,"Qi et al, 2022",development
+24,20270854,"Rattanaoudom, 2011",development
+24,20270854,"Rychlewska, 2024",unseen_study_test
+24,20270854,"Safulko et al., 2023",development
+24,20270854,"Soriano, 2019",unseen_study_test
+24,20270854,"Steinle-Darling & Reinhard, 2008",development
+24,20270854,"Steinle-Darling et al, 2010",development
+24,20270854,"Tang, 2006",development
+24,20270854,"Tang, 2007",development
+24,20270854,"Toure, 2019",unseen_study_test
+24,20270854,"Turk et al, 2025",development
+24,20270854,"Wang et al, 2018",development
+24,20270854,"Wang et al, 2025",development
+24,20270854,"Wang et al, 2025 (2)",development
+24,20270854,"Wang, 2015",unseen_study_test
+24,20270854,"Wang, 2021",development
+24,20270854,"Wu Y, 2023",unseen_study_test
+24,20270854,"Yang et al, 2024",unseen_study_test
+24,20270854,"Yu, 2016",development
+24,20270854,"Zeng, 2017",development
+24,20270854,"Zhai et al, 2025",development
+24,20270854,"Zhang, 2024",development
+24,20270854,"Zhao, 2013",development
+24,20270854,"Zhao, 2016",development
+24,20270854,"Zhao, 2018",development
+24,20270854,"Zhao, 2020",development
+24,20270854,"Zhi et al, 2022",unseen_study_test
+24,20270854,"Zhi et al, 2025",development
+25,20270855,"Abdikheibari, 2022",unseen_study_test
+25,20270855,"Appleman et al, 2013",development
+25,20270855,"Bi et al, 2024",development
+25,20270855,"Boo, 2018",development
+25,20270855,"Boonya-atichart, 2017",development
+25,20270855,"Chen et al, 2023",development
+25,20270855,"Franke, 2019",unseen_study_test
+25,20270855,"Franke, 2021",unseen_study_test
+25,20270855,"Fujioka, 2024",development
+25,20270855,"Ge et al, 2025",development
+25,20270855,"Griffin, 2024",unseen_study_test
+25,20270855,"H. Hara-Yamamura, 2022",development
+25,20270855,"Hang, 2015",development
+25,20270855,"Jeong et al, 2024",development
+25,20270855,"Kim et al, 2025",development
+25,20270855,"Le et al, 2022",development
+25,20270855,"Li et al, 2021",unseen_study_test
+25,20270855,"Lipp et al, 2010",development
+25,20270855,"Liu Z et al, 2024",development
+25,20270855,"Liu Z et al, 2024 (2)",development
+25,20270855,"Liu et al, 2021",development
+25,20270855,"Liu et al, 2023",development
+25,20270855,"Lu et al, 2025",development
+25,20270855,"Luo et al, 2025",development
+25,20270855,"Luo, 2016",development
+25,20270855,"L√©niz-Pizarro, 2022",development
+25,20270855,"Ma J., 2022",development
+25,20270855,"Ma et al, 2024",unseen_study_test
+25,20270855,"Ma et al, 2024 (2)",development
+25,20270855,"Minhas et al, 2025",development
+25,20270855,"Pica, 2019",development
+25,20270855,"Pilevar et al, 2025",development
+25,20270855,"Pramanik, 2017",development
+25,20270855,"Qi et al, 2022",development
+25,20270855,"Rattanaoudom, 2011",unseen_study_test
+25,20270855,"Rychlewska, 2024",development
+25,20270855,"Safulko et al., 2023",development
+25,20270855,"Soriano, 2019",unseen_study_test
+25,20270855,"Steinle-Darling & Reinhard, 2008",development
+25,20270855,"Steinle-Darling et al, 2010",development
+25,20270855,"Tang, 2006",development
+25,20270855,"Tang, 2007",development
+25,20270855,"Toure, 2019",development
+25,20270855,"Turk et al, 2025",development
+25,20270855,"Wang et al, 2018",development
+25,20270855,"Wang et al, 2025",development
+25,20270855,"Wang et al, 2025 (2)",development
+25,20270855,"Wang, 2015",unseen_study_test
+25,20270855,"Wang, 2021",development
+25,20270855,"Wu Y, 2023",unseen_study_test
+25,20270855,"Yang et al, 2024",unseen_study_test
+25,20270855,"Yu, 2016",unseen_study_test
+25,20270855,"Zeng, 2017",development
+25,20270855,"Zhai et al, 2025",development
+25,20270855,"Zhang, 2024",development
+25,20270855,"Zhao, 2013",development
+25,20270855,"Zhao, 2016",development
+25,20270855,"Zhao, 2018",unseen_study_test
+25,20270855,"Zhao, 2020",development
+25,20270855,"Zhi et al, 2022",development
+25,20270855,"Zhi et al, 2025",development
+26,20270856,"Abdikheibari, 2022",unseen_study_test
+26,20270856,"Appleman et al, 2013",unseen_study_test
+26,20270856,"Bi et al, 2024",development
+26,20270856,"Boo, 2018",development
+26,20270856,"Boonya-atichart, 2017",development
+26,20270856,"Chen et al, 2023",development
+26,20270856,"Franke, 2019",development
+26,20270856,"Franke, 2021",development
+26,20270856,"Fujioka, 2024",unseen_study_test
+26,20270856,"Ge et al, 2025",development
+26,20270856,"Griffin, 2024",development
+26,20270856,"H. Hara-Yamamura, 2022",unseen_study_test
+26,20270856,"Hang, 2015",development
+26,20270856,"Jeong et al, 2024",development
+26,20270856,"Kim et al, 2025",development
+26,20270856,"Le et al, 2022",unseen_study_test
+26,20270856,"Li et al, 2021",development
+26,20270856,"Lipp et al, 2010",unseen_study_test
+26,20270856,"Liu Z et al, 2024",development
+26,20270856,"Liu Z et al, 2024 (2)",development
+26,20270856,"Liu et al, 2021",development
+26,20270856,"Liu et al, 2023",development
+26,20270856,"Lu et al, 2025",development
+26,20270856,"Luo et al, 2025",development
+26,20270856,"Luo, 2016",development
+26,20270856,"L√©niz-Pizarro, 2022",development
+26,20270856,"Ma J., 2022",development
+26,20270856,"Ma et al, 2024",development
+26,20270856,"Ma et al, 2024 (2)",development
+26,20270856,"Minhas et al, 2025",development
+26,20270856,"Pica, 2019",development
+26,20270856,"Pilevar et al, 2025",development
+26,20270856,"Pramanik, 2017",unseen_study_test
+26,20270856,"Qi et al, 2022",development
+26,20270856,"Rattanaoudom, 2011",development
+26,20270856,"Rychlewska, 2024",development
+26,20270856,"Safulko et al., 2023",development
+26,20270856,"Soriano, 2019",development
+26,20270856,"Steinle-Darling & Reinhard, 2008",development
+26,20270856,"Steinle-Darling et al, 2010",development
+26,20270856,"Tang, 2006",development
+26,20270856,"Tang, 2007",development
+26,20270856,"Toure, 2019",development
+26,20270856,"Turk et al, 2025",unseen_study_test
+26,20270856,"Wang et al, 2018",development
+26,20270856,"Wang et al, 2025",development
+26,20270856,"Wang et al, 2025 (2)",unseen_study_test
+26,20270856,"Wang, 2015",development
+26,20270856,"Wang, 2021",development
+26,20270856,"Wu Y, 2023",development
+26,20270856,"Yang et al, 2024",unseen_study_test
+26,20270856,"Yu, 2016",development
+26,20270856,"Zeng, 2017",unseen_study_test
+26,20270856,"Zhai et al, 2025",development
+26,20270856,"Zhang, 2024",development
+26,20270856,"Zhao, 2013",development
+26,20270856,"Zhao, 2016",development
+26,20270856,"Zhao, 2018",unseen_study_test
+26,20270856,"Zhao, 2020",unseen_study_test
+26,20270856,"Zhi et al, 2022",development
+26,20270856,"Zhi et al, 2025",development
+27,20270857,"Abdikheibari, 2022",unseen_study_test
+27,20270857,"Appleman et al, 2013",development
+27,20270857,"Bi et al, 2024",development
+27,20270857,"Boo, 2018",development
+27,20270857,"Boonya-atichart, 2017",development
+27,20270857,"Chen et al, 2023",unseen_study_test
+27,20270857,"Franke, 2019",development
+27,20270857,"Franke, 2021",development
+27,20270857,"Fujioka, 2024",development
+27,20270857,"Ge et al, 2025",development
+27,20270857,"Griffin, 2024",unseen_study_test
+27,20270857,"H. Hara-Yamamura, 2022",development
+27,20270857,"Hang, 2015",development
+27,20270857,"Jeong et al, 2024",development
+27,20270857,"Kim et al, 2025",development
+27,20270857,"Le et al, 2022",development
+27,20270857,"Li et al, 2021",development
+27,20270857,"Lipp et al, 2010",development
+27,20270857,"Liu Z et al, 2024",development
+27,20270857,"Liu Z et al, 2024 (2)",unseen_study_test
+27,20270857,"Liu et al, 2021",unseen_study_test
+27,20270857,"Liu et al, 2023",unseen_study_test
+27,20270857,"Lu et al, 2025",development
+27,20270857,"Luo et al, 2025",development
+27,20270857,"Luo, 2016",development
+27,20270857,"L√©niz-Pizarro, 2022",unseen_study_test
+27,20270857,"Ma J., 2022",development
+27,20270857,"Ma et al, 2024",development
+27,20270857,"Ma et al, 2024 (2)",unseen_study_test
+27,20270857,"Minhas et al, 2025",development
+27,20270857,"Pica, 2019",development
+27,20270857,"Pilevar et al, 2025",development
+27,20270857,"Pramanik, 2017",unseen_study_test
+27,20270857,"Qi et al, 2022",development
+27,20270857,"Rattanaoudom, 2011",development
+27,20270857,"Rychlewska, 2024",development
+27,20270857,"Safulko et al., 2023",development
+27,20270857,"Soriano, 2019",development
+27,20270857,"Steinle-Darling & Reinhard, 2008",development
+27,20270857,"Steinle-Darling et al, 2010",development
+27,20270857,"Tang, 2006",development
+27,20270857,"Tang, 2007",development
+27,20270857,"Toure, 2019",development
+27,20270857,"Turk et al, 2025",development
+27,20270857,"Wang et al, 2018",development
+27,20270857,"Wang et al, 2025",unseen_study_test
+27,20270857,"Wang et al, 2025 (2)",development
+27,20270857,"Wang, 2015",development
+27,20270857,"Wang, 2021",development
+27,20270857,"Wu Y, 2023",development
+27,20270857,"Yang et al, 2024",development
+27,20270857,"Yu, 2016",unseen_study_test
+27,20270857,"Zeng, 2017",unseen_study_test
+27,20270857,"Zhai et al, 2025",development
+27,20270857,"Zhang, 2024",unseen_study_test
+27,20270857,"Zhao, 2013",development
+27,20270857,"Zhao, 2016",development
+27,20270857,"Zhao, 2018",development
+27,20270857,"Zhao, 2020",development
+27,20270857,"Zhi et al, 2022",development
+27,20270857,"Zhi et al, 2025",development
+28,20270858,"Abdikheibari, 2022",development
+28,20270858,"Appleman et al, 2013",development
+28,20270858,"Bi et al, 2024",development
+28,20270858,"Boo, 2018",development
+28,20270858,"Boonya-atichart, 2017",development
+28,20270858,"Chen et al, 2023",development
+28,20270858,"Franke, 2019",development
+28,20270858,"Franke, 2021",development
+28,20270858,"Fujioka, 2024",development
+28,20270858,"Ge et al, 2025",unseen_study_test
+28,20270858,"Griffin, 2024",unseen_study_test
+28,20270858,"H. Hara-Yamamura, 2022",development
+28,20270858,"Hang, 2015",development
+28,20270858,"Jeong et al, 2024",unseen_study_test
+28,20270858,"Kim et al, 2025",development
+28,20270858,"Le et al, 2022",development
+28,20270858,"Li et al, 2021",unseen_study_test
+28,20270858,"Lipp et al, 2010",development
+28,20270858,"Liu Z et al, 2024",development
+28,20270858,"Liu Z et al, 2024 (2)",development
+28,20270858,"Liu et al, 2021",unseen_study_test
+28,20270858,"Liu et al, 2023",development
+28,20270858,"Lu et al, 2025",development
+28,20270858,"Luo et al, 2025",development
+28,20270858,"Luo, 2016",development
+28,20270858,"L√©niz-Pizarro, 2022",development
+28,20270858,"Ma J., 2022",development
+28,20270858,"Ma et al, 2024",development
+28,20270858,"Ma et al, 2024 (2)",development
+28,20270858,"Minhas et al, 2025",development
+28,20270858,"Pica, 2019",development
+28,20270858,"Pilevar et al, 2025",development
+28,20270858,"Pramanik, 2017",development
+28,20270858,"Qi et al, 2022",development
+28,20270858,"Rattanaoudom, 2011",development
+28,20270858,"Rychlewska, 2024",unseen_study_test
+28,20270858,"Safulko et al., 2023",development
+28,20270858,"Soriano, 2019",unseen_study_test
+28,20270858,"Steinle-Darling & Reinhard, 2008",development
+28,20270858,"Steinle-Darling et al, 2010",development
+28,20270858,"Tang, 2006",development
+28,20270858,"Tang, 2007",development
+28,20270858,"Toure, 2019",development
+28,20270858,"Turk et al, 2025",unseen_study_test
+28,20270858,"Wang et al, 2018",development
+28,20270858,"Wang et al, 2025",development
+28,20270858,"Wang et al, 2025 (2)",development
+28,20270858,"Wang, 2015",development
+28,20270858,"Wang, 2021",development
+28,20270858,"Wu Y, 2023",unseen_study_test
+28,20270858,"Yang et al, 2024",development
+28,20270858,"Yu, 2016",unseen_study_test
+28,20270858,"Zeng, 2017",development
+28,20270858,"Zhai et al, 2025",unseen_study_test
+28,20270858,"Zhang, 2024",unseen_study_test
+28,20270858,"Zhao, 2013",development
+28,20270858,"Zhao, 2016",development
+28,20270858,"Zhao, 2018",unseen_study_test
+28,20270858,"Zhao, 2020",development
+28,20270858,"Zhi et al, 2022",development
+28,20270858,"Zhi et al, 2025",development
+29,20270859,"Abdikheibari, 2022",development
+29,20270859,"Appleman et al, 2013",unseen_study_test
+29,20270859,"Bi et al, 2024",development
+29,20270859,"Boo, 2018",development
+29,20270859,"Boonya-atichart, 2017",development
+29,20270859,"Chen et al, 2023",development
+29,20270859,"Franke, 2019",unseen_study_test
+29,20270859,"Franke, 2021",development
+29,20270859,"Fujioka, 2024",development
+29,20270859,"Ge et al, 2025",unseen_study_test
+29,20270859,"Griffin, 2024",development
+29,20270859,"H. Hara-Yamamura, 2022",development
+29,20270859,"Hang, 2015",development
+29,20270859,"Jeong et al, 2024",unseen_study_test
+29,20270859,"Kim et al, 2025",development
+29,20270859,"Le et al, 2022",development
+29,20270859,"Li et al, 2021",development
+29,20270859,"Lipp et al, 2010",development
+29,20270859,"Liu Z et al, 2024",development
+29,20270859,"Liu Z et al, 2024 (2)",development
+29,20270859,"Liu et al, 2021",development
+29,20270859,"Liu et al, 2023",unseen_study_test
+29,20270859,"Lu et al, 2025",unseen_study_test
+29,20270859,"Luo et al, 2025",development
+29,20270859,"Luo, 2016",unseen_study_test
+29,20270859,"L√©niz-Pizarro, 2022",development
+29,20270859,"Ma J., 2022",development
+29,20270859,"Ma et al, 2024",development
+29,20270859,"Ma et al, 2024 (2)",unseen_study_test
+29,20270859,"Minhas et al, 2025",development
+29,20270859,"Pica, 2019",development
+29,20270859,"Pilevar et al, 2025",development
+29,20270859,"Pramanik, 2017",unseen_study_test
+29,20270859,"Qi et al, 2022",development
+29,20270859,"Rattanaoudom, 2011",development
+29,20270859,"Rychlewska, 2024",development
+29,20270859,"Safulko et al., 2023",development
+29,20270859,"Soriano, 2019",development
+29,20270859,"Steinle-Darling & Reinhard, 2008",development
+29,20270859,"Steinle-Darling et al, 2010",unseen_study_test
+29,20270859,"Tang, 2006",development
+29,20270859,"Tang, 2007",development
+29,20270859,"Toure, 2019",development
+29,20270859,"Turk et al, 2025",unseen_study_test
+29,20270859,"Wang et al, 2018",development
+29,20270859,"Wang et al, 2025",development
+29,20270859,"Wang et al, 2025 (2)",development
+29,20270859,"Wang, 2015",development
+29,20270859,"Wang, 2021",development
+29,20270859,"Wu Y, 2023",development
+29,20270859,"Yang et al, 2024",development
+29,20270859,"Yu, 2016",development
+29,20270859,"Zeng, 2017",unseen_study_test
+29,20270859,"Zhai et al, 2025",development
+29,20270859,"Zhang, 2024",development
+29,20270859,"Zhao, 2013",development
+29,20270859,"Zhao, 2016",development
+29,20270859,"Zhao, 2018",development
+29,20270859,"Zhao, 2020",development
+29,20270859,"Zhi et al, 2022",development
+29,20270859,"Zhi et al, 2025",unseen_study_test
+30,20270860,"Abdikheibari, 2022",development
+30,20270860,"Appleman et al, 2013",development
+30,20270860,"Bi et al, 2024",development
+30,20270860,"Boo, 2018",development
+30,20270860,"Boonya-atichart, 2017",development
+30,20270860,"Chen et al, 2023",development
+30,20270860,"Franke, 2019",development
+30,20270860,"Franke, 2021",development
+30,20270860,"Fujioka, 2024",development
+30,20270860,"Ge et al, 2025",development
+30,20270860,"Griffin, 2024",development
+30,20270860,"H. Hara-Yamamura, 2022",development
+30,20270860,"Hang, 2015",development
+30,20270860,"Jeong et al, 2024",development
+30,20270860,"Kim et al, 2025",development
+30,20270860,"Le et al, 2022",development
+30,20270860,"Li et al, 2021",development
+30,20270860,"Lipp et al, 2010",development
+30,20270860,"Liu Z et al, 2024",development
+30,20270860,"Liu Z et al, 2024 (2)",development
+30,20270860,"Liu et al, 2021",unseen_study_test
+30,20270860,"Liu et al, 2023",unseen_study_test
+30,20270860,"Lu et al, 2025",development
+30,20270860,"Luo et al, 2025",development
+30,20270860,"Luo, 2016",unseen_study_test
+30,20270860,"L√©niz-Pizarro, 2022",development
+30,20270860,"Ma J., 2022",development
+30,20270860,"Ma et al, 2024",development
+30,20270860,"Ma et al, 2024 (2)",development
+30,20270860,"Minhas et al, 2025",development
+30,20270860,"Pica, 2019",unseen_study_test
+30,20270860,"Pilevar et al, 2025",development
+30,20270860,"Pramanik, 2017",unseen_study_test
+30,20270860,"Qi et al, 2022",unseen_study_test
+30,20270860,"Rattanaoudom, 2011",development
+30,20270860,"Rychlewska, 2024",development
+30,20270860,"Safulko et al., 2023",development
+30,20270860,"Soriano, 2019",development
+30,20270860,"Steinle-Darling & Reinhard, 2008",development
+30,20270860,"Steinle-Darling et al, 2010",development
+30,20270860,"Tang, 2006",development
+30,20270860,"Tang, 2007",development
+30,20270860,"Toure, 2019",development
+30,20270860,"Turk et al, 2025",unseen_study_test
+30,20270860,"Wang et al, 2018",development
+30,20270860,"Wang et al, 2025",development
+30,20270860,"Wang et al, 2025 (2)",unseen_study_test
+30,20270860,"Wang, 2015",development
+30,20270860,"Wang, 2021",development
+30,20270860,"Wu Y, 2023",unseen_study_test
+30,20270860,"Yang et al, 2024",development
+30,20270860,"Yu, 2016",development
+30,20270860,"Zeng, 2017",development
+30,20270860,"Zhai et al, 2025",development
+30,20270860,"Zhang, 2024",development
+30,20270860,"Zhao, 2013",development
+30,20270860,"Zhao, 2016",development
+30,20270860,"Zhao, 2018",unseen_study_test
+30,20270860,"Zhao, 2020",unseen_study_test
+30,20270860,"Zhi et al, 2022",unseen_study_test
+30,20270860,"Zhi et al, 2025",unseen_study_test
+31,20270861,"Abdikheibari, 2022",development
+31,20270861,"Appleman et al, 2013",development
+31,20270861,"Bi et al, 2024",development
+31,20270861,"Boo, 2018",development
+31,20270861,"Boonya-atichart, 2017",development
+31,20270861,"Chen et al, 2023",unseen_study_test
+31,20270861,"Franke, 2019",development
+31,20270861,"Franke, 2021",development
+31,20270861,"Fujioka, 2024",development
+31,20270861,"Ge et al, 2025",development
+31,20270861,"Griffin, 2024",development
+31,20270861,"H. Hara-Yamamura, 2022",development
+31,20270861,"Hang, 2015",unseen_study_test
+31,20270861,"Jeong et al, 2024",development
+31,20270861,"Kim et al, 2025",development
+31,20270861,"Le et al, 2022",development
+31,20270861,"Li et al, 2021",development
+31,20270861,"Lipp et al, 2010",unseen_study_test
+31,20270861,"Liu Z et al, 2024",development
+31,20270861,"Liu Z et al, 2024 (2)",development
+31,20270861,"Liu et al, 2021",development
+31,20270861,"Liu et al, 2023",unseen_study_test
+31,20270861,"Lu et al, 2025",development
+31,20270861,"Luo et al, 2025",development
+31,20270861,"Luo, 2016",development
+31,20270861,"L√©niz-Pizarro, 2022",development
+31,20270861,"Ma J., 2022",development
+31,20270861,"Ma et al, 2024",unseen_study_test
+31,20270861,"Ma et al, 2024 (2)",development
+31,20270861,"Minhas et al, 2025",development
+31,20270861,"Pica, 2019",development
+31,20270861,"Pilevar et al, 2025",development
+31,20270861,"Pramanik, 2017",development
+31,20270861,"Qi et al, 2022",development
+31,20270861,"Rattanaoudom, 2011",unseen_study_test
+31,20270861,"Rychlewska, 2024",development
+31,20270861,"Safulko et al., 2023",development
+31,20270861,"Soriano, 2019",development
+31,20270861,"Steinle-Darling & Reinhard, 2008",unseen_study_test
+31,20270861,"Steinle-Darling et al, 2010",development
+31,20270861,"Tang, 2006",development
+31,20270861,"Tang, 2007",development
+31,20270861,"Toure, 2019",development
+31,20270861,"Turk et al, 2025",development
+31,20270861,"Wang et al, 2018",development
+31,20270861,"Wang et al, 2025",unseen_study_test
+31,20270861,"Wang et al, 2025 (2)",unseen_study_test
+31,20270861,"Wang, 2015",development
+31,20270861,"Wang, 2021",development
+31,20270861,"Wu Y, 2023",unseen_study_test
+31,20270861,"Yang et al, 2024",development
+31,20270861,"Yu, 2016",unseen_study_test
+31,20270861,"Zeng, 2017",development
+31,20270861,"Zhai et al, 2025",development
+31,20270861,"Zhang, 2024",development
+31,20270861,"Zhao, 2013",unseen_study_test
+31,20270861,"Zhao, 2016",development
+31,20270861,"Zhao, 2018",development
+31,20270861,"Zhao, 2020",development
+31,20270861,"Zhi et al, 2022",development
+31,20270861,"Zhi et al, 2025",unseen_study_test
+32,20270862,"Abdikheibari, 2022",development
+32,20270862,"Appleman et al, 2013",development
+32,20270862,"Bi et al, 2024",development
+32,20270862,"Boo, 2018",unseen_study_test
+32,20270862,"Boonya-atichart, 2017",development
+32,20270862,"Chen et al, 2023",development
+32,20270862,"Franke, 2019",development
+32,20270862,"Franke, 2021",development
+32,20270862,"Fujioka, 2024",unseen_study_test
+32,20270862,"Ge et al, 2025",development
+32,20270862,"Griffin, 2024",unseen_study_test
+32,20270862,"H. Hara-Yamamura, 2022",development
+32,20270862,"Hang, 2015",development
+32,20270862,"Jeong et al, 2024",development
+32,20270862,"Kim et al, 2025",development
+32,20270862,"Le et al, 2022",development
+32,20270862,"Li et al, 2021",development
+32,20270862,"Lipp et al, 2010",development
+32,20270862,"Liu Z et al, 2024",development
+32,20270862,"Liu Z et al, 2024 (2)",development
+32,20270862,"Liu et al, 2021",unseen_study_test
+32,20270862,"Liu et al, 2023",development
+32,20270862,"Lu et al, 2025",development
+32,20270862,"Luo et al, 2025",unseen_study_test
+32,20270862,"Luo, 2016",unseen_study_test
+32,20270862,"L√©niz-Pizarro, 2022",development
+32,20270862,"Ma J., 2022",development
+32,20270862,"Ma et al, 2024",development
+32,20270862,"Ma et al, 2024 (2)",unseen_study_test
+32,20270862,"Minhas et al, 2025",development
+32,20270862,"Pica, 2019",development
+32,20270862,"Pilevar et al, 2025",development
+32,20270862,"Pramanik, 2017",development
+32,20270862,"Qi et al, 2022",unseen_study_test
+32,20270862,"Rattanaoudom, 2011",development
+32,20270862,"Rychlewska, 2024",unseen_study_test
+32,20270862,"Safulko et al., 2023",development
+32,20270862,"Soriano, 2019",development
+32,20270862,"Steinle-Darling & Reinhard, 2008",unseen_study_test
+32,20270862,"Steinle-Darling et al, 2010",development
+32,20270862,"Tang, 2006",development
+32,20270862,"Tang, 2007",development
+32,20270862,"Toure, 2019",development
+32,20270862,"Turk et al, 2025",development
+32,20270862,"Wang et al, 2018",development
+32,20270862,"Wang et al, 2025",development
+32,20270862,"Wang et al, 2025 (2)",development
+32,20270862,"Wang, 2015",development
+32,20270862,"Wang, 2021",development
+32,20270862,"Wu Y, 2023",development
+32,20270862,"Yang et al, 2024",unseen_study_test
+32,20270862,"Yu, 2016",development
+32,20270862,"Zeng, 2017",development
+32,20270862,"Zhai et al, 2025",development
+32,20270862,"Zhang, 2024",development
+32,20270862,"Zhao, 2013",development
+32,20270862,"Zhao, 2016",development
+32,20270862,"Zhao, 2018",development
+32,20270862,"Zhao, 2020",unseen_study_test
+32,20270862,"Zhi et al, 2022",development
+32,20270862,"Zhi et al, 2025",unseen_study_test
+33,20270863,"Abdikheibari, 2022",development
+33,20270863,"Appleman et al, 2013",unseen_study_test
+33,20270863,"Bi et al, 2024",development
+33,20270863,"Boo, 2018",development
+33,20270863,"Boonya-atichart, 2017",development
+33,20270863,"Chen et al, 2023",development
+33,20270863,"Franke, 2019",development
+33,20270863,"Franke, 2021",development
+33,20270863,"Fujioka, 2024",development
+33,20270863,"Ge et al, 2025",development
+33,20270863,"Griffin, 2024",unseen_study_test
+33,20270863,"H. Hara-Yamamura, 2022",development
+33,20270863,"Hang, 2015",development
+33,20270863,"Jeong et al, 2024",development
+33,20270863,"Kim et al, 2025",development
+33,20270863,"Le et al, 2022",development
+33,20270863,"Li et al, 2021",development
+33,20270863,"Lipp et al, 2010",unseen_study_test
+33,20270863,"Liu Z et al, 2024",development
+33,20270863,"Liu Z et al, 2024 (2)",development
+33,20270863,"Liu et al, 2021",development
+33,20270863,"Liu et al, 2023",unseen_study_test
+33,20270863,"Lu et al, 2025",development
+33,20270863,"Luo et al, 2025",development
+33,20270863,"Luo, 2016",unseen_study_test
+33,20270863,"L√©niz-Pizarro, 2022",development
+33,20270863,"Ma J., 2022",unseen_study_test
+33,20270863,"Ma et al, 2024",development
+33,20270863,"Ma et al, 2024 (2)",unseen_study_test
+33,20270863,"Minhas et al, 2025",development
+33,20270863,"Pica, 2019",development
+33,20270863,"Pilevar et al, 2025",development
+33,20270863,"Pramanik, 2017",development
+33,20270863,"Qi et al, 2022",development
+33,20270863,"Rattanaoudom, 2011",development
+33,20270863,"Rychlewska, 2024",unseen_study_test
+33,20270863,"Safulko et al., 2023",development
+33,20270863,"Soriano, 2019",development
+33,20270863,"Steinle-Darling & Reinhard, 2008",unseen_study_test
+33,20270863,"Steinle-Darling et al, 2010",development
+33,20270863,"Tang, 2006",development
+33,20270863,"Tang, 2007",unseen_study_test
+33,20270863,"Toure, 2019",development
+33,20270863,"Turk et al, 2025",development
+33,20270863,"Wang et al, 2018",development
+33,20270863,"Wang et al, 2025",development
+33,20270863,"Wang et al, 2025 (2)",development
+33,20270863,"Wang, 2015",development
+33,20270863,"Wang, 2021",development
+33,20270863,"Wu Y, 2023",unseen_study_test
+33,20270863,"Yang et al, 2024",development
+33,20270863,"Yu, 2016",development
+33,20270863,"Zeng, 2017",development
+33,20270863,"Zhai et al, 2025",development
+33,20270863,"Zhang, 2024",development
+33,20270863,"Zhao, 2013",development
+33,20270863,"Zhao, 2016",development
+33,20270863,"Zhao, 2018",unseen_study_test
+33,20270863,"Zhao, 2020",unseen_study_test
+33,20270863,"Zhi et al, 2022",development
+33,20270863,"Zhi et al, 2025",development
+34,20270864,"Abdikheibari, 2022",development
+34,20270864,"Appleman et al, 2013",unseen_study_test
+34,20270864,"Bi et al, 2024",development
+34,20270864,"Boo, 2018",development
+34,20270864,"Boonya-atichart, 2017",unseen_study_test
+34,20270864,"Chen et al, 2023",development
+34,20270864,"Franke, 2019",development
+34,20270864,"Franke, 2021",development
+34,20270864,"Fujioka, 2024",development
+34,20270864,"Ge et al, 2025",development
+34,20270864,"Griffin, 2024",unseen_study_test
+34,20270864,"H. Hara-Yamamura, 2022",unseen_study_test
+34,20270864,"Hang, 2015",development
+34,20270864,"Jeong et al, 2024",development
+34,20270864,"Kim et al, 2025",development
+34,20270864,"Le et al, 2022",unseen_study_test
+34,20270864,"Li et al, 2021",development
+34,20270864,"Lipp et al, 2010",unseen_study_test
+34,20270864,"Liu Z et al, 2024",development
+34,20270864,"Liu Z et al, 2024 (2)",development
+34,20270864,"Liu et al, 2021",development
+34,20270864,"Liu et al, 2023",unseen_study_test
+34,20270864,"Lu et al, 2025",development
+34,20270864,"Luo et al, 2025",development
+34,20270864,"Luo, 2016",unseen_study_test
+34,20270864,"L√©niz-Pizarro, 2022",development
+34,20270864,"Ma J., 2022",development
+34,20270864,"Ma et al, 2024",development
+34,20270864,"Ma et al, 2024 (2)",development
+34,20270864,"Minhas et al, 2025",unseen_study_test
+34,20270864,"Pica, 2019",development
+34,20270864,"Pilevar et al, 2025",development
+34,20270864,"Pramanik, 2017",development
+34,20270864,"Qi et al, 2022",development
+34,20270864,"Rattanaoudom, 2011",unseen_study_test
+34,20270864,"Rychlewska, 2024",development
+34,20270864,"Safulko et al., 2023",development
+34,20270864,"Soriano, 2019",unseen_study_test
+34,20270864,"Steinle-Darling & Reinhard, 2008",development
+34,20270864,"Steinle-Darling et al, 2010",development
+34,20270864,"Tang, 2006",development
+34,20270864,"Tang, 2007",development
+34,20270864,"Toure, 2019",development
+34,20270864,"Turk et al, 2025",development
+34,20270864,"Wang et al, 2018",development
+34,20270864,"Wang et al, 2025",development
+34,20270864,"Wang et al, 2025 (2)",development
+34,20270864,"Wang, 2015",development
+34,20270864,"Wang, 2021",unseen_study_test
+34,20270864,"Wu Y, 2023",development
+34,20270864,"Yang et al, 2024",development
+34,20270864,"Yu, 2016",development
+34,20270864,"Zeng, 2017",development
+34,20270864,"Zhai et al, 2025",development
+34,20270864,"Zhang, 2024",development
+34,20270864,"Zhao, 2013",development
+34,20270864,"Zhao, 2016",unseen_study_test
+34,20270864,"Zhao, 2018",development
+34,20270864,"Zhao, 2020",development
+34,20270864,"Zhi et al, 2022",development
+34,20270864,"Zhi et al, 2025",development
+35,20270865,"Abdikheibari, 2022",development
+35,20270865,"Appleman et al, 2013",development
+35,20270865,"Bi et al, 2024",development
+35,20270865,"Boo, 2018",development
+35,20270865,"Boonya-atichart, 2017",development
+35,20270865,"Chen et al, 2023",development
+35,20270865,"Franke, 2019",development
+35,20270865,"Franke, 2021",development
+35,20270865,"Fujioka, 2024",unseen_study_test
+35,20270865,"Ge et al, 2025",unseen_study_test
+35,20270865,"Griffin, 2024",development
+35,20270865,"H. Hara-Yamamura, 2022",development
+35,20270865,"Hang, 2015",unseen_study_test
+35,20270865,"Jeong et al, 2024",development
+35,20270865,"Kim et al, 2025",unseen_study_test
+35,20270865,"Le et al, 2022",development
+35,20270865,"Li et al, 2021",development
+35,20270865,"Lipp et al, 2010",development
+35,20270865,"Liu Z et al, 2024",unseen_study_test
+35,20270865,"Liu Z et al, 2024 (2)",development
+35,20270865,"Liu et al, 2021",development
+35,20270865,"Liu et al, 2023",unseen_study_test
+35,20270865,"Lu et al, 2025",development
+35,20270865,"Luo et al, 2025",development
+35,20270865,"Luo, 2016",development
+35,20270865,"L√©niz-Pizarro, 2022",development
+35,20270865,"Ma J., 2022",development
+35,20270865,"Ma et al, 2024",development
+35,20270865,"Ma et al, 2024 (2)",development
+35,20270865,"Minhas et al, 2025",development
+35,20270865,"Pica, 2019",unseen_study_test
+35,20270865,"Pilevar et al, 2025",development
+35,20270865,"Pramanik, 2017",development
+35,20270865,"Qi et al, 2022",development
+35,20270865,"Rattanaoudom, 2011",unseen_study_test
+35,20270865,"Rychlewska, 2024",development
+35,20270865,"Safulko et al., 2023",development
+35,20270865,"Soriano, 2019",development
+35,20270865,"Steinle-Darling & Reinhard, 2008",development
+35,20270865,"Steinle-Darling et al, 2010",development
+35,20270865,"Tang, 2006",development
+35,20270865,"Tang, 2007",unseen_study_test
+35,20270865,"Toure, 2019",development
+35,20270865,"Turk et al, 2025",development
+35,20270865,"Wang et al, 2018",development
+35,20270865,"Wang et al, 2025",development
+35,20270865,"Wang et al, 2025 (2)",unseen_study_test
+35,20270865,"Wang, 2015",development
+35,20270865,"Wang, 2021",development
+35,20270865,"Wu Y, 2023",development
+35,20270865,"Yang et al, 2024",development
+35,20270865,"Yu, 2016",development
+35,20270865,"Zeng, 2017",unseen_study_test
+35,20270865,"Zhai et al, 2025",unseen_study_test
+35,20270865,"Zhang, 2024",development
+35,20270865,"Zhao, 2013",development
+35,20270865,"Zhao, 2016",development
+35,20270865,"Zhao, 2018",development
+35,20270865,"Zhao, 2020",unseen_study_test
+35,20270865,"Zhi et al, 2022",development
+35,20270865,"Zhi et al, 2025",development
+36,20270866,"Abdikheibari, 2022",development
+36,20270866,"Appleman et al, 2013",development
+36,20270866,"Bi et al, 2024",development
+36,20270866,"Boo, 2018",development
+36,20270866,"Boonya-atichart, 2017",unseen_study_test
+36,20270866,"Chen et al, 2023",development
+36,20270866,"Franke, 2019",development
+36,20270866,"Franke, 2021",development
+36,20270866,"Fujioka, 2024",development
+36,20270866,"Ge et al, 2025",development
+36,20270866,"Griffin, 2024",development
+36,20270866,"H. Hara-Yamamura, 2022",development
+36,20270866,"Hang, 2015",development
+36,20270866,"Jeong et al, 2024",unseen_study_test
+36,20270866,"Kim et al, 2025",unseen_study_test
+36,20270866,"Le et al, 2022",development
+36,20270866,"Li et al, 2021",development
+36,20270866,"Lipp et al, 2010",development
+36,20270866,"Liu Z et al, 2024",unseen_study_test
+36,20270866,"Liu Z et al, 2024 (2)",development
+36,20270866,"Liu et al, 2021",development
+36,20270866,"Liu et al, 2023",development
+36,20270866,"Lu et al, 2025",development
+36,20270866,"Luo et al, 2025",unseen_study_test
+36,20270866,"Luo, 2016",development
+36,20270866,"L√©niz-Pizarro, 2022",unseen_study_test
+36,20270866,"Ma J., 2022",development
+36,20270866,"Ma et al, 2024",development
+36,20270866,"Ma et al, 2024 (2)",development
+36,20270866,"Minhas et al, 2025",development
+36,20270866,"Pica, 2019",development
+36,20270866,"Pilevar et al, 2025",development
+36,20270866,"Pramanik, 2017",unseen_study_test
+36,20270866,"Qi et al, 2022",development
+36,20270866,"Rattanaoudom, 2011",development
+36,20270866,"Rychlewska, 2024",unseen_study_test
+36,20270866,"Safulko et al., 2023",development
+36,20270866,"Soriano, 2019",development
+36,20270866,"Steinle-Darling & Reinhard, 2008",development
+36,20270866,"Steinle-Darling et al, 2010",development
+36,20270866,"Tang, 2006",unseen_study_test
+36,20270866,"Tang, 2007",development
+36,20270866,"Toure, 2019",development
+36,20270866,"Turk et al, 2025",development
+36,20270866,"Wang et al, 2018",development
+36,20270866,"Wang et al, 2025",development
+36,20270866,"Wang et al, 2025 (2)",development
+36,20270866,"Wang, 2015",unseen_study_test
+36,20270866,"Wang, 2021",development
+36,20270866,"Wu Y, 2023",development
+36,20270866,"Yang et al, 2024",development
+36,20270866,"Yu, 2016",development
+36,20270866,"Zeng, 2017",development
+36,20270866,"Zhai et al, 2025",development
+36,20270866,"Zhang, 2024",unseen_study_test
+36,20270866,"Zhao, 2013",development
+36,20270866,"Zhao, 2016",development
+36,20270866,"Zhao, 2018",development
+36,20270866,"Zhao, 2020",development
+36,20270866,"Zhi et al, 2022",unseen_study_test
+36,20270866,"Zhi et al, 2025",unseen_study_test
+37,20270867,"Abdikheibari, 2022",unseen_study_test
+37,20270867,"Appleman et al, 2013",development
+37,20270867,"Bi et al, 2024",development
+37,20270867,"Boo, 2018",development
+37,20270867,"Boonya-atichart, 2017",development
+37,20270867,"Chen et al, 2023",unseen_study_test
+37,20270867,"Franke, 2019",development
+37,20270867,"Franke, 2021",development
+37,20270867,"Fujioka, 2024",development
+37,20270867,"Ge et al, 2025",unseen_study_test
+37,20270867,"Griffin, 2024",unseen_study_test
+37,20270867,"H. Hara-Yamamura, 2022",unseen_study_test
+37,20270867,"Hang, 2015",development
+37,20270867,"Jeong et al, 2024",development
+37,20270867,"Kim et al, 2025",development
+37,20270867,"Le et al, 2022",development
+37,20270867,"Li et al, 2021",development
+37,20270867,"Lipp et al, 2010",development
+37,20270867,"Liu Z et al, 2024",unseen_study_test
+37,20270867,"Liu Z et al, 2024 (2)",development
+37,20270867,"Liu et al, 2021",development
+37,20270867,"Liu et al, 2023",development
+37,20270867,"Lu et al, 2025",development
+37,20270867,"Luo et al, 2025",unseen_study_test
+37,20270867,"Luo, 2016",development
+37,20270867,"L√©niz-Pizarro, 2022",development
+37,20270867,"Ma J., 2022",development
+37,20270867,"Ma et al, 2024",development
+37,20270867,"Ma et al, 2024 (2)",development
+37,20270867,"Minhas et al, 2025",development
+37,20270867,"Pica, 2019",unseen_study_test
+37,20270867,"Pilevar et al, 2025",development
+37,20270867,"Pramanik, 2017",development
+37,20270867,"Qi et al, 2022",development
+37,20270867,"Rattanaoudom, 2011",development
+37,20270867,"Rychlewska, 2024",unseen_study_test
+37,20270867,"Safulko et al., 2023",development
+37,20270867,"Soriano, 2019",development
+37,20270867,"Steinle-Darling & Reinhard, 2008",unseen_study_test
+37,20270867,"Steinle-Darling et al, 2010",development
+37,20270867,"Tang, 2006",development
+37,20270867,"Tang, 2007",development
+37,20270867,"Toure, 2019",development
+37,20270867,"Turk et al, 2025",development
+37,20270867,"Wang et al, 2018",development
+37,20270867,"Wang et al, 2025",development
+37,20270867,"Wang et al, 2025 (2)",unseen_study_test
+37,20270867,"Wang, 2015",development
+37,20270867,"Wang, 2021",development
+37,20270867,"Wu Y, 2023",development
+37,20270867,"Yang et al, 2024",unseen_study_test
+37,20270867,"Yu, 2016",development
+37,20270867,"Zeng, 2017",development
+37,20270867,"Zhai et al, 2025",development
+37,20270867,"Zhang, 2024",unseen_study_test
+37,20270867,"Zhao, 2013",development
+37,20270867,"Zhao, 2016",development
+37,20270867,"Zhao, 2018",development
+37,20270867,"Zhao, 2020",development
+37,20270867,"Zhi et al, 2022",development
+37,20270867,"Zhi et al, 2025",development
+38,20270868,"Abdikheibari, 2022",development
+38,20270868,"Appleman et al, 2013",unseen_study_test
+38,20270868,"Bi et al, 2024",unseen_study_test
+38,20270868,"Boo, 2018",unseen_study_test
+38,20270868,"Boonya-atichart, 2017",development
+38,20270868,"Chen et al, 2023",development
+38,20270868,"Franke, 2019",development
+38,20270868,"Franke, 2021",development
+38,20270868,"Fujioka, 2024",development
+38,20270868,"Ge et al, 2025",development
+38,20270868,"Griffin, 2024",development
+38,20270868,"H. Hara-Yamamura, 2022",development
+38,20270868,"Hang, 2015",development
+38,20270868,"Jeong et al, 2024",unseen_study_test
+38,20270868,"Kim et al, 2025",development
+38,20270868,"Le et al, 2022",development
+38,20270868,"Li et al, 2021",development
+38,20270868,"Lipp et al, 2010",development
+38,20270868,"Liu Z et al, 2024",development
+38,20270868,"Liu Z et al, 2024 (2)",development
+38,20270868,"Liu et al, 2021",development
+38,20270868,"Liu et al, 2023",development
+38,20270868,"Lu et al, 2025",development
+38,20270868,"Luo et al, 2025",unseen_study_test
+38,20270868,"Luo, 2016",development
+38,20270868,"L√©niz-Pizarro, 2022",development
+38,20270868,"Ma J., 2022",development
+38,20270868,"Ma et al, 2024",development
+38,20270868,"Ma et al, 2024 (2)",unseen_study_test
+38,20270868,"Minhas et al, 2025",development
+38,20270868,"Pica, 2019",development
+38,20270868,"Pilevar et al, 2025",development
+38,20270868,"Pramanik, 2017",development
+38,20270868,"Qi et al, 2022",development
+38,20270868,"Rattanaoudom, 2011",development
+38,20270868,"Rychlewska, 2024",development
+38,20270868,"Safulko et al., 2023",development
+38,20270868,"Soriano, 2019",development
+38,20270868,"Steinle-Darling & Reinhard, 2008",unseen_study_test
+38,20270868,"Steinle-Darling et al, 2010",unseen_study_test
+38,20270868,"Tang, 2006",development
+38,20270868,"Tang, 2007",development
+38,20270868,"Toure, 2019",unseen_study_test
+38,20270868,"Turk et al, 2025",unseen_study_test
+38,20270868,"Wang et al, 2018",unseen_study_test
+38,20270868,"Wang et al, 2025",unseen_study_test
+38,20270868,"Wang et al, 2025 (2)",development
+38,20270868,"Wang, 2015",development
+38,20270868,"Wang, 2021",development
+38,20270868,"Wu Y, 2023",development
+38,20270868,"Yang et al, 2024",development
+38,20270868,"Yu, 2016",development
+38,20270868,"Zeng, 2017",development
+38,20270868,"Zhai et al, 2025",development
+38,20270868,"Zhang, 2024",development
+38,20270868,"Zhao, 2013",development
+38,20270868,"Zhao, 2016",development
+38,20270868,"Zhao, 2018",development
+38,20270868,"Zhao, 2020",development
+38,20270868,"Zhi et al, 2022",unseen_study_test
+38,20270868,"Zhi et al, 2025",development
+39,20270869,"Abdikheibari, 2022",unseen_study_test
+39,20270869,"Appleman et al, 2013",development
+39,20270869,"Bi et al, 2024",unseen_study_test
+39,20270869,"Boo, 2018",development
+39,20270869,"Boonya-atichart, 2017",development
+39,20270869,"Chen et al, 2023",development
+39,20270869,"Franke, 2019",unseen_study_test
+39,20270869,"Franke, 2021",development
+39,20270869,"Fujioka, 2024",development
+39,20270869,"Ge et al, 2025",development
+39,20270869,"Griffin, 2024",development
+39,20270869,"H. Hara-Yamamura, 2022",unseen_study_test
+39,20270869,"Hang, 2015",unseen_study_test
+39,20270869,"Jeong et al, 2024",development
+39,20270869,"Kim et al, 2025",development
+39,20270869,"Le et al, 2022",development
+39,20270869,"Li et al, 2021",development
+39,20270869,"Lipp et al, 2010",development
+39,20270869,"Liu Z et al, 2024",development
+39,20270869,"Liu Z et al, 2024 (2)",development
+39,20270869,"Liu et al, 2021",development
+39,20270869,"Liu et al, 2023",unseen_study_test
+39,20270869,"Lu et al, 2025",development
+39,20270869,"Luo et al, 2025",development
+39,20270869,"Luo, 2016",development
+39,20270869,"L√©niz-Pizarro, 2022",development
+39,20270869,"Ma J., 2022",development
+39,20270869,"Ma et al, 2024",unseen_study_test
+39,20270869,"Ma et al, 2024 (2)",development
+39,20270869,"Minhas et al, 2025",development
+39,20270869,"Pica, 2019",development
+39,20270869,"Pilevar et al, 2025",development
+39,20270869,"Pramanik, 2017",unseen_study_test
+39,20270869,"Qi et al, 2022",unseen_study_test
+39,20270869,"Rattanaoudom, 2011",development
+39,20270869,"Rychlewska, 2024",development
+39,20270869,"Safulko et al., 2023",development
+39,20270869,"Soriano, 2019",development
+39,20270869,"Steinle-Darling & Reinhard, 2008",development
+39,20270869,"Steinle-Darling et al, 2010",development
+39,20270869,"Tang, 2006",development
+39,20270869,"Tang, 2007",development
+39,20270869,"Toure, 2019",development
+39,20270869,"Turk et al, 2025",unseen_study_test
+39,20270869,"Wang et al, 2018",development
+39,20270869,"Wang et al, 2025",development
+39,20270869,"Wang et al, 2025 (2)",development
+39,20270869,"Wang, 2015",development
+39,20270869,"Wang, 2021",development
+39,20270869,"Wu Y, 2023",unseen_study_test
+39,20270869,"Yang et al, 2024",unseen_study_test
+39,20270869,"Yu, 2016",unseen_study_test
+39,20270869,"Zeng, 2017",development
+39,20270869,"Zhai et al, 2025",development
+39,20270869,"Zhang, 2024",development
+39,20270869,"Zhao, 2013",development
+39,20270869,"Zhao, 2016",development
+39,20270869,"Zhao, 2018",development
+39,20270869,"Zhao, 2020",development
+39,20270869,"Zhi et al, 2022",development
+39,20270869,"Zhi et al, 2025",development
+40,20270870,"Abdikheibari, 2022",development
+40,20270870,"Appleman et al, 2013",development
+40,20270870,"Bi et al, 2024",development
+40,20270870,"Boo, 2018",development
+40,20270870,"Boonya-atichart, 2017",development
+40,20270870,"Chen et al, 2023",development
+40,20270870,"Franke, 2019",unseen_study_test
+40,20270870,"Franke, 2021",development
+40,20270870,"Fujioka, 2024",development
+40,20270870,"Ge et al, 2025",development
+40,20270870,"Griffin, 2024",development
+40,20270870,"H. Hara-Yamamura, 2022",development
+40,20270870,"Hang, 2015",development
+40,20270870,"Jeong et al, 2024",development
+40,20270870,"Kim et al, 2025",unseen_study_test
+40,20270870,"Le et al, 2022",development
+40,20270870,"Li et al, 2021",unseen_study_test
+40,20270870,"Lipp et al, 2010",development
+40,20270870,"Liu Z et al, 2024",development
+40,20270870,"Liu Z et al, 2024 (2)",development
+40,20270870,"Liu et al, 2021",unseen_study_test
+40,20270870,"Liu et al, 2023",development
+40,20270870,"Lu et al, 2025",development
+40,20270870,"Luo et al, 2025",unseen_study_test
+40,20270870,"Luo, 2016",development
+40,20270870,"L√©niz-Pizarro, 2022",development
+40,20270870,"Ma J., 2022",development
+40,20270870,"Ma et al, 2024",development
+40,20270870,"Ma et al, 2024 (2)",development
+40,20270870,"Minhas et al, 2025",development
+40,20270870,"Pica, 2019",development
+40,20270870,"Pilevar et al, 2025",development
+40,20270870,"Pramanik, 2017",development
+40,20270870,"Qi et al, 2022",development
+40,20270870,"Rattanaoudom, 2011",unseen_study_test
+40,20270870,"Rychlewska, 2024",development
+40,20270870,"Safulko et al., 2023",development
+40,20270870,"Soriano, 2019",development
+40,20270870,"Steinle-Darling & Reinhard, 2008",unseen_study_test
+40,20270870,"Steinle-Darling et al, 2010",unseen_study_test
+40,20270870,"Tang, 2006",development
+40,20270870,"Tang, 2007",development
+40,20270870,"Toure, 2019",development
+40,20270870,"Turk et al, 2025",development
+40,20270870,"Wang et al, 2018",development
+40,20270870,"Wang et al, 2025",development
+40,20270870,"Wang et al, 2025 (2)",development
+40,20270870,"Wang, 2015",development
+40,20270870,"Wang, 2021",development
+40,20270870,"Wu Y, 2023",unseen_study_test
+40,20270870,"Yang et al, 2024",unseen_study_test
+40,20270870,"Yu, 2016",development
+40,20270870,"Zeng, 2017",unseen_study_test
+40,20270870,"Zhai et al, 2025",unseen_study_test
+40,20270870,"Zhang, 2024",development
+40,20270870,"Zhao, 2013",development
+40,20270870,"Zhao, 2016",development
+40,20270870,"Zhao, 2018",unseen_study_test
+40,20270870,"Zhao, 2020",development
+40,20270870,"Zhi et al, 2022",development
+40,20270870,"Zhi et al, 2025",development
+41,20270871,"Abdikheibari, 2022",development
+41,20270871,"Appleman et al, 2013",development
+41,20270871,"Bi et al, 2024",development
+41,20270871,"Boo, 2018",unseen_study_test
+41,20270871,"Boonya-atichart, 2017",development
+41,20270871,"Chen et al, 2023",development
+41,20270871,"Franke, 2019",unseen_study_test
+41,20270871,"Franke, 2021",unseen_study_test
+41,20270871,"Fujioka, 2024",development
+41,20270871,"Ge et al, 2025",development
+41,20270871,"Griffin, 2024",development
+41,20270871,"H. Hara-Yamamura, 2022",development
+41,20270871,"Hang, 2015",development
+41,20270871,"Jeong et al, 2024",development
+41,20270871,"Kim et al, 2025",development
+41,20270871,"Le et al, 2022",unseen_study_test
+41,20270871,"Li et al, 2021",development
+41,20270871,"Lipp et al, 2010",development
+41,20270871,"Liu Z et al, 2024",development
+41,20270871,"Liu Z et al, 2024 (2)",unseen_study_test
+41,20270871,"Liu et al, 2021",development
+41,20270871,"Liu et al, 2023",development
+41,20270871,"Lu et al, 2025",development
+41,20270871,"Luo et al, 2025",development
+41,20270871,"Luo, 2016",unseen_study_test
+41,20270871,"L√©niz-Pizarro, 2022",development
+41,20270871,"Ma J., 2022",development
+41,20270871,"Ma et al, 2024",development
+41,20270871,"Ma et al, 2024 (2)",development
+41,20270871,"Minhas et al, 2025",development
+41,20270871,"Pica, 2019",development
+41,20270871,"Pilevar et al, 2025",development
+41,20270871,"Pramanik, 2017",development
+41,20270871,"Qi et al, 2022",development
+41,20270871,"Rattanaoudom, 2011",development
+41,20270871,"Rychlewska, 2024",development
+41,20270871,"Safulko et al., 2023",development
+41,20270871,"Soriano, 2019",unseen_study_test
+41,20270871,"Steinle-Darling & Reinhard, 2008",development
+41,20270871,"Steinle-Darling et al, 2010",development
+41,20270871,"Tang, 2006",unseen_study_test
+41,20270871,"Tang, 2007",development
+41,20270871,"Toure, 2019",development
+41,20270871,"Turk et al, 2025",unseen_study_test
+41,20270871,"Wang et al, 2018",development
+41,20270871,"Wang et al, 2025",unseen_study_test
+41,20270871,"Wang et al, 2025 (2)",development
+41,20270871,"Wang, 2015",development
+41,20270871,"Wang, 2021",development
+41,20270871,"Wu Y, 2023",development
+41,20270871,"Yang et al, 2024",development
+41,20270871,"Yu, 2016",development
+41,20270871,"Zeng, 2017",development
+41,20270871,"Zhai et al, 2025",unseen_study_test
+41,20270871,"Zhang, 2024",unseen_study_test
+41,20270871,"Zhao, 2013",development
+41,20270871,"Zhao, 2016",development
+41,20270871,"Zhao, 2018",development
+41,20270871,"Zhao, 2020",development
+41,20270871,"Zhi et al, 2022",unseen_study_test
+41,20270871,"Zhi et al, 2025",development
+42,20270872,"Abdikheibari, 2022",development
+42,20270872,"Appleman et al, 2013",development
+42,20270872,"Bi et al, 2024",unseen_study_test
+42,20270872,"Boo, 2018",development
+42,20270872,"Boonya-atichart, 2017",development
+42,20270872,"Chen et al, 2023",unseen_study_test
+42,20270872,"Franke, 2019",development
+42,20270872,"Franke, 2021",development
+42,20270872,"Fujioka, 2024",development
+42,20270872,"Ge et al, 2025",development
+42,20270872,"Griffin, 2024",development
+42,20270872,"H. Hara-Yamamura, 2022",development
+42,20270872,"Hang, 2015",development
+42,20270872,"Jeong et al, 2024",unseen_study_test
+42,20270872,"Kim et al, 2025",development
+42,20270872,"Le et al, 2022",unseen_study_test
+42,20270872,"Li et al, 2021",development
+42,20270872,"Lipp et al, 2010",unseen_study_test
+42,20270872,"Liu Z et al, 2024",unseen_study_test
+42,20270872,"Liu Z et al, 2024 (2)",development
+42,20270872,"Liu et al, 2021",development
+42,20270872,"Liu et al, 2023",development
+42,20270872,"Lu et al, 2025",development
+42,20270872,"Luo et al, 2025",development
+42,20270872,"Luo, 2016",development
+42,20270872,"L√©niz-Pizarro, 2022",development
+42,20270872,"Ma J., 2022",development
+42,20270872,"Ma et al, 2024",unseen_study_test
+42,20270872,"Ma et al, 2024 (2)",development
+42,20270872,"Minhas et al, 2025",development
+42,20270872,"Pica, 2019",unseen_study_test
+42,20270872,"Pilevar et al, 2025",development
+42,20270872,"Pramanik, 2017",development
+42,20270872,"Qi et al, 2022",development
+42,20270872,"Rattanaoudom, 2011",development
+42,20270872,"Rychlewska, 2024",unseen_study_test
+42,20270872,"Safulko et al., 2023",development
+42,20270872,"Soriano, 2019",development
+42,20270872,"Steinle-Darling & Reinhard, 2008",unseen_study_test
+42,20270872,"Steinle-Darling et al, 2010",development
+42,20270872,"Tang, 2006",development
+42,20270872,"Tang, 2007",unseen_study_test
+42,20270872,"Toure, 2019",unseen_study_test
+42,20270872,"Turk et al, 2025",development
+42,20270872,"Wang et al, 2018",development
+42,20270872,"Wang et al, 2025",development
+42,20270872,"Wang et al, 2025 (2)",development
+42,20270872,"Wang, 2015",unseen_study_test
+42,20270872,"Wang, 2021",development
+42,20270872,"Wu Y, 2023",development
+42,20270872,"Yang et al, 2024",development
+42,20270872,"Yu, 2016",development
+42,20270872,"Zeng, 2017",development
+42,20270872,"Zhai et al, 2025",development
+42,20270872,"Zhang, 2024",development
+42,20270872,"Zhao, 2013",development
+42,20270872,"Zhao, 2016",development
+42,20270872,"Zhao, 2018",development
+42,20270872,"Zhao, 2020",development
+42,20270872,"Zhi et al, 2022",development
+42,20270872,"Zhi et al, 2025",development
+43,20270873,"Abdikheibari, 2022",development
+43,20270873,"Appleman et al, 2013",development
+43,20270873,"Bi et al, 2024",unseen_study_test
+43,20270873,"Boo, 2018",development
+43,20270873,"Boonya-atichart, 2017",development
+43,20270873,"Chen et al, 2023",unseen_study_test
+43,20270873,"Franke, 2019",development
+43,20270873,"Franke, 2021",unseen_study_test
+43,20270873,"Fujioka, 2024",unseen_study_test
+43,20270873,"Ge et al, 2025",development
+43,20270873,"Griffin, 2024",unseen_study_test
+43,20270873,"H. Hara-Yamamura, 2022",development
+43,20270873,"Hang, 2015",unseen_study_test
+43,20270873,"Jeong et al, 2024",unseen_study_test
+43,20270873,"Kim et al, 2025",development
+43,20270873,"Le et al, 2022",development
+43,20270873,"Li et al, 2021",development
+43,20270873,"Lipp et al, 2010",development
+43,20270873,"Liu Z et al, 2024",unseen_study_test
+43,20270873,"Liu Z et al, 2024 (2)",development
+43,20270873,"Liu et al, 2021",development
+43,20270873,"Liu et al, 2023",development
+43,20270873,"Lu et al, 2025",development
+43,20270873,"Luo et al, 2025",development
+43,20270873,"Luo, 2016",development
+43,20270873,"L√©niz-Pizarro, 2022",development
+43,20270873,"Ma J., 2022",development
+43,20270873,"Ma et al, 2024",development
+43,20270873,"Ma et al, 2024 (2)",development
+43,20270873,"Minhas et al, 2025",development
+43,20270873,"Pica, 2019",development
+43,20270873,"Pilevar et al, 2025",development
+43,20270873,"Pramanik, 2017",development
+43,20270873,"Qi et al, 2022",development
+43,20270873,"Rattanaoudom, 2011",development
+43,20270873,"Rychlewska, 2024",development
+43,20270873,"Safulko et al., 2023",development
+43,20270873,"Soriano, 2019",development
+43,20270873,"Steinle-Darling & Reinhard, 2008",development
+43,20270873,"Steinle-Darling et al, 2010",development
+43,20270873,"Tang, 2006",development
+43,20270873,"Tang, 2007",development
+43,20270873,"Toure, 2019",development
+43,20270873,"Turk et al, 2025",development
+43,20270873,"Wang et al, 2018",development
+43,20270873,"Wang et al, 2025",unseen_study_test
+43,20270873,"Wang et al, 2025 (2)",development
+43,20270873,"Wang, 2015",development
+43,20270873,"Wang, 2021",development
+43,20270873,"Wu Y, 2023",development
+43,20270873,"Yang et al, 2024",development
+43,20270873,"Yu, 2016",development
+43,20270873,"Zeng, 2017",unseen_study_test
+43,20270873,"Zhai et al, 2025",development
+43,20270873,"Zhang, 2024",unseen_study_test
+43,20270873,"Zhao, 2013",development
+43,20270873,"Zhao, 2016",development
+43,20270873,"Zhao, 2018",unseen_study_test
+43,20270873,"Zhao, 2020",development
+43,20270873,"Zhi et al, 2022",unseen_study_test
+43,20270873,"Zhi et al, 2025",development
+44,20270874,"Abdikheibari, 2022",development
+44,20270874,"Appleman et al, 2013",development
+44,20270874,"Bi et al, 2024",unseen_study_test
+44,20270874,"Boo, 2018",unseen_study_test
+44,20270874,"Boonya-atichart, 2017",development
+44,20270874,"Chen et al, 2023",unseen_study_test
+44,20270874,"Franke, 2019",development
+44,20270874,"Franke, 2021",development
+44,20270874,"Fujioka, 2024",unseen_study_test
+44,20270874,"Ge et al, 2025",development
+44,20270874,"Griffin, 2024",development
+44,20270874,"H. Hara-Yamamura, 2022",development
+44,20270874,"Hang, 2015",development
+44,20270874,"Jeong et al, 2024",development
+44,20270874,"Kim et al, 2025",development
+44,20270874,"Le et al, 2022",development
+44,20270874,"Li et al, 2021",development
+44,20270874,"Lipp et al, 2010",development
+44,20270874,"Liu Z et al, 2024",development
+44,20270874,"Liu Z et al, 2024 (2)",development
+44,20270874,"Liu et al, 2021",unseen_study_test
+44,20270874,"Liu et al, 2023",development
+44,20270874,"Lu et al, 2025",development
+44,20270874,"Luo et al, 2025",unseen_study_test
+44,20270874,"Luo, 2016",unseen_study_test
+44,20270874,"L√©niz-Pizarro, 2022",development
+44,20270874,"Ma J., 2022",development
+44,20270874,"Ma et al, 2024",development
+44,20270874,"Ma et al, 2024 (2)",development
+44,20270874,"Minhas et al, 2025",development
+44,20270874,"Pica, 2019",development
+44,20270874,"Pilevar et al, 2025",development
+44,20270874,"Pramanik, 2017",development
+44,20270874,"Qi et al, 2022",development
+44,20270874,"Rattanaoudom, 2011",development
+44,20270874,"Rychlewska, 2024",development
+44,20270874,"Safulko et al., 2023",development
+44,20270874,"Soriano, 2019",development
+44,20270874,"Steinle-Darling & Reinhard, 2008",unseen_study_test
+44,20270874,"Steinle-Darling et al, 2010",development
+44,20270874,"Tang, 2006",development
+44,20270874,"Tang, 2007",development
+44,20270874,"Toure, 2019",development
+44,20270874,"Turk et al, 2025",unseen_study_test
+44,20270874,"Wang et al, 2018",development
+44,20270874,"Wang et al, 2025",development
+44,20270874,"Wang et al, 2025 (2)",development
+44,20270874,"Wang, 2015",development
+44,20270874,"Wang, 2021",development
+44,20270874,"Wu Y, 2023",unseen_study_test
+44,20270874,"Yang et al, 2024",development
+44,20270874,"Yu, 2016",development
+44,20270874,"Zeng, 2017",unseen_study_test
+44,20270874,"Zhai et al, 2025",unseen_study_test
+44,20270874,"Zhang, 2024",unseen_study_test
+44,20270874,"Zhao, 2013",development
+44,20270874,"Zhao, 2016",development
+44,20270874,"Zhao, 2018",development
+44,20270874,"Zhao, 2020",development
+44,20270874,"Zhi et al, 2022",development
+44,20270874,"Zhi et al, 2025",development
+45,20270875,"Abdikheibari, 2022",development
+45,20270875,"Appleman et al, 2013",unseen_study_test
+45,20270875,"Bi et al, 2024",development
+45,20270875,"Boo, 2018",development
+45,20270875,"Boonya-atichart, 2017",development
+45,20270875,"Chen et al, 2023",development
+45,20270875,"Franke, 2019",development
+45,20270875,"Franke, 2021",development
+45,20270875,"Fujioka, 2024",development
+45,20270875,"Ge et al, 2025",development
+45,20270875,"Griffin, 2024",development
+45,20270875,"H. Hara-Yamamura, 2022",unseen_study_test
+45,20270875,"Hang, 2015",development
+45,20270875,"Jeong et al, 2024",development
+45,20270875,"Kim et al, 2025",development
+45,20270875,"Le et al, 2022",development
+45,20270875,"Li et al, 2021",development
+45,20270875,"Lipp et al, 2010",unseen_study_test
+45,20270875,"Liu Z et al, 2024",development
+45,20270875,"Liu Z et al, 2024 (2)",development
+45,20270875,"Liu et al, 2021",development
+45,20270875,"Liu et al, 2023",development
+45,20270875,"Lu et al, 2025",development
+45,20270875,"Luo et al, 2025",development
+45,20270875,"Luo, 2016",development
+45,20270875,"L√©niz-Pizarro, 2022",unseen_study_test
+45,20270875,"Ma J., 2022",unseen_study_test
+45,20270875,"Ma et al, 2024",development
+45,20270875,"Ma et al, 2024 (2)",development
+45,20270875,"Minhas et al, 2025",development
+45,20270875,"Pica, 2019",development
+45,20270875,"Pilevar et al, 2025",development
+45,20270875,"Pramanik, 2017",development
+45,20270875,"Qi et al, 2022",development
+45,20270875,"Rattanaoudom, 2011",development
+45,20270875,"Rychlewska, 2024",development
+45,20270875,"Safulko et al., 2023",development
+45,20270875,"Soriano, 2019",unseen_study_test
+45,20270875,"Steinle-Darling & Reinhard, 2008",development
+45,20270875,"Steinle-Darling et al, 2010",development
+45,20270875,"Tang, 2006",development
+45,20270875,"Tang, 2007",development
+45,20270875,"Toure, 2019",development
+45,20270875,"Turk et al, 2025",development
+45,20270875,"Wang et al, 2018",development
+45,20270875,"Wang et al, 2025",unseen_study_test
+45,20270875,"Wang et al, 2025 (2)",unseen_study_test
+45,20270875,"Wang, 2015",development
+45,20270875,"Wang, 2021",development
+45,20270875,"Wu Y, 2023",development
+45,20270875,"Yang et al, 2024",development
+45,20270875,"Yu, 2016",development
+45,20270875,"Zeng, 2017",development
+45,20270875,"Zhai et al, 2025",unseen_study_test
+45,20270875,"Zhang, 2024",development
+45,20270875,"Zhao, 2013",unseen_study_test
+45,20270875,"Zhao, 2016",development
+45,20270875,"Zhao, 2018",unseen_study_test
+45,20270875,"Zhao, 2020",unseen_study_test
+45,20270875,"Zhi et al, 2022",unseen_study_test
+45,20270875,"Zhi et al, 2025",development
+46,20270876,"Abdikheibari, 2022",development
+46,20270876,"Appleman et al, 2013",development
+46,20270876,"Bi et al, 2024",development
+46,20270876,"Boo, 2018",development
+46,20270876,"Boonya-atichart, 2017",development
+46,20270876,"Chen et al, 2023",development
+46,20270876,"Franke, 2019",development
+46,20270876,"Franke, 2021",development
+46,20270876,"Fujioka, 2024",development
+46,20270876,"Ge et al, 2025",unseen_study_test
+46,20270876,"Griffin, 2024",development
+46,20270876,"H. Hara-Yamamura, 2022",unseen_study_test
+46,20270876,"Hang, 2015",development
+46,20270876,"Jeong et al, 2024",development
+46,20270876,"Kim et al, 2025",development
+46,20270876,"Le et al, 2022",development
+46,20270876,"Li et al, 2021",development
+46,20270876,"Lipp et al, 2010",development
+46,20270876,"Liu Z et al, 2024",development
+46,20270876,"Liu Z et al, 2024 (2)",unseen_study_test
+46,20270876,"Liu et al, 2021",unseen_study_test
+46,20270876,"Liu et al, 2023",development
+46,20270876,"Lu et al, 2025",development
+46,20270876,"Luo et al, 2025",development
+46,20270876,"Luo, 2016",development
+46,20270876,"L√©niz-Pizarro, 2022",unseen_study_test
+46,20270876,"Ma J., 2022",development
+46,20270876,"Ma et al, 2024",development
+46,20270876,"Ma et al, 2024 (2)",unseen_study_test
+46,20270876,"Minhas et al, 2025",development
+46,20270876,"Pica, 2019",development
+46,20270876,"Pilevar et al, 2025",development
+46,20270876,"Pramanik, 2017",development
+46,20270876,"Qi et al, 2022",development
+46,20270876,"Rattanaoudom, 2011",development
+46,20270876,"Rychlewska, 2024",unseen_study_test
+46,20270876,"Safulko et al., 2023",development
+46,20270876,"Soriano, 2019",development
+46,20270876,"Steinle-Darling & Reinhard, 2008",development
+46,20270876,"Steinle-Darling et al, 2010",unseen_study_test
+46,20270876,"Tang, 2006",development
+46,20270876,"Tang, 2007",development
+46,20270876,"Toure, 2019",development
+46,20270876,"Turk et al, 2025",development
+46,20270876,"Wang et al, 2018",development
+46,20270876,"Wang et al, 2025",unseen_study_test
+46,20270876,"Wang et al, 2025 (2)",development
+46,20270876,"Wang, 2015",development
+46,20270876,"Wang, 2021",development
+46,20270876,"Wu Y, 2023",development
+46,20270876,"Yang et al, 2024",development
+46,20270876,"Yu, 2016",unseen_study_test
+46,20270876,"Zeng, 2017",development
+46,20270876,"Zhai et al, 2025",development
+46,20270876,"Zhang, 2024",development
+46,20270876,"Zhao, 2013",unseen_study_test
+46,20270876,"Zhao, 2016",development
+46,20270876,"Zhao, 2018",unseen_study_test
+46,20270876,"Zhao, 2020",unseen_study_test
+46,20270876,"Zhi et al, 2022",development
+46,20270876,"Zhi et al, 2025",development
+47,20270877,"Abdikheibari, 2022",development
+47,20270877,"Appleman et al, 2013",development
+47,20270877,"Bi et al, 2024",development
+47,20270877,"Boo, 2018",unseen_study_test
+47,20270877,"Boonya-atichart, 2017",development
+47,20270877,"Chen et al, 2023",development
+47,20270877,"Franke, 2019",development
+47,20270877,"Franke, 2021",development
+47,20270877,"Fujioka, 2024",development
+47,20270877,"Ge et al, 2025",development
+47,20270877,"Griffin, 2024",unseen_study_test
+47,20270877,"H. Hara-Yamamura, 2022",unseen_study_test
+47,20270877,"Hang, 2015",development
+47,20270877,"Jeong et al, 2024",unseen_study_test
+47,20270877,"Kim et al, 2025",development
+47,20270877,"Le et al, 2022",development
+47,20270877,"Li et al, 2021",unseen_study_test
+47,20270877,"Lipp et al, 2010",development
+47,20270877,"Liu Z et al, 2024",development
+47,20270877,"Liu Z et al, 2024 (2)",development
+47,20270877,"Liu et al, 2021",development
+47,20270877,"Liu et al, 2023",unseen_study_test
+47,20270877,"Lu et al, 2025",development
+47,20270877,"Luo et al, 2025",development
+47,20270877,"Luo, 2016",development
+47,20270877,"L√©niz-Pizarro, 2022",unseen_study_test
+47,20270877,"Ma J., 2022",development
+47,20270877,"Ma et al, 2024",development
+47,20270877,"Ma et al, 2024 (2)",development
+47,20270877,"Minhas et al, 2025",development
+47,20270877,"Pica, 2019",unseen_study_test
+47,20270877,"Pilevar et al, 2025",unseen_study_test
+47,20270877,"Pramanik, 2017",development
+47,20270877,"Qi et al, 2022",development
+47,20270877,"Rattanaoudom, 2011",unseen_study_test
+47,20270877,"Rychlewska, 2024",unseen_study_test
+47,20270877,"Safulko et al., 2023",development
+47,20270877,"Soriano, 2019",development
+47,20270877,"Steinle-Darling & Reinhard, 2008",development
+47,20270877,"Steinle-Darling et al, 2010",development
+47,20270877,"Tang, 2006",development
+47,20270877,"Tang, 2007",development
+47,20270877,"Toure, 2019",development
+47,20270877,"Turk et al, 2025",unseen_study_test
+47,20270877,"Wang et al, 2018",development
+47,20270877,"Wang et al, 2025",development
+47,20270877,"Wang et al, 2025 (2)",development
+47,20270877,"Wang, 2015",development
+47,20270877,"Wang, 2021",development
+47,20270877,"Wu Y, 2023",development
+47,20270877,"Yang et al, 2024",development
+47,20270877,"Yu, 2016",development
+47,20270877,"Zeng, 2017",development
+47,20270877,"Zhai et al, 2025",development
+47,20270877,"Zhang, 2024",development
+47,20270877,"Zhao, 2013",unseen_study_test
+47,20270877,"Zhao, 2016",development
+47,20270877,"Zhao, 2018",development
+47,20270877,"Zhao, 2020",development
+47,20270877,"Zhi et al, 2022",development
+47,20270877,"Zhi et al, 2025",development
+48,20270878,"Abdikheibari, 2022",development
+48,20270878,"Appleman et al, 2013",development
+48,20270878,"Bi et al, 2024",unseen_study_test
+48,20270878,"Boo, 2018",development
+48,20270878,"Boonya-atichart, 2017",development
+48,20270878,"Chen et al, 2023",development
+48,20270878,"Franke, 2019",development
+48,20270878,"Franke, 2021",development
+48,20270878,"Fujioka, 2024",development
+48,20270878,"Ge et al, 2025",development
+48,20270878,"Griffin, 2024",development
+48,20270878,"H. Hara-Yamamura, 2022",development
+48,20270878,"Hang, 2015",unseen_study_test
+48,20270878,"Jeong et al, 2024",development
+48,20270878,"Kim et al, 2025",development
+48,20270878,"Le et al, 2022",development
+48,20270878,"Li et al, 2021",unseen_study_test
+48,20270878,"Lipp et al, 2010",development
+48,20270878,"Liu Z et al, 2024",development
+48,20270878,"Liu Z et al, 2024 (2)",development
+48,20270878,"Liu et al, 2021",development
+48,20270878,"Liu et al, 2023",development
+48,20270878,"Lu et al, 2025",development
+48,20270878,"Luo et al, 2025",development
+48,20270878,"Luo, 2016",development
+48,20270878,"L√©niz-Pizarro, 2022",unseen_study_test
+48,20270878,"Ma J., 2022",unseen_study_test
+48,20270878,"Ma et al, 2024",development
+48,20270878,"Ma et al, 2024 (2)",unseen_study_test
+48,20270878,"Minhas et al, 2025",development
+48,20270878,"Pica, 2019",development
+48,20270878,"Pilevar et al, 2025",development
+48,20270878,"Pramanik, 2017",development
+48,20270878,"Qi et al, 2022",development
+48,20270878,"Rattanaoudom, 2011",development
+48,20270878,"Rychlewska, 2024",development
+48,20270878,"Safulko et al., 2023",unseen_study_test
+48,20270878,"Soriano, 2019",development
+48,20270878,"Steinle-Darling & Reinhard, 2008",development
+48,20270878,"Steinle-Darling et al, 2010",unseen_study_test
+48,20270878,"Tang, 2006",development
+48,20270878,"Tang, 2007",unseen_study_test
+48,20270878,"Toure, 2019",development
+48,20270878,"Turk et al, 2025",development
+48,20270878,"Wang et al, 2018",unseen_study_test
+48,20270878,"Wang et al, 2025",development
+48,20270878,"Wang et al, 2025 (2)",development
+48,20270878,"Wang, 2015",development
+48,20270878,"Wang, 2021",unseen_study_test
+48,20270878,"Wu Y, 2023",development
+48,20270878,"Yang et al, 2024",unseen_study_test
+48,20270878,"Yu, 2016",unseen_study_test
+48,20270878,"Zeng, 2017",development
+48,20270878,"Zhai et al, 2025",development
+48,20270878,"Zhang, 2024",development
+48,20270878,"Zhao, 2013",development
+48,20270878,"Zhao, 2016",development
+48,20270878,"Zhao, 2018",development
+48,20270878,"Zhao, 2020",development
+48,20270878,"Zhi et al, 2022",development
+48,20270878,"Zhi et al, 2025",development
+49,20270879,"Abdikheibari, 2022",development
+49,20270879,"Appleman et al, 2013",development
+49,20270879,"Bi et al, 2024",development
+49,20270879,"Boo, 2018",development
+49,20270879,"Boonya-atichart, 2017",unseen_study_test
+49,20270879,"Chen et al, 2023",development
+49,20270879,"Franke, 2019",unseen_study_test
+49,20270879,"Franke, 2021",unseen_study_test
+49,20270879,"Fujioka, 2024",development
+49,20270879,"Ge et al, 2025",development
+49,20270879,"Griffin, 2024",development
+49,20270879,"H. Hara-Yamamura, 2022",unseen_study_test
+49,20270879,"Hang, 2015",development
+49,20270879,"Jeong et al, 2024",development
+49,20270879,"Kim et al, 2025",development
+49,20270879,"Le et al, 2022",development
+49,20270879,"Li et al, 2021",development
+49,20270879,"Lipp et al, 2010",development
+49,20270879,"Liu Z et al, 2024",unseen_study_test
+49,20270879,"Liu Z et al, 2024 (2)",unseen_study_test
+49,20270879,"Liu et al, 2021",development
+49,20270879,"Liu et al, 2023",development
+49,20270879,"Lu et al, 2025",development
+49,20270879,"Luo et al, 2025",development
+49,20270879,"Luo, 2016",development
+49,20270879,"L√©niz-Pizarro, 2022",development
+49,20270879,"Ma J., 2022",unseen_study_test
+49,20270879,"Ma et al, 2024",development
+49,20270879,"Ma et al, 2024 (2)",development
+49,20270879,"Minhas et al, 2025",development
+49,20270879,"Pica, 2019",unseen_study_test
+49,20270879,"Pilevar et al, 2025",development
+49,20270879,"Pramanik, 2017",development
+49,20270879,"Qi et al, 2022",development
+49,20270879,"Rattanaoudom, 2011",unseen_study_test
+49,20270879,"Rychlewska, 2024",development
+49,20270879,"Safulko et al., 2023",development
+49,20270879,"Soriano, 2019",development
+49,20270879,"Steinle-Darling & Reinhard, 2008",development
+49,20270879,"Steinle-Darling et al, 2010",development
+49,20270879,"Tang, 2006",development
+49,20270879,"Tang, 2007",unseen_study_test
+49,20270879,"Toure, 2019",development
+49,20270879,"Turk et al, 2025",development
+49,20270879,"Wang et al, 2018",development
+49,20270879,"Wang et al, 2025",unseen_study_test
+49,20270879,"Wang et al, 2025 (2)",development
+49,20270879,"Wang, 2015",development
+49,20270879,"Wang, 2021",development
+49,20270879,"Wu Y, 2023",development
+49,20270879,"Yang et al, 2024",development
+49,20270879,"Yu, 2016",development
+49,20270879,"Zeng, 2017",development
+49,20270879,"Zhai et al, 2025",development
+49,20270879,"Zhang, 2024",development
+49,20270879,"Zhao, 2013",unseen_study_test
+49,20270879,"Zhao, 2016",development
+49,20270879,"Zhao, 2018",unseen_study_test
+49,20270879,"Zhao, 2020",development
+49,20270879,"Zhi et al, 2022",development
+49,20270879,"Zhi et al, 2025",development
+50,20270880,"Abdikheibari, 2022",development
+50,20270880,"Appleman et al, 2013",development
+50,20270880,"Bi et al, 2024",development
+50,20270880,"Boo, 2018",development
+50,20270880,"Boonya-atichart, 2017",development
+50,20270880,"Chen et al, 2023",development
+50,20270880,"Franke, 2019",unseen_study_test
+50,20270880,"Franke, 2021",development
+50,20270880,"Fujioka, 2024",unseen_study_test
+50,20270880,"Ge et al, 2025",development
+50,20270880,"Griffin, 2024",development
+50,20270880,"H. Hara-Yamamura, 2022",development
+50,20270880,"Hang, 2015",development
+50,20270880,"Jeong et al, 2024",unseen_study_test
+50,20270880,"Kim et al, 2025",development
+50,20270880,"Le et al, 2022",development
+50,20270880,"Li et al, 2021",development
+50,20270880,"Lipp et al, 2010",development
+50,20270880,"Liu Z et al, 2024",development
+50,20270880,"Liu Z et al, 2024 (2)",unseen_study_test
+50,20270880,"Liu et al, 2021",unseen_study_test
+50,20270880,"Liu et al, 2023",development
+50,20270880,"Lu et al, 2025",development
+50,20270880,"Luo et al, 2025",development
+50,20270880,"Luo, 2016",development
+50,20270880,"L√©niz-Pizarro, 2022",development
+50,20270880,"Ma J., 2022",development
+50,20270880,"Ma et al, 2024",unseen_study_test
+50,20270880,"Ma et al, 2024 (2)",development
+50,20270880,"Minhas et al, 2025",unseen_study_test
+50,20270880,"Pica, 2019",unseen_study_test
+50,20270880,"Pilevar et al, 2025",development
+50,20270880,"Pramanik, 2017",development
+50,20270880,"Qi et al, 2022",development
+50,20270880,"Rattanaoudom, 2011",development
+50,20270880,"Rychlewska, 2024",development
+50,20270880,"Safulko et al., 2023",development
+50,20270880,"Soriano, 2019",development
+50,20270880,"Steinle-Darling & Reinhard, 2008",development
+50,20270880,"Steinle-Darling et al, 2010",development
+50,20270880,"Tang, 2006",unseen_study_test
+50,20270880,"Tang, 2007",development
+50,20270880,"Toure, 2019",development
+50,20270880,"Turk et al, 2025",development
+50,20270880,"Wang et al, 2018",development
+50,20270880,"Wang et al, 2025",development
+50,20270880,"Wang et al, 2025 (2)",development
+50,20270880,"Wang, 2015",development
+50,20270880,"Wang, 2021",development
+50,20270880,"Wu Y, 2023",development
+50,20270880,"Yang et al, 2024",unseen_study_test
+50,20270880,"Yu, 2016",development
+50,20270880,"Zeng, 2017",unseen_study_test
+50,20270880,"Zhai et al, 2025",development
+50,20270880,"Zhang, 2024",development
+50,20270880,"Zhao, 2013",development
+50,20270880,"Zhao, 2016",development
+50,20270880,"Zhao, 2018",unseen_study_test
+50,20270880,"Zhao, 2020",unseen_study_test
+50,20270880,"Zhi et al, 2022",development
+50,20270880,"Zhi et al, 2025",development

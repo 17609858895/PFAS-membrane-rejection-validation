@@ -1,0 +1,2 @@
+﻿primary_ols_rows,primary_ols_studies,common_support_retained_rows,common_support_excluded_rows,common_support_retained_fraction,common_support_low,common_support_high,interpretation
+878,22,823,55,0.9373576309794989,0.0186895124328185,0.9630845255168592,The 878-row OLS is primary; common support is a diagnostic and an 823-row sensitivity subset.

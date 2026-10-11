@@ -1,0 +1,5 @@
+﻿step,stage,rule,rows,studies,rows_removed_at_step,studies_removed_at_step,status
+0,Public source workbook,All machine-readable rows in es6c02287_si_002.xlsx,2517,62,0,0,reproduced
+1,Medium-to-high rejection,Retain Rejection ≥ 0.50,2450,62,67,0,reproduced
+2,NF/RO analysis set,Retain membrane class NF or RO,2424,61,26,1,reproduced
+3,Published analysis reported in reference [9],Published count; the public release does not archive the exact analysis snapshot or row-level exclusion IDs,2353,60,71,1,not reproducible from the public files; source-version boundary

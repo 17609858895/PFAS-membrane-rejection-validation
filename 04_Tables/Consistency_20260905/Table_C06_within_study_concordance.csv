@@ -1,0 +1,367 @@
+﻿model,study,outer_fold,rows,comparable_pairs,concordance_numerator,within_study_c
+13-feature censor-aware AFT,"Abdikheibari, 2022",2,3,3,3.0,1.0
+13-feature censor-aware AFT,"Appleman et al, 2013",4,135,448,437.5,0.9765625
+13-feature censor-aware AFT,"Bi et al, 2024",7,56,1539,975.0,0.6335282651072125
+13-feature censor-aware AFT,"Boo, 2018",6,6,15,9.0,0.6
+13-feature censor-aware AFT,"Boonya-atichart, 2017",4,2,1,0.0,0.0
+13-feature censor-aware AFT,"Chen et al, 2023",8,86,3626,2292.0,0.6321014892443464
+13-feature censor-aware AFT,"Franke, 2019",8,8,1,1.0,1.0
+13-feature censor-aware AFT,"Franke, 2021",7,16,0,0.0,
+13-feature censor-aware AFT,"Fujioka, 2024",5,15,105,64.0,0.6095238095238096
+13-feature censor-aware AFT,"Ge et al, 2025",9,42,860,704.0,0.8186046511627907
+13-feature censor-aware AFT,"Griffin, 2024",3,42,594,405.5,0.6826599326599326
+13-feature censor-aware AFT,"H. Hara-Yamamura, 2022",6,6,15,8.0,0.5333333333333333
+13-feature censor-aware AFT,"Hang, 2015",8,42,833,486.5,0.5840336134453782
+13-feature censor-aware AFT,"Jeong et al, 2024",9,77,2914,1944.5,0.6672958133150309
+13-feature censor-aware AFT,"Kim et al, 2025",3,16,120,84.0,0.7
+13-feature censor-aware AFT,"Le et al, 2022",5,5,10,0.5,0.05
+13-feature censor-aware AFT,"Li et al, 2021",10,14,90,64.0,0.7111111111111111
+13-feature censor-aware AFT,"Lipp et al, 2010",4,16,85,67.0,0.788235294117647
+13-feature censor-aware AFT,"Liu Z et al, 2024",3,15,104,69.0,0.6634615384615384
+13-feature censor-aware AFT,"Liu Z et al, 2024 (2)",3,28,377,185.5,0.4920424403183024
+13-feature censor-aware AFT,"Liu et al, 2021",5,120,6294,5130.5,0.8151414045122338
+13-feature censor-aware AFT,"Liu et al, 2023",10,62,1885,1304.0,0.6917771883289124
+13-feature censor-aware AFT,"Lu et al, 2025",3,138,9406,5716.5,0.607750372102913
+13-feature censor-aware AFT,"Luo et al, 2025",8,28,378,307.0,0.8121693121693122
+13-feature censor-aware AFT,"Luo, 2016",6,48,1128,754.5,0.6688829787234043
+13-feature censor-aware AFT,"L√©niz-Pizarro, 2022",7,11,55,41.0,0.7454545454545455
+13-feature censor-aware AFT,"Ma J., 2022",2,35,594,261.0,0.4393939393939394
+13-feature censor-aware AFT,"Ma et al, 2024",7,90,3802,2391.5,0.6290110468174644
+13-feature censor-aware AFT,"Ma et al, 2024 (2)",7,40,778,579.5,0.7448586118251928
+13-feature censor-aware AFT,"Minhas et al, 2025",9,14,91,62.5,0.6868131868131868
+13-feature censor-aware AFT,"Pica, 2019",4,1,0,0.0,
+13-feature censor-aware AFT,"Pilevar et al, 2025",1,4,6,3.0,0.5
+13-feature censor-aware AFT,"Pramanik, 2017",9,20,190,128.0,0.6736842105263158
+13-feature censor-aware AFT,"Qi et al, 2022",6,16,120,75.0,0.625
+13-feature censor-aware AFT,"Rattanaoudom, 2011",3,3,3,1.0,0.3333333333333333
+13-feature censor-aware AFT,"Rychlewska, 2024",2,165,13424,6577.5,0.48998063170441003
+13-feature censor-aware AFT,"Safulko et al., 2023",5,35,569,313.0,0.5500878734622144
+13-feature censor-aware AFT,"Soriano, 2019",10,62,1874,1374.0,0.7331910352187834
+13-feature censor-aware AFT,"Steinle-Darling & Reinhard, 2008",8,57,1480,777.0,0.525
+13-feature censor-aware AFT,"Steinle-Darling et al, 2010",7,2,1,0.5,0.5
+13-feature censor-aware AFT,"Tang, 2006",10,24,275,211.5,0.769090909090909
+13-feature censor-aware AFT,"Tang, 2007",9,28,375,295.0,0.7866666666666666
+13-feature censor-aware AFT,"Toure, 2019",10,5,9,0.0,0.0
+13-feature censor-aware AFT,"Turk et al, 2025",10,32,492,401.5,0.8160569105691057
+13-feature censor-aware AFT,"Wang et al, 2018",2,15,105,87.5,0.8333333333333334
+13-feature censor-aware AFT,"Wang et al, 2025",2,24,274,185.0,0.6751824817518248
+13-feature censor-aware AFT,"Wang et al, 2025 (2)",8,16,120,57.0,0.475
+13-feature censor-aware AFT,"Wang, 2015",10,44,945,755.0,0.798941798941799
+13-feature censor-aware AFT,"Wang, 2021",1,15,102,33.0,0.3235294117647059
+13-feature censor-aware AFT,"Wu Y, 2023",5,44,942,669.5,0.7107218683651805
+13-feature censor-aware AFT,"Yang et al, 2024",8,6,14,9.0,0.6428571428571429
+13-feature censor-aware AFT,"Yu, 2016",4,14,91,68.0,0.7472527472527473
+13-feature censor-aware AFT,"Zeng, 2017",4,43,869,596.5,0.6864211737629459
+13-feature censor-aware AFT,"Zhai et al, 2025",5,24,274,199.5,0.7281021897810219
+13-feature censor-aware AFT,"Zhang, 2024",7,27,351,184.0,0.5242165242165242
+13-feature censor-aware AFT,"Zhao, 2013",6,104,5293,4146.5,0.7833931607783865
+13-feature censor-aware AFT,"Zhao, 2016",6,38,693,521.5,0.7525252525252525
+13-feature censor-aware AFT,"Zhao, 2018",6,25,296,138.5,0.46790540540540543
+13-feature censor-aware AFT,"Zhao, 2020",4,31,462,315.5,0.6829004329004329
+13-feature censor-aware AFT,"Zhi et al, 2022",9,60,1743,1361.0,0.780837636259323
+13-feature censor-aware AFT,"Zhi et al, 2025",1,224,23675,19135.0,0.8082365364308343
+2-feature AFT (PFAS volume + water permeance),"Abdikheibari, 2022",2,3,3,2.5,0.8333333333333334
+2-feature AFT (PFAS volume + water permeance),"Appleman et al, 2013",4,135,448,411.5,0.9185267857142857
+2-feature AFT (PFAS volume + water permeance),"Bi et al, 2024",7,56,1539,854.5,0.555230669265757
+2-feature AFT (PFAS volume + water permeance),"Boo, 2018",6,6,15,6.5,0.43333333333333335
+2-feature AFT (PFAS volume + water permeance),"Boonya-atichart, 2017",4,2,1,0.5,0.5
+2-feature AFT (PFAS volume + water permeance),"Chen et al, 2023",8,86,3626,1451.5,0.4003033645890789
+2-feature AFT (PFAS volume + water permeance),"Franke, 2019",8,8,1,1.0,1.0
+2-feature AFT (PFAS volume + water permeance),"Franke, 2021",7,16,0,0.0,
+2-feature AFT (PFAS volume + water permeance),"Fujioka, 2024",5,15,105,66.5,0.6333333333333333
+2-feature AFT (PFAS volume + water permeance),"Ge et al, 2025",9,42,860,669.5,0.7784883720930232
+2-feature AFT (PFAS volume + water permeance),"Griffin, 2024",3,42,594,421.5,0.7095959595959596
+2-feature AFT (PFAS volume + water permeance),"H. Hara-Yamamura, 2022",6,6,15,7.0,0.4666666666666667
+2-feature AFT (PFAS volume + water permeance),"Hang, 2015",8,42,833,288.5,0.34633853541416565
+2-feature AFT (PFAS volume + water permeance),"Jeong et al, 2024",9,77,2914,2103.5,0.7218599862731641
+2-feature AFT (PFAS volume + water permeance),"Kim et al, 2025",3,16,120,70.0,0.5833333333333334
+2-feature AFT (PFAS volume + water permeance),"Le et al, 2022",5,5,10,0.5,0.05
+2-feature AFT (PFAS volume + water permeance),"Li et al, 2021",10,14,90,60.0,0.6666666666666666
+2-feature AFT (PFAS volume + water permeance),"Lipp et al, 2010",4,16,85,54.5,0.6411764705882353
+2-feature AFT (PFAS volume + water permeance),"Liu Z et al, 2024",3,15,104,52.0,0.5
+2-feature AFT (PFAS volume + water permeance),"Liu Z et al, 2024 (2)",3,28,377,188.5,0.5
+2-feature AFT (PFAS volume + water permeance),"Liu et al, 2021",5,120,6294,4664.5,0.7411026374324754
+2-feature AFT (PFAS volume + water permeance),"Liu et al, 2023",10,62,1885,1315.0,0.6976127320954907
+2-feature AFT (PFAS volume + water permeance),"Lu et al, 2025",3,138,9406,6020.5,0.6400701679778864
+2-feature AFT (PFAS volume + water permeance),"Luo et al, 2025",8,28,378,285.0,0.753968253968254
+2-feature AFT (PFAS volume + water permeance),"Luo, 2016",6,48,1128,534.5,0.47384751773049644
+2-feature AFT (PFAS volume + water permeance),"L√©niz-Pizarro, 2022",7,11,55,36.0,0.6545454545454545
+2-feature AFT (PFAS volume + water permeance),"Ma J., 2022",2,35,594,198.5,0.3341750841750842
+2-feature AFT (PFAS volume + water permeance),"Ma et al, 2024",7,90,3802,2444.5,0.6429510783798001
+2-feature AFT (PFAS volume + water permeance),"Ma et al, 2024 (2)",7,40,778,522.0,0.6709511568123393
+2-feature AFT (PFAS volume + water permeance),"Minhas et al, 2025",9,14,91,54.0,0.5934065934065934
+2-feature AFT (PFAS volume + water permeance),"Pica, 2019",4,1,0,0.0,
+2-feature AFT (PFAS volume + water permeance),"Pilevar et al, 2025",1,4,6,2.0,0.3333333333333333
+2-feature AFT (PFAS volume + water permeance),"Pramanik, 2017",9,20,190,103.0,0.5421052631578948
+2-feature AFT (PFAS volume + water permeance),"Qi et al, 2022",6,16,120,74.0,0.6166666666666667
+2-feature AFT (PFAS volume + water permeance),"Rattanaoudom, 2011",3,3,3,1.5,0.5
+2-feature AFT (PFAS volume + water permeance),"Rychlewska, 2024",2,165,13424,4256.5,0.31708134684147793
+2-feature AFT (PFAS volume + water permeance),"Safulko et al., 2023",5,35,569,297.5,0.5228471001757469
+2-feature AFT (PFAS volume + water permeance),"Soriano, 2019",10,62,1874,1273.0,0.6792956243329776
+2-feature AFT (PFAS volume + water permeance),"Steinle-Darling & Reinhard, 2008",8,57,1480,596.5,0.40304054054054056
+2-feature AFT (PFAS volume + water permeance),"Steinle-Darling et al, 2010",7,2,1,0.5,0.5
+2-feature AFT (PFAS volume + water permeance),"Tang, 2006",10,24,275,181.5,0.66
+2-feature AFT (PFAS volume + water permeance),"Tang, 2007",9,28,375,203.5,0.5426666666666666
+2-feature AFT (PFAS volume + water permeance),"Toure, 2019",10,5,9,4.0,0.4444444444444444
+2-feature AFT (PFAS volume + water permeance),"Turk et al, 2025",10,32,492,417.0,0.8475609756097561
+2-feature AFT (PFAS volume + water permeance),"Wang et al, 2018",2,15,105,65.5,0.6238095238095238
+2-feature AFT (PFAS volume + water permeance),"Wang et al, 2025",2,24,274,187.0,0.6824817518248175
+2-feature AFT (PFAS volume + water permeance),"Wang et al, 2025 (2)",8,16,120,60.0,0.5
+2-feature AFT (PFAS volume + water permeance),"Wang, 2015",10,44,945,472.5,0.5
+2-feature AFT (PFAS volume + water permeance),"Wang, 2021",1,15,102,48.5,0.47549019607843135
+2-feature AFT (PFAS volume + water permeance),"Wu Y, 2023",5,44,942,688.5,0.7308917197452229
+2-feature AFT (PFAS volume + water permeance),"Yang et al, 2024",8,6,14,11.0,0.7857142857142857
+2-feature AFT (PFAS volume + water permeance),"Yu, 2016",4,14,91,69.5,0.7637362637362637
+2-feature AFT (PFAS volume + water permeance),"Zeng, 2017",4,43,869,455.5,0.5241657077100115
+2-feature AFT (PFAS volume + water permeance),"Zhai et al, 2025",5,24,274,159.0,0.5802919708029197
+2-feature AFT (PFAS volume + water permeance),"Zhang, 2024",7,27,351,273.5,0.7792022792022792
+2-feature AFT (PFAS volume + water permeance),"Zhao, 2013",6,104,5293,2646.5,0.5
+2-feature AFT (PFAS volume + water permeance),"Zhao, 2016",6,38,693,346.5,0.5
+2-feature AFT (PFAS volume + water permeance),"Zhao, 2018",6,25,296,148.0,0.5
+2-feature AFT (PFAS volume + water permeance),"Zhao, 2020",4,31,462,231.0,0.5
+2-feature AFT (PFAS volume + water permeance),"Zhi et al, 2022",9,60,1743,1330.5,0.7633390705679862
+2-feature AFT (PFAS volume + water permeance),"Zhi et al, 2025",1,224,23675,15909.5,0.6719957761351637
+Empirical AFT (logP + PFAS volume),"Abdikheibari, 2022",2,3,3,1.5,0.5
+Empirical AFT (logP + PFAS volume),"Appleman et al, 2013",4,135,448,411.5,0.9185267857142857
+Empirical AFT (logP + PFAS volume),"Bi et al, 2024",7,56,1539,790.0,0.5133203378817414
+Empirical AFT (logP + PFAS volume),"Boo, 2018",6,6,15,7.5,0.5
+Empirical AFT (logP + PFAS volume),"Boonya-atichart, 2017",4,2,1,0.5,0.5
+Empirical AFT (logP + PFAS volume),"Chen et al, 2023",8,86,3626,1546.5,0.42650303364589076
+Empirical AFT (logP + PFAS volume),"Franke, 2019",8,8,1,1.0,1.0
+Empirical AFT (logP + PFAS volume),"Franke, 2021",7,16,0,0.0,
+Empirical AFT (logP + PFAS volume),"Fujioka, 2024",5,15,105,67.5,0.6428571428571429
+Empirical AFT (logP + PFAS volume),"Ge et al, 2025",9,42,860,505.5,0.5877906976744186
+Empirical AFT (logP + PFAS volume),"Griffin, 2024",3,42,594,228.5,0.3846801346801347
+Empirical AFT (logP + PFAS volume),"H. Hara-Yamamura, 2022",6,6,15,10.0,0.6666666666666666
+Empirical AFT (logP + PFAS volume),"Hang, 2015",8,42,833,416.5,0.5
+Empirical AFT (logP + PFAS volume),"Jeong et al, 2024",9,77,2914,1760.0,0.6039807824296499
+Empirical AFT (logP + PFAS volume),"Kim et al, 2025",3,16,120,70.0,0.5833333333333334
+Empirical AFT (logP + PFAS volume),"Le et al, 2022",5,5,10,5.0,0.5
+Empirical AFT (logP + PFAS volume),"Li et al, 2021",10,14,90,48.0,0.5333333333333333
+Empirical AFT (logP + PFAS volume),"Lipp et al, 2010",4,16,85,61.0,0.7176470588235294
+Empirical AFT (logP + PFAS volume),"Liu Z et al, 2024",3,15,104,52.0,0.5
+Empirical AFT (logP + PFAS volume),"Liu Z et al, 2024 (2)",3,28,377,188.5,0.5
+Empirical AFT (logP + PFAS volume),"Liu et al, 2021",5,120,6294,3740.5,0.594296155068319
+Empirical AFT (logP + PFAS volume),"Liu et al, 2023",10,62,1885,1255.0,0.6657824933687002
+Empirical AFT (logP + PFAS volume),"Lu et al, 2025",3,138,9406,6274.5,0.6670742079523708
+Empirical AFT (logP + PFAS volume),"Luo et al, 2025",8,28,378,268.0,0.708994708994709
+Empirical AFT (logP + PFAS volume),"Luo, 2016",6,48,1128,564.0,0.5
+Empirical AFT (logP + PFAS volume),"L√©niz-Pizarro, 2022",7,11,55,35.0,0.6363636363636364
+Empirical AFT (logP + PFAS volume),"Ma J., 2022",2,35,594,200.0,0.3367003367003367
+Empirical AFT (logP + PFAS volume),"Ma et al, 2024",7,90,3802,2132.0,0.560757496054708
+Empirical AFT (logP + PFAS volume),"Ma et al, 2024 (2)",7,40,778,486.0,0.6246786632390745
+Empirical AFT (logP + PFAS volume),"Minhas et al, 2025",9,14,91,55.5,0.6098901098901099
+Empirical AFT (logP + PFAS volume),"Pica, 2019",4,1,0,0.0,
+Empirical AFT (logP + PFAS volume),"Pilevar et al, 2025",1,4,6,3.0,0.5
+Empirical AFT (logP + PFAS volume),"Pramanik, 2017",9,20,190,103.0,0.5421052631578948
+Empirical AFT (logP + PFAS volume),"Qi et al, 2022",6,16,120,66.0,0.55
+Empirical AFT (logP + PFAS volume),"Rattanaoudom, 2011",3,3,3,1.5,0.5
+Empirical AFT (logP + PFAS volume),"Rychlewska, 2024",2,165,13424,5001.5,0.3725789630512515
+Empirical AFT (logP + PFAS volume),"Safulko et al., 2023",5,35,569,355.0,0.6239015817223199
+Empirical AFT (logP + PFAS volume),"Soriano, 2019",10,62,1874,937.0,0.5
+Empirical AFT (logP + PFAS volume),"Steinle-Darling & Reinhard, 2008",8,57,1480,798.0,0.5391891891891892
+Empirical AFT (logP + PFAS volume),"Steinle-Darling et al, 2010",7,2,1,0.5,0.5
+Empirical AFT (logP + PFAS volume),"Tang, 2006",10,24,275,137.5,0.5
+Empirical AFT (logP + PFAS volume),"Tang, 2007",9,28,375,187.5,0.5
+Empirical AFT (logP + PFAS volume),"Toure, 2019",10,5,9,5.0,0.5555555555555556
+Empirical AFT (logP + PFAS volume),"Turk et al, 2025",10,32,492,203.0,0.41260162601626016
+Empirical AFT (logP + PFAS volume),"Wang et al, 2018",2,15,105,65.5,0.6238095238095238
+Empirical AFT (logP + PFAS volume),"Wang et al, 2025",2,24,274,199.5,0.7281021897810219
+Empirical AFT (logP + PFAS volume),"Wang et al, 2025 (2)",8,16,120,60.0,0.5
+Empirical AFT (logP + PFAS volume),"Wang, 2015",10,44,945,472.5,0.5
+Empirical AFT (logP + PFAS volume),"Wang, 2021",1,15,102,55.5,0.5441176470588235
+Empirical AFT (logP + PFAS volume),"Wu Y, 2023",5,44,942,231.0,0.24522292993630573
+Empirical AFT (logP + PFAS volume),"Yang et al, 2024",8,6,14,7.0,0.5
+Empirical AFT (logP + PFAS volume),"Yu, 2016",4,14,91,45.5,0.5
+Empirical AFT (logP + PFAS volume),"Zeng, 2017",4,43,869,434.5,0.5
+Empirical AFT (logP + PFAS volume),"Zhai et al, 2025",5,24,274,193.0,0.7043795620437956
+Empirical AFT (logP + PFAS volume),"Zhang, 2024",7,27,351,197.5,0.5626780626780626
+Empirical AFT (logP + PFAS volume),"Zhao, 2013",6,104,5293,2646.5,0.5
+Empirical AFT (logP + PFAS volume),"Zhao, 2016",6,38,693,346.5,0.5
+Empirical AFT (logP + PFAS volume),"Zhao, 2018",6,25,296,148.0,0.5
+Empirical AFT (logP + PFAS volume),"Zhao, 2020",4,31,462,231.0,0.5
+Empirical AFT (logP + PFAS volume),"Zhi et al, 2022",9,60,1743,1220.5,0.7002294893861158
+Empirical AFT (logP + PFAS volume),"Zhi et al, 2025",1,224,23675,16803.5,0.7097571277719112
+Training-set exact-row mean,"Abdikheibari, 2022",2,3,3,1.5,0.5
+Training-set exact-row mean,"Appleman et al, 2013",4,135,448,224.0,0.5
+Training-set exact-row mean,"Bi et al, 2024",7,56,1539,769.5,0.5
+Training-set exact-row mean,"Boo, 2018",6,6,15,7.5,0.5
+Training-set exact-row mean,"Boonya-atichart, 2017",4,2,1,0.5,0.5
+Training-set exact-row mean,"Chen et al, 2023",8,86,3626,1813.0,0.5
+Training-set exact-row mean,"Franke, 2019",8,8,1,0.5,0.5
+Training-set exact-row mean,"Franke, 2021",7,16,0,0.0,
+Training-set exact-row mean,"Fujioka, 2024",5,15,105,52.5,0.5
+Training-set exact-row mean,"Ge et al, 2025",9,42,860,430.0,0.5
+Training-set exact-row mean,"Griffin, 2024",3,42,594,297.0,0.5
+Training-set exact-row mean,"H. Hara-Yamamura, 2022",6,6,15,7.5,0.5
+Training-set exact-row mean,"Hang, 2015",8,42,833,416.5,0.5
+Training-set exact-row mean,"Jeong et al, 2024",9,77,2914,1457.0,0.5
+Training-set exact-row mean,"Kim et al, 2025",3,16,120,60.0,0.5
+Training-set exact-row mean,"Le et al, 2022",5,5,10,5.0,0.5
+Training-set exact-row mean,"Li et al, 2021",10,14,90,45.0,0.5
+Training-set exact-row mean,"Lipp et al, 2010",4,16,85,42.5,0.5
+Training-set exact-row mean,"Liu Z et al, 2024",3,15,104,52.0,0.5
+Training-set exact-row mean,"Liu Z et al, 2024 (2)",3,28,377,188.5,0.5
+Training-set exact-row mean,"Liu et al, 2021",5,120,6294,3147.0,0.5
+Training-set exact-row mean,"Liu et al, 2023",10,62,1885,942.5,0.5
+Training-set exact-row mean,"Lu et al, 2025",3,138,9406,4703.0,0.5
+Training-set exact-row mean,"Luo et al, 2025",8,28,378,189.0,0.5
+Training-set exact-row mean,"Luo, 2016",6,48,1128,564.0,0.5
+Training-set exact-row mean,"L√©niz-Pizarro, 2022",7,11,55,27.5,0.5
+Training-set exact-row mean,"Ma J., 2022",2,35,594,297.0,0.5
+Training-set exact-row mean,"Ma et al, 2024",7,90,3802,1901.0,0.5
+Training-set exact-row mean,"Ma et al, 2024 (2)",7,40,778,389.0,0.5
+Training-set exact-row mean,"Minhas et al, 2025",9,14,91,45.5,0.5
+Training-set exact-row mean,"Pica, 2019",4,1,0,0.0,
+Training-set exact-row mean,"Pilevar et al, 2025",1,4,6,3.0,0.5
+Training-set exact-row mean,"Pramanik, 2017",9,20,190,95.0,0.5
+Training-set exact-row mean,"Qi et al, 2022",6,16,120,60.0,0.5
+Training-set exact-row mean,"Rattanaoudom, 2011",3,3,3,1.5,0.5
+Training-set exact-row mean,"Rychlewska, 2024",2,165,13424,6712.0,0.5
+Training-set exact-row mean,"Safulko et al., 2023",5,35,569,284.5,0.5
+Training-set exact-row mean,"Soriano, 2019",10,62,1874,937.0,0.5
+Training-set exact-row mean,"Steinle-Darling & Reinhard, 2008",8,57,1480,740.0,0.5
+Training-set exact-row mean,"Steinle-Darling et al, 2010",7,2,1,0.5,0.5
+Training-set exact-row mean,"Tang, 2006",10,24,275,137.5,0.5
+Training-set exact-row mean,"Tang, 2007",9,28,375,187.5,0.5
+Training-set exact-row mean,"Toure, 2019",10,5,9,4.5,0.5
+Training-set exact-row mean,"Turk et al, 2025",10,32,492,246.0,0.5
+Training-set exact-row mean,"Wang et al, 2018",2,15,105,52.5,0.5
+Training-set exact-row mean,"Wang et al, 2025",2,24,274,137.0,0.5
+Training-set exact-row mean,"Wang et al, 2025 (2)",8,16,120,60.0,0.5
+Training-set exact-row mean,"Wang, 2015",10,44,945,472.5,0.5
+Training-set exact-row mean,"Wang, 2021",1,15,102,51.0,0.5
+Training-set exact-row mean,"Wu Y, 2023",5,44,942,471.0,0.5
+Training-set exact-row mean,"Yang et al, 2024",8,6,14,7.0,0.5
+Training-set exact-row mean,"Yu, 2016",4,14,91,45.5,0.5
+Training-set exact-row mean,"Zeng, 2017",4,43,869,434.5,0.5
+Training-set exact-row mean,"Zhai et al, 2025",5,24,274,137.0,0.5
+Training-set exact-row mean,"Zhang, 2024",7,27,351,175.5,0.5
+Training-set exact-row mean,"Zhao, 2013",6,104,5293,2646.5,0.5
+Training-set exact-row mean,"Zhao, 2016",6,38,693,346.5,0.5
+Training-set exact-row mean,"Zhao, 2018",6,25,296,148.0,0.5
+Training-set exact-row mean,"Zhao, 2020",4,31,462,231.0,0.5
+Training-set exact-row mean,"Zhi et al, 2022",9,60,1743,871.5,0.5
+Training-set exact-row mean,"Zhi et al, 2025",1,224,23675,11837.5,0.5
+AFT logistic-normal mean on rejection scale,"Abdikheibari, 2022",2,3,3,3.0,1.0
+AFT logistic-normal mean on rejection scale,"Appleman et al, 2013",4,135,448,439.0,0.9799107142857143
+AFT logistic-normal mean on rejection scale,"Bi et al, 2024",7,56,1539,974.0,0.6328784925276153
+AFT logistic-normal mean on rejection scale,"Boo, 2018",6,6,15,9.0,0.6
+AFT logistic-normal mean on rejection scale,"Boonya-atichart, 2017",4,2,1,0.0,0.0
+AFT logistic-normal mean on rejection scale,"Chen et al, 2023",8,86,3626,2294.5,0.6327909542195257
+AFT logistic-normal mean on rejection scale,"Franke, 2019",8,8,1,1.0,1.0
+AFT logistic-normal mean on rejection scale,"Franke, 2021",7,16,0,0.0,
+AFT logistic-normal mean on rejection scale,"Fujioka, 2024",5,15,105,63.0,0.6
+AFT logistic-normal mean on rejection scale,"Ge et al, 2025",9,42,860,703.5,0.8180232558139535
+AFT logistic-normal mean on rejection scale,"Griffin, 2024",3,42,594,405.0,0.6818181818181818
+AFT logistic-normal mean on rejection scale,"H. Hara-Yamamura, 2022",6,6,15,8.0,0.5333333333333333
+AFT logistic-normal mean on rejection scale,"Hang, 2015",8,42,833,489.5,0.5876350540216086
+AFT logistic-normal mean on rejection scale,"Jeong et al, 2024",9,77,2914,1946.5,0.6679821551132464
+AFT logistic-normal mean on rejection scale,"Kim et al, 2025",3,16,120,84.0,0.7
+AFT logistic-normal mean on rejection scale,"Le et al, 2022",5,5,10,0.5,0.05
+AFT logistic-normal mean on rejection scale,"Li et al, 2021",10,14,90,64.0,0.7111111111111111
+AFT logistic-normal mean on rejection scale,"Lipp et al, 2010",4,16,85,67.0,0.788235294117647
+AFT logistic-normal mean on rejection scale,"Liu Z et al, 2024",3,15,104,68.5,0.6586538461538461
+AFT logistic-normal mean on rejection scale,"Liu Z et al, 2024 (2)",3,28,377,185.5,0.4920424403183024
+AFT logistic-normal mean on rejection scale,"Liu et al, 2021",5,120,6294,5133.0,0.815538608198284
+AFT logistic-normal mean on rejection scale,"Liu et al, 2023",10,62,1885,1305.5,0.6925729442970823
+AFT logistic-normal mean on rejection scale,"Lu et al, 2025",3,138,9406,5716.0,0.6076972145439081
+AFT logistic-normal mean on rejection scale,"Luo et al, 2025",8,28,378,307.0,0.8121693121693122
+AFT logistic-normal mean on rejection scale,"Luo, 2016",6,48,1128,750.0,0.6648936170212766
+AFT logistic-normal mean on rejection scale,"L√©niz-Pizarro, 2022",7,11,55,41.0,0.7454545454545455
+AFT logistic-normal mean on rejection scale,"Ma J., 2022",2,35,594,264.5,0.4452861952861953
+AFT logistic-normal mean on rejection scale,"Ma et al, 2024",7,90,3802,2395.5,0.6300631246712257
+AFT logistic-normal mean on rejection scale,"Ma et al, 2024 (2)",7,40,778,581.5,0.7474293059125964
+AFT logistic-normal mean on rejection scale,"Minhas et al, 2025",9,14,91,63.0,0.6923076923076923
+AFT logistic-normal mean on rejection scale,"Pica, 2019",4,1,0,0.0,
+AFT logistic-normal mean on rejection scale,"Pilevar et al, 2025",1,4,6,3.0,0.5
+AFT logistic-normal mean on rejection scale,"Pramanik, 2017",9,20,190,126.5,0.6657894736842105
+AFT logistic-normal mean on rejection scale,"Qi et al, 2022",6,16,120,75.0,0.625
+AFT logistic-normal mean on rejection scale,"Rattanaoudom, 2011",3,3,3,1.0,0.3333333333333333
+AFT logistic-normal mean on rejection scale,"Rychlewska, 2024",2,165,13424,6576.0,0.4898688915375447
+AFT logistic-normal mean on rejection scale,"Safulko et al., 2023",5,35,569,313.0,0.5500878734622144
+AFT logistic-normal mean on rejection scale,"Soriano, 2019",10,62,1874,1372.5,0.7323906083244397
+AFT logistic-normal mean on rejection scale,"Steinle-Darling & Reinhard, 2008",8,57,1480,777.5,0.5253378378378378
+AFT logistic-normal mean on rejection scale,"Steinle-Darling et al, 2010",7,2,1,0.5,0.5
+AFT logistic-normal mean on rejection scale,"Tang, 2006",10,24,275,212.5,0.7727272727272727
+AFT logistic-normal mean on rejection scale,"Tang, 2007",9,28,375,295.0,0.7866666666666666
+AFT logistic-normal mean on rejection scale,"Toure, 2019",10,5,9,0.0,0.0
+AFT logistic-normal mean on rejection scale,"Turk et al, 2025",10,32,492,402.5,0.818089430894309
+AFT logistic-normal mean on rejection scale,"Wang et al, 2018",2,15,105,83.5,0.7952380952380952
+AFT logistic-normal mean on rejection scale,"Wang et al, 2025",2,24,274,186.0,0.6788321167883211
+AFT logistic-normal mean on rejection scale,"Wang et al, 2025 (2)",8,16,120,56.5,0.4708333333333333
+AFT logistic-normal mean on rejection scale,"Wang, 2015",10,44,945,762.5,0.8068783068783069
+AFT logistic-normal mean on rejection scale,"Wang, 2021",1,15,102,33.0,0.3235294117647059
+AFT logistic-normal mean on rejection scale,"Wu Y, 2023",5,44,942,668.0,0.7091295116772823
+AFT logistic-normal mean on rejection scale,"Yang et al, 2024",8,6,14,9.0,0.6428571428571429
+AFT logistic-normal mean on rejection scale,"Yu, 2016",4,14,91,68.0,0.7472527472527473
+AFT logistic-normal mean on rejection scale,"Zeng, 2017",4,43,869,597.0,0.6869965477560415
+AFT logistic-normal mean on rejection scale,"Zhai et al, 2025",5,24,274,199.5,0.7281021897810219
+AFT logistic-normal mean on rejection scale,"Zhang, 2024",7,27,351,184.0,0.5242165242165242
+AFT logistic-normal mean on rejection scale,"Zhao, 2013",6,104,5293,4148.5,0.7837710183260911
+AFT logistic-normal mean on rejection scale,"Zhao, 2016",6,38,693,520.5,0.7510822510822511
+AFT logistic-normal mean on rejection scale,"Zhao, 2018",6,25,296,138.5,0.46790540540540543
+AFT logistic-normal mean on rejection scale,"Zhao, 2020",4,31,462,310.5,0.672077922077922
+AFT logistic-normal mean on rejection scale,"Zhi et al, 2022",9,60,1743,1360.5,0.7805507745266781
+AFT logistic-normal mean on rejection scale,"Zhi et al, 2025",1,224,23675,19137.5,0.8083421330517423
+AFT P90 on rejection scale,"Abdikheibari, 2022",2,3,3,3.0,1.0
+AFT P90 on rejection scale,"Appleman et al, 2013",4,135,448,437.5,0.9765625
+AFT P90 on rejection scale,"Bi et al, 2024",7,56,1539,975.0,0.6335282651072125
+AFT P90 on rejection scale,"Boo, 2018",6,6,15,9.0,0.6
+AFT P90 on rejection scale,"Boonya-atichart, 2017",4,2,1,0.0,0.0
+AFT P90 on rejection scale,"Chen et al, 2023",8,86,3626,2292.0,0.6321014892443464
+AFT P90 on rejection scale,"Franke, 2019",8,8,1,1.0,1.0
+AFT P90 on rejection scale,"Franke, 2021",7,16,0,0.0,
+AFT P90 on rejection scale,"Fujioka, 2024",5,15,105,64.0,0.6095238095238096
+AFT P90 on rejection scale,"Ge et al, 2025",9,42,860,704.0,0.8186046511627907
+AFT P90 on rejection scale,"Griffin, 2024",3,42,594,405.5,0.6826599326599326
+AFT P90 on rejection scale,"H. Hara-Yamamura, 2022",6,6,15,8.0,0.5333333333333333
+AFT P90 on rejection scale,"Hang, 2015",8,42,833,486.5,0.5840336134453782
+AFT P90 on rejection scale,"Jeong et al, 2024",9,77,2914,1944.5,0.6672958133150309
+AFT P90 on rejection scale,"Kim et al, 2025",3,16,120,84.0,0.7
+AFT P90 on rejection scale,"Le et al, 2022",5,5,10,0.5,0.05
+AFT P90 on rejection scale,"Li et al, 2021",10,14,90,64.0,0.7111111111111111
+AFT P90 on rejection scale,"Lipp et al, 2010",4,16,85,67.0,0.788235294117647
+AFT P90 on rejection scale,"Liu Z et al, 2024",3,15,104,69.0,0.6634615384615384
+AFT P90 on rejection scale,"Liu Z et al, 2024 (2)",3,28,377,185.5,0.4920424403183024
+AFT P90 on rejection scale,"Liu et al, 2021",5,120,6294,5130.5,0.8151414045122338
+AFT P90 on rejection scale,"Liu et al, 2023",10,62,1885,1304.0,0.6917771883289124
+AFT P90 on rejection scale,"Lu et al, 2025",3,138,9406,5716.5,0.607750372102913
+AFT P90 on rejection scale,"Luo et al, 2025",8,28,378,307.0,0.8121693121693122
+AFT P90 on rejection scale,"Luo, 2016",6,48,1128,754.5,0.6688829787234043
+AFT P90 on rejection scale,"L√©niz-Pizarro, 2022",7,11,55,41.0,0.7454545454545455
+AFT P90 on rejection scale,"Ma J., 2022",2,35,594,261.0,0.4393939393939394
+AFT P90 on rejection scale,"Ma et al, 2024",7,90,3802,2391.5,0.6290110468174644
+AFT P90 on rejection scale,"Ma et al, 2024 (2)",7,40,778,579.5,0.7448586118251928
+AFT P90 on rejection scale,"Minhas et al, 2025",9,14,91,62.5,0.6868131868131868
+AFT P90 on rejection scale,"Pica, 2019",4,1,0,0.0,
+AFT P90 on rejection scale,"Pilevar et al, 2025",1,4,6,3.0,0.5
+AFT P90 on rejection scale,"Pramanik, 2017",9,20,190,128.0,0.6736842105263158
+AFT P90 on rejection scale,"Qi et al, 2022",6,16,120,75.0,0.625
+AFT P90 on rejection scale,"Rattanaoudom, 2011",3,3,3,1.0,0.3333333333333333
+AFT P90 on rejection scale,"Rychlewska, 2024",2,165,13424,6576.5,0.48990613825983315
+AFT P90 on rejection scale,"Safulko et al., 2023",5,35,569,313.0,0.5500878734622144
+AFT P90 on rejection scale,"Soriano, 2019",10,62,1874,1374.0,0.7331910352187834
+AFT P90 on rejection scale,"Steinle-Darling & Reinhard, 2008",8,57,1480,777.0,0.525
+AFT P90 on rejection scale,"Steinle-Darling et al, 2010",7,2,1,0.5,0.5
+AFT P90 on rejection scale,"Tang, 2006",10,24,275,211.5,0.769090909090909
+AFT P90 on rejection scale,"Tang, 2007",9,28,375,295.0,0.7866666666666666
+AFT P90 on rejection scale,"Toure, 2019",10,5,9,0.0,0.0
+AFT P90 on rejection scale,"Turk et al, 2025",10,32,492,401.5,0.8160569105691057
+AFT P90 on rejection scale,"Wang et al, 2018",2,15,105,87.5,0.8333333333333334
+AFT P90 on rejection scale,"Wang et al, 2025",2,24,274,185.0,0.6751824817518248
+AFT P90 on rejection scale,"Wang et al, 2025 (2)",8,16,120,57.0,0.475
+AFT P90 on rejection scale,"Wang, 2015",10,44,945,755.0,0.798941798941799
+AFT P90 on rejection scale,"Wang, 2021",1,15,102,33.0,0.3235294117647059
+AFT P90 on rejection scale,"Wu Y, 2023",5,44,942,669.5,0.7107218683651805
+AFT P90 on rejection scale,"Yang et al, 2024",8,6,14,9.0,0.6428571428571429
+AFT P90 on rejection scale,"Yu, 2016",4,14,91,68.0,0.7472527472527473
+AFT P90 on rejection scale,"Zeng, 2017",4,43,869,596.5,0.6864211737629459
+AFT P90 on rejection scale,"Zhai et al, 2025",5,24,274,199.5,0.7281021897810219
+AFT P90 on rejection scale,"Zhang, 2024",7,27,351,184.0,0.5242165242165242
+AFT P90 on rejection scale,"Zhao, 2013",6,104,5293,4146.5,0.7833931607783865
+AFT P90 on rejection scale,"Zhao, 2016",6,38,693,521.5,0.7525252525252525
+AFT P90 on rejection scale,"Zhao, 2018",6,25,296,138.5,0.46790540540540543
+AFT P90 on rejection scale,"Zhao, 2020",4,31,462,315.5,0.6829004329004329
+AFT P90 on rejection scale,"Zhi et al, 2022",9,60,1743,1361.0,0.780837636259323
+AFT P90 on rejection scale,"Zhi et al, 2025",1,224,23675,19135.0,0.8082365364308343

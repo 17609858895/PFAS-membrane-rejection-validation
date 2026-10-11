@@ -1,0 +1,24 @@
+{
+  "feature_columns": [
+    "pwp_LMH/bar",
+    "ON",
+    "pH",
+    "volume_Å3",
+    "dipole_debye",
+    "pKa",
+    "temp_ºC",
+    "flux_LMH",
+    "pfas_feed_conc_µg/L",
+    "mon_cat_mM",
+    "di_cat_mM",
+    "tri_cat_mM",
+    "doc_mg/L"
+  ],
+  "preprocessing": "Median imputation fitted on each leave-one-study-out training fold, followed by StandardScaler fitted on the same training fold.",
+  "distance": "For each held-out row, arithmetic mean Euclidean distance to the k=8 nearest training rows in the fold-standardized 13-feature space.",
+  "relative_distance": "Raw mean kNN distance divided by the pooled median raw distance across all held-out rows.",
+  "threshold": "P90 of relative distance among exact-outcome held-out rows, pooled across leave-one-study-out folds.",
+  "median_raw_distance": 1.8155340434955234,
+  "exact_p90_relative_threshold": 1.6145134395199485,
+  "outside_rule": "relative_distance > exact_p90_relative_threshold"
+}

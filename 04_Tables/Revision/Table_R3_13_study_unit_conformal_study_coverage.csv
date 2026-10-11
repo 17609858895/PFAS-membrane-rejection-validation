@@ -1,0 +1,181 @@
+﻿fold,nominal,study,exact_rows,all_exact_rows_covered
+1,0.8,"Pilevar et al, 2025",4,True
+1,0.8,"Wang, 2021",15,False
+1,0.8,"Zhi et al, 2025",175,True
+1,0.9,"Pilevar et al, 2025",4,True
+1,0.9,"Wang, 2021",15,False
+1,0.9,"Zhi et al, 2025",175,True
+1,0.95,"Pilevar et al, 2025",4,True
+1,0.95,"Wang, 2021",15,True
+1,0.95,"Zhi et al, 2025",175,True
+2,0.8,"Abdikheibari, 2022",3,True
+2,0.8,"Ma J., 2022",35,True
+2,0.8,"Rychlewska, 2024",165,False
+2,0.8,"Wang et al, 2018",15,True
+2,0.8,"Wang et al, 2025",24,True
+2,0.9,"Abdikheibari, 2022",3,True
+2,0.9,"Ma J., 2022",35,True
+2,0.9,"Rychlewska, 2024",165,False
+2,0.9,"Wang et al, 2018",15,True
+2,0.9,"Wang et al, 2025",24,True
+2,0.95,"Abdikheibari, 2022",3,True
+2,0.95,"Ma J., 2022",35,True
+2,0.95,"Rychlewska, 2024",165,False
+2,0.95,"Wang et al, 2018",15,True
+2,0.95,"Wang et al, 2025",24,True
+3,0.8,"Griffin, 2024",27,True
+3,0.8,"Kim et al, 2025",16,True
+3,0.8,"Liu Z et al, 2024",15,True
+3,0.8,"Liu Z et al, 2024 (2)",28,True
+3,0.8,"Lu et al, 2025",134,False
+3,0.8,"Rattanaoudom, 2011",3,True
+3,0.9,"Griffin, 2024",27,True
+3,0.9,"Kim et al, 2025",16,True
+3,0.9,"Liu Z et al, 2024",15,True
+3,0.9,"Liu Z et al, 2024 (2)",28,True
+3,0.9,"Lu et al, 2025",134,True
+3,0.9,"Rattanaoudom, 2011",3,True
+3,0.95,"Griffin, 2024",27,True
+3,0.95,"Kim et al, 2025",16,True
+3,0.95,"Liu Z et al, 2024",15,True
+3,0.95,"Liu Z et al, 2024 (2)",28,True
+3,0.95,"Lu et al, 2025",134,True
+3,0.95,"Rattanaoudom, 2011",3,True
+4,0.8,"Appleman et al, 2013",8,True
+4,0.8,"Boonya-atichart, 2017",2,True
+4,0.8,"Lipp et al, 2010",13,True
+4,0.8,"Pica, 2019",1,True
+4,0.8,"Yu, 2016",14,True
+4,0.8,"Zeng, 2017",43,True
+4,0.8,"Zhao, 2020",31,True
+4,0.9,"Appleman et al, 2013",8,True
+4,0.9,"Boonya-atichart, 2017",2,True
+4,0.9,"Lipp et al, 2010",13,True
+4,0.9,"Pica, 2019",1,True
+4,0.9,"Yu, 2016",14,True
+4,0.9,"Zeng, 2017",43,True
+4,0.9,"Zhao, 2020",31,True
+4,0.95,"Appleman et al, 2013",8,True
+4,0.95,"Boonya-atichart, 2017",2,True
+4,0.95,"Lipp et al, 2010",13,True
+4,0.95,"Pica, 2019",1,True
+4,0.95,"Yu, 2016",14,True
+4,0.95,"Zeng, 2017",43,True
+4,0.95,"Zhao, 2020",31,True
+5,0.8,"Fujioka, 2024",15,True
+5,0.8,"Le et al, 2022",5,True
+5,0.8,"Liu et al, 2021",80,True
+5,0.8,"Safulko et al., 2023",32,False
+5,0.8,"Wu Y, 2023",44,True
+5,0.8,"Zhai et al, 2025",24,True
+5,0.9,"Fujioka, 2024",15,True
+5,0.9,"Le et al, 2022",5,True
+5,0.9,"Liu et al, 2021",80,True
+5,0.9,"Safulko et al., 2023",32,False
+5,0.9,"Wu Y, 2023",44,True
+5,0.9,"Zhai et al, 2025",24,True
+5,0.95,"Fujioka, 2024",15,True
+5,0.95,"Le et al, 2022",5,True
+5,0.95,"Liu et al, 2021",80,True
+5,0.95,"Safulko et al., 2023",32,False
+5,0.95,"Wu Y, 2023",44,True
+5,0.95,"Zhai et al, 2025",24,True
+6,0.8,"Boo, 2018",6,True
+6,0.8,"H. Hara-Yamamura, 2022",6,True
+6,0.8,"Luo, 2016",48,False
+6,0.8,"Qi et al, 2022",16,True
+6,0.8,"Zhao, 2013",104,True
+6,0.8,"Zhao, 2016",38,True
+6,0.8,"Zhao, 2018",25,True
+6,0.9,"Boo, 2018",6,True
+6,0.9,"H. Hara-Yamamura, 2022",6,True
+6,0.9,"Luo, 2016",48,True
+6,0.9,"Qi et al, 2022",16,True
+6,0.9,"Zhao, 2013",104,True
+6,0.9,"Zhao, 2016",38,True
+6,0.9,"Zhao, 2018",25,True
+6,0.95,"Boo, 2018",6,True
+6,0.95,"H. Hara-Yamamura, 2022",6,True
+6,0.95,"Luo, 2016",48,True
+6,0.95,"Qi et al, 2022",16,True
+6,0.95,"Zhao, 2013",104,True
+6,0.95,"Zhao, 2016",38,True
+6,0.95,"Zhao, 2018",25,True
+7,0.8,"Bi et al, 2024",56,True
+7,0.8,"L√©niz-Pizarro, 2022",11,True
+7,0.8,"Ma et al, 2024",76,True
+7,0.8,"Ma et al, 2024 (2)",40,True
+7,0.8,"Steinle-Darling et al, 2010",2,True
+7,0.8,"Zhang, 2024",27,False
+7,0.9,"Bi et al, 2024",56,True
+7,0.9,"L√©niz-Pizarro, 2022",11,True
+7,0.9,"Ma et al, 2024",76,True
+7,0.9,"Ma et al, 2024 (2)",40,True
+7,0.9,"Steinle-Darling et al, 2010",2,True
+7,0.9,"Zhang, 2024",27,False
+7,0.95,"Bi et al, 2024",56,True
+7,0.95,"L√©niz-Pizarro, 2022",11,True
+7,0.95,"Ma et al, 2024",76,True
+7,0.95,"Ma et al, 2024 (2)",40,True
+7,0.95,"Steinle-Darling et al, 2010",2,True
+7,0.95,"Zhang, 2024",27,False
+8,0.8,"Chen et al, 2023",83,True
+8,0.8,"Franke, 2019",2,True
+8,0.8,"Hang, 2015",34,True
+8,0.8,"Luo et al, 2025",28,True
+8,0.8,"Steinle-Darling & Reinhard, 2008",48,True
+8,0.8,"Wang et al, 2025 (2)",16,True
+8,0.8,"Yang et al, 2024",4,True
+8,0.9,"Chen et al, 2023",83,True
+8,0.9,"Franke, 2019",2,True
+8,0.9,"Hang, 2015",34,True
+8,0.9,"Luo et al, 2025",28,True
+8,0.9,"Steinle-Darling & Reinhard, 2008",48,True
+8,0.9,"Wang et al, 2025 (2)",16,True
+8,0.9,"Yang et al, 2024",4,True
+8,0.95,"Chen et al, 2023",83,True
+8,0.95,"Franke, 2019",2,True
+8,0.95,"Hang, 2015",34,True
+8,0.95,"Luo et al, 2025",28,True
+8,0.95,"Steinle-Darling & Reinhard, 2008",48,True
+8,0.95,"Wang et al, 2025 (2)",16,True
+8,0.95,"Yang et al, 2024",4,True
+9,0.8,"Ge et al, 2025",42,True
+9,0.8,"Jeong et al, 2024",77,True
+9,0.8,"Minhas et al, 2025",14,False
+9,0.8,"Pramanik, 2017",20,True
+9,0.8,"Tang, 2007",28,True
+9,0.8,"Zhi et al, 2022",55,True
+9,0.9,"Ge et al, 2025",42,True
+9,0.9,"Jeong et al, 2024",77,True
+9,0.9,"Minhas et al, 2025",14,False
+9,0.9,"Pramanik, 2017",20,True
+9,0.9,"Tang, 2007",28,True
+9,0.9,"Zhi et al, 2022",55,True
+9,0.95,"Ge et al, 2025",42,True
+9,0.95,"Jeong et al, 2024",77,True
+9,0.95,"Minhas et al, 2025",14,False
+9,0.95,"Pramanik, 2017",20,True
+9,0.95,"Tang, 2007",28,True
+9,0.95,"Zhi et al, 2022",55,True
+10,0.8,"Li et al, 2021",14,True
+10,0.8,"Liu et al, 2023",59,True
+10,0.8,"Soriano, 2019",62,True
+10,0.8,"Tang, 2006",24,True
+10,0.8,"Toure, 2019",5,False
+10,0.8,"Turk et al, 2025",32,True
+10,0.8,"Wang, 2015",44,True
+10,0.9,"Li et al, 2021",14,True
+10,0.9,"Liu et al, 2023",59,True
+10,0.9,"Soriano, 2019",62,True
+10,0.9,"Tang, 2006",24,True
+10,0.9,"Toure, 2019",5,True
+10,0.9,"Turk et al, 2025",32,True
+10,0.9,"Wang, 2015",44,True
+10,0.95,"Li et al, 2021",14,True
+10,0.95,"Liu et al, 2023",59,True
+10,0.95,"Soriano, 2019",62,True
+10,0.95,"Tang, 2006",24,True
+10,0.95,"Toure, 2019",5,True
+10,0.95,"Turk et al, 2025",32,True
+10,0.95,"Wang, 2015",44,True

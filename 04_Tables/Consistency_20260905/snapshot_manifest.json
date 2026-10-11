@@ -1,0 +1,10 @@
+{
+  "workbook": "05_Source_Data/es6c02287_si_002.xlsx",
+  "sheet": "PFAS_literature_dataset_2b",
+  "workbook_sha256": "ecd4349b334d6dfad4e3a076481e0345a59d71ed7d2523d0eb4a4082e8095a3a",
+  "analysis_rows": 2424,
+  "studies": 61,
+  "analysis_row_id": "Zero-based position after the documented filters; stable for this source hash.",
+  "source_sheet_row": "One-based worksheet row, including header row 1.",
+  "filter": "Rejection >= 0.50 and membrane class NF/RO; no manual exclusions."
+}

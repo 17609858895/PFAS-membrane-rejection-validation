@@ -1,0 +1,5 @@
+﻿treatment,independent_conditions,reporting_studies,within_study_varying_studies,between_study_variance_pct,role
+Monovalent,203,34,22,45,Primary
+Divalent,221,33,23,92,Exploratory
+DOC,129,25,20,89,Exploratory
+Trivalent,24,6,6,100,Excluded

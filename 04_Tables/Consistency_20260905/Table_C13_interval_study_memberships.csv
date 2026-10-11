@@ -1,0 +1,611 @@
+﻿outer_fold,study,partition
+1,"Abdikheibari, 2022",fit
+1,"Boo, 2018",fit
+1,"Chen et al, 2023",fit
+1,"Franke, 2019",fit
+1,"Fujioka, 2024",fit
+1,"Ge et al, 2025",fit
+1,"Jeong et al, 2024",fit
+1,"Le et al, 2022",fit
+1,"Li et al, 2021",fit
+1,"Liu et al, 2021",fit
+1,"Liu et al, 2023",fit
+1,"Lu et al, 2025",fit
+1,"Luo et al, 2025",fit
+1,"Luo, 2016",fit
+1,"L√©niz-Pizarro, 2022",fit
+1,"Ma et al, 2024",fit
+1,"Ma et al, 2024 (2)",fit
+1,"Soriano, 2019",fit
+1,"Steinle-Darling & Reinhard, 2008",fit
+1,"Steinle-Darling et al, 2010",fit
+1,"Tang, 2007",fit
+1,"Toure, 2019",fit
+1,"Turk et al, 2025",fit
+1,"Wang et al, 2025 (2)",fit
+1,"Wang, 2015",fit
+1,"Wu Y, 2023",fit
+1,"Yang et al, 2024",fit
+1,"Yu, 2016",fit
+1,"Zeng, 2017",fit
+1,"Zhai et al, 2025",fit
+1,"Zhang, 2024",fit
+1,"Zhao, 2016",fit
+1,"Zhao, 2018",fit
+1,"Zhao, 2020",fit
+1,"Appleman et al, 2013",calibration
+1,"Bi et al, 2024",calibration
+1,"Boonya-atichart, 2017",calibration
+1,"Franke, 2021",calibration
+1,"Griffin, 2024",calibration
+1,"H. Hara-Yamamura, 2022",calibration
+1,"Hang, 2015",calibration
+1,"Kim et al, 2025",calibration
+1,"Lipp et al, 2010",calibration
+1,"Liu Z et al, 2024",calibration
+1,"Liu Z et al, 2024 (2)",calibration
+1,"Ma J., 2022",calibration
+1,"Minhas et al, 2025",calibration
+1,"Pica, 2019",calibration
+1,"Pramanik, 2017",calibration
+1,"Qi et al, 2022",calibration
+1,"Rattanaoudom, 2011",calibration
+1,"Rychlewska, 2024",calibration
+1,"Safulko et al., 2023",calibration
+1,"Tang, 2006",calibration
+1,"Wang et al, 2018",calibration
+1,"Wang et al, 2025",calibration
+1,"Zhao, 2013",calibration
+1,"Zhi et al, 2022",calibration
+1,"Pilevar et al, 2025",test
+1,"Wang, 2021",test
+1,"Zhi et al, 2025",test
+2,"Appleman et al, 2013",fit
+2,"Bi et al, 2024",fit
+2,"Boo, 2018",fit
+2,"Fujioka, 2024",fit
+2,"Ge et al, 2025",fit
+2,"Hang, 2015",fit
+2,"Kim et al, 2025",fit
+2,"Li et al, 2021",fit
+2,"Liu Z et al, 2024 (2)",fit
+2,"Liu et al, 2021",fit
+2,"Lu et al, 2025",fit
+2,"Luo, 2016",fit
+2,"L√©niz-Pizarro, 2022",fit
+2,"Ma et al, 2024 (2)",fit
+2,"Pica, 2019",fit
+2,"Qi et al, 2022",fit
+2,"Rattanaoudom, 2011",fit
+2,"Safulko et al., 2023",fit
+2,"Soriano, 2019",fit
+2,"Steinle-Darling & Reinhard, 2008",fit
+2,"Tang, 2006",fit
+2,"Turk et al, 2025",fit
+2,"Wang et al, 2025 (2)",fit
+2,"Wang, 2015",fit
+2,"Wang, 2021",fit
+2,"Wu Y, 2023",fit
+2,"Zhai et al, 2025",fit
+2,"Zhang, 2024",fit
+2,"Zhao, 2013",fit
+2,"Zhao, 2018",fit
+2,"Zhao, 2020",fit
+2,"Zhi et al, 2022",fit
+2,"Zhi et al, 2025",fit
+2,"Boonya-atichart, 2017",calibration
+2,"Chen et al, 2023",calibration
+2,"Franke, 2019",calibration
+2,"Franke, 2021",calibration
+2,"Griffin, 2024",calibration
+2,"H. Hara-Yamamura, 2022",calibration
+2,"Jeong et al, 2024",calibration
+2,"Le et al, 2022",calibration
+2,"Lipp et al, 2010",calibration
+2,"Liu Z et al, 2024",calibration
+2,"Liu et al, 2023",calibration
+2,"Luo et al, 2025",calibration
+2,"Ma et al, 2024",calibration
+2,"Minhas et al, 2025",calibration
+2,"Pilevar et al, 2025",calibration
+2,"Pramanik, 2017",calibration
+2,"Steinle-Darling et al, 2010",calibration
+2,"Tang, 2007",calibration
+2,"Toure, 2019",calibration
+2,"Yang et al, 2024",calibration
+2,"Yu, 2016",calibration
+2,"Zeng, 2017",calibration
+2,"Zhao, 2016",calibration
+2,"Abdikheibari, 2022",test
+2,"Ma J., 2022",test
+2,"Rychlewska, 2024",test
+2,"Wang et al, 2018",test
+2,"Wang et al, 2025",test
+3,"Abdikheibari, 2022",fit
+3,"Appleman et al, 2013",fit
+3,"Boo, 2018",fit
+3,"Boonya-atichart, 2017",fit
+3,"Chen et al, 2023",fit
+3,"Ge et al, 2025",fit
+3,"H. Hara-Yamamura, 2022",fit
+3,"Hang, 2015",fit
+3,"Jeong et al, 2024",fit
+3,"Le et al, 2022",fit
+3,"Li et al, 2021",fit
+3,"Liu et al, 2021",fit
+3,"Liu et al, 2023",fit
+3,"Luo et al, 2025",fit
+3,"Luo, 2016",fit
+3,"Ma J., 2022",fit
+3,"Minhas et al, 2025",fit
+3,"Pilevar et al, 2025",fit
+3,"Pramanik, 2017",fit
+3,"Safulko et al., 2023",fit
+3,"Steinle-Darling et al, 2010",fit
+3,"Turk et al, 2025",fit
+3,"Wang et al, 2025",fit
+3,"Wang et al, 2025 (2)",fit
+3,"Wang, 2015",fit
+3,"Wu Y, 2023",fit
+3,"Zeng, 2017",fit
+3,"Zhai et al, 2025",fit
+3,"Zhang, 2024",fit
+3,"Zhao, 2013",fit
+3,"Zhao, 2016",fit
+3,"Zhao, 2020",fit
+3,"Zhi et al, 2025",fit
+3,"Bi et al, 2024",calibration
+3,"Franke, 2019",calibration
+3,"Franke, 2021",calibration
+3,"Fujioka, 2024",calibration
+3,"Lipp et al, 2010",calibration
+3,"L√©niz-Pizarro, 2022",calibration
+3,"Ma et al, 2024",calibration
+3,"Ma et al, 2024 (2)",calibration
+3,"Pica, 2019",calibration
+3,"Qi et al, 2022",calibration
+3,"Rychlewska, 2024",calibration
+3,"Soriano, 2019",calibration
+3,"Steinle-Darling & Reinhard, 2008",calibration
+3,"Tang, 2006",calibration
+3,"Tang, 2007",calibration
+3,"Toure, 2019",calibration
+3,"Wang et al, 2018",calibration
+3,"Wang, 2021",calibration
+3,"Yang et al, 2024",calibration
+3,"Yu, 2016",calibration
+3,"Zhao, 2018",calibration
+3,"Zhi et al, 2022",calibration
+3,"Griffin, 2024",test
+3,"Kim et al, 2025",test
+3,"Liu Z et al, 2024",test
+3,"Liu Z et al, 2024 (2)",test
+3,"Lu et al, 2025",test
+3,"Rattanaoudom, 2011",test
+4,"Abdikheibari, 2022",fit
+4,"Boo, 2018",fit
+4,"Franke, 2021",fit
+4,"Fujioka, 2024",fit
+4,"Ge et al, 2025",fit
+4,"H. Hara-Yamamura, 2022",fit
+4,"Hang, 2015",fit
+4,"Kim et al, 2025",fit
+4,"Li et al, 2021",fit
+4,"Liu Z et al, 2024 (2)",fit
+4,"Liu et al, 2021",fit
+4,"Liu et al, 2023",fit
+4,"Lu et al, 2025",fit
+4,"Luo, 2016",fit
+4,"L√©niz-Pizarro, 2022",fit
+4,"Ma J., 2022",fit
+4,"Ma et al, 2024",fit
+4,"Pilevar et al, 2025",fit
+4,"Qi et al, 2022",fit
+4,"Rychlewska, 2024",fit
+4,"Safulko et al., 2023",fit
+4,"Soriano, 2019",fit
+4,"Steinle-Darling et al, 2010",fit
+4,"Tang, 2006",fit
+4,"Toure, 2019",fit
+4,"Turk et al, 2025",fit
+4,"Wang et al, 2025",fit
+4,"Wang, 2021",fit
+4,"Wu Y, 2023",fit
+4,"Zhang, 2024",fit
+4,"Zhao, 2013",fit
+4,"Zhi et al, 2022",fit
+4,"Bi et al, 2024",calibration
+4,"Chen et al, 2023",calibration
+4,"Franke, 2019",calibration
+4,"Griffin, 2024",calibration
+4,"Jeong et al, 2024",calibration
+4,"Le et al, 2022",calibration
+4,"Liu Z et al, 2024",calibration
+4,"Luo et al, 2025",calibration
+4,"Ma et al, 2024 (2)",calibration
+4,"Minhas et al, 2025",calibration
+4,"Pramanik, 2017",calibration
+4,"Rattanaoudom, 2011",calibration
+4,"Steinle-Darling & Reinhard, 2008",calibration
+4,"Tang, 2007",calibration
+4,"Wang et al, 2018",calibration
+4,"Wang et al, 2025 (2)",calibration
+4,"Wang, 2015",calibration
+4,"Yang et al, 2024",calibration
+4,"Zhai et al, 2025",calibration
+4,"Zhao, 2016",calibration
+4,"Zhao, 2018",calibration
+4,"Zhi et al, 2025",calibration
+4,"Appleman et al, 2013",test
+4,"Boonya-atichart, 2017",test
+4,"Lipp et al, 2010",test
+4,"Pica, 2019",test
+4,"Yu, 2016",test
+4,"Zeng, 2017",test
+4,"Zhao, 2020",test
+5,"Appleman et al, 2013",fit
+5,"Bi et al, 2024",fit
+5,"Boonya-atichart, 2017",fit
+5,"Chen et al, 2023",fit
+5,"Franke, 2019",fit
+5,"Franke, 2021",fit
+5,"Griffin, 2024",fit
+5,"H. Hara-Yamamura, 2022",fit
+5,"Hang, 2015",fit
+5,"Jeong et al, 2024",fit
+5,"Kim et al, 2025",fit
+5,"Li et al, 2021",fit
+5,"Liu Z et al, 2024",fit
+5,"Liu et al, 2023",fit
+5,"Luo et al, 2025",fit
+5,"L√©niz-Pizarro, 2022",fit
+5,"Ma J., 2022",fit
+5,"Ma et al, 2024",fit
+5,"Ma et al, 2024 (2)",fit
+5,"Minhas et al, 2025",fit
+5,"Pilevar et al, 2025",fit
+5,"Rychlewska, 2024",fit
+5,"Steinle-Darling & Reinhard, 2008",fit
+5,"Tang, 2007",fit
+5,"Toure, 2019",fit
+5,"Wang et al, 2018",fit
+5,"Wang et al, 2025",fit
+5,"Wang, 2015",fit
+5,"Wang, 2021",fit
+5,"Yu, 2016",fit
+5,"Zhao, 2016",fit
+5,"Zhi et al, 2022",fit
+5,"Zhi et al, 2025",fit
+5,"Abdikheibari, 2022",calibration
+5,"Boo, 2018",calibration
+5,"Ge et al, 2025",calibration
+5,"Lipp et al, 2010",calibration
+5,"Liu Z et al, 2024 (2)",calibration
+5,"Lu et al, 2025",calibration
+5,"Luo, 2016",calibration
+5,"Pica, 2019",calibration
+5,"Pramanik, 2017",calibration
+5,"Qi et al, 2022",calibration
+5,"Rattanaoudom, 2011",calibration
+5,"Soriano, 2019",calibration
+5,"Steinle-Darling et al, 2010",calibration
+5,"Tang, 2006",calibration
+5,"Turk et al, 2025",calibration
+5,"Wang et al, 2025 (2)",calibration
+5,"Yang et al, 2024",calibration
+5,"Zeng, 2017",calibration
+5,"Zhang, 2024",calibration
+5,"Zhao, 2013",calibration
+5,"Zhao, 2018",calibration
+5,"Zhao, 2020",calibration
+5,"Fujioka, 2024",test
+5,"Le et al, 2022",test
+5,"Liu et al, 2021",test
+5,"Safulko et al., 2023",test
+5,"Wu Y, 2023",test
+5,"Zhai et al, 2025",test
+6,"Appleman et al, 2013",fit
+6,"Bi et al, 2024",fit
+6,"Boonya-atichart, 2017",fit
+6,"Franke, 2019",fit
+6,"Franke, 2021",fit
+6,"Fujioka, 2024",fit
+6,"Ge et al, 2025",fit
+6,"Hang, 2015",fit
+6,"Le et al, 2022",fit
+6,"Lipp et al, 2010",fit
+6,"Liu Z et al, 2024",fit
+6,"Liu Z et al, 2024 (2)",fit
+6,"Liu et al, 2021",fit
+6,"Liu et al, 2023",fit
+6,"Lu et al, 2025",fit
+6,"Luo et al, 2025",fit
+6,"L√©niz-Pizarro, 2022",fit
+6,"Pica, 2019",fit
+6,"Pramanik, 2017",fit
+6,"Rattanaoudom, 2011",fit
+6,"Safulko et al., 2023",fit
+6,"Soriano, 2019",fit
+6,"Steinle-Darling & Reinhard, 2008",fit
+6,"Steinle-Darling et al, 2010",fit
+6,"Turk et al, 2025",fit
+6,"Wang et al, 2025",fit
+6,"Wang et al, 2025 (2)",fit
+6,"Wang, 2021",fit
+6,"Yu, 2016",fit
+6,"Zeng, 2017",fit
+6,"Zhai et al, 2025",fit
+6,"Zhi et al, 2022",fit
+6,"Abdikheibari, 2022",calibration
+6,"Chen et al, 2023",calibration
+6,"Griffin, 2024",calibration
+6,"Jeong et al, 2024",calibration
+6,"Kim et al, 2025",calibration
+6,"Li et al, 2021",calibration
+6,"Ma J., 2022",calibration
+6,"Ma et al, 2024",calibration
+6,"Ma et al, 2024 (2)",calibration
+6,"Minhas et al, 2025",calibration
+6,"Pilevar et al, 2025",calibration
+6,"Rychlewska, 2024",calibration
+6,"Tang, 2006",calibration
+6,"Tang, 2007",calibration
+6,"Toure, 2019",calibration
+6,"Wang et al, 2018",calibration
+6,"Wang, 2015",calibration
+6,"Wu Y, 2023",calibration
+6,"Yang et al, 2024",calibration
+6,"Zhang, 2024",calibration
+6,"Zhao, 2020",calibration
+6,"Zhi et al, 2025",calibration
+6,"Boo, 2018",test
+6,"H. Hara-Yamamura, 2022",test
+6,"Luo, 2016",test
+6,"Qi et al, 2022",test
+6,"Zhao, 2013",test
+6,"Zhao, 2016",test
+6,"Zhao, 2018",test
+7,"Abdikheibari, 2022",fit
+7,"Appleman et al, 2013",fit
+7,"Boo, 2018",fit
+7,"Boonya-atichart, 2017",fit
+7,"Chen et al, 2023",fit
+7,"Franke, 2019",fit
+7,"Griffin, 2024",fit
+7,"Hang, 2015",fit
+7,"Jeong et al, 2024",fit
+7,"Li et al, 2021",fit
+7,"Liu Z et al, 2024 (2)",fit
+7,"Ma J., 2022",fit
+7,"Pica, 2019",fit
+7,"Pramanik, 2017",fit
+7,"Qi et al, 2022",fit
+7,"Rychlewska, 2024",fit
+7,"Steinle-Darling & Reinhard, 2008",fit
+7,"Tang, 2006",fit
+7,"Tang, 2007",fit
+7,"Toure, 2019",fit
+7,"Wang et al, 2018",fit
+7,"Wang et al, 2025",fit
+7,"Wang et al, 2025 (2)",fit
+7,"Wang, 2015",fit
+7,"Wang, 2021",fit
+7,"Wu Y, 2023",fit
+7,"Zhai et al, 2025",fit
+7,"Zhao, 2013",fit
+7,"Zhao, 2016",fit
+7,"Zhao, 2018",fit
+7,"Zhi et al, 2022",fit
+7,"Zhi et al, 2025",fit
+7,"Fujioka, 2024",calibration
+7,"Ge et al, 2025",calibration
+7,"H. Hara-Yamamura, 2022",calibration
+7,"Kim et al, 2025",calibration
+7,"Le et al, 2022",calibration
+7,"Lipp et al, 2010",calibration
+7,"Liu Z et al, 2024",calibration
+7,"Liu et al, 2021",calibration
+7,"Liu et al, 2023",calibration
+7,"Lu et al, 2025",calibration
+7,"Luo et al, 2025",calibration
+7,"Luo, 2016",calibration
+7,"Minhas et al, 2025",calibration
+7,"Pilevar et al, 2025",calibration
+7,"Rattanaoudom, 2011",calibration
+7,"Safulko et al., 2023",calibration
+7,"Soriano, 2019",calibration
+7,"Turk et al, 2025",calibration
+7,"Yang et al, 2024",calibration
+7,"Yu, 2016",calibration
+7,"Zeng, 2017",calibration
+7,"Zhao, 2020",calibration
+7,"Bi et al, 2024",test
+7,"Franke, 2021",test
+7,"L√©niz-Pizarro, 2022",test
+7,"Ma et al, 2024",test
+7,"Ma et al, 2024 (2)",test
+7,"Steinle-Darling et al, 2010",test
+7,"Zhang, 2024",test
+8,"Abdikheibari, 2022",fit
+8,"Bi et al, 2024",fit
+8,"Boo, 2018",fit
+8,"Franke, 2021",fit
+8,"Ge et al, 2025",fit
+8,"Griffin, 2024",fit
+8,"Jeong et al, 2024",fit
+8,"Kim et al, 2025",fit
+8,"Li et al, 2021",fit
+8,"Liu Z et al, 2024",fit
+8,"Liu Z et al, 2024 (2)",fit
+8,"Liu et al, 2021",fit
+8,"Liu et al, 2023",fit
+8,"Lu et al, 2025",fit
+8,"Luo, 2016",fit
+8,"L√©niz-Pizarro, 2022",fit
+8,"Ma J., 2022",fit
+8,"Ma et al, 2024 (2)",fit
+8,"Pica, 2019",fit
+8,"Pilevar et al, 2025",fit
+8,"Qi et al, 2022",fit
+8,"Rychlewska, 2024",fit
+8,"Safulko et al., 2023",fit
+8,"Soriano, 2019",fit
+8,"Steinle-Darling et al, 2010",fit
+8,"Tang, 2007",fit
+8,"Toure, 2019",fit
+8,"Turk et al, 2025",fit
+8,"Wang et al, 2025",fit
+8,"Wang, 2015",fit
+8,"Zhao, 2018",fit
+8,"Zhi et al, 2025",fit
+8,"Appleman et al, 2013",calibration
+8,"Boonya-atichart, 2017",calibration
+8,"Fujioka, 2024",calibration
+8,"H. Hara-Yamamura, 2022",calibration
+8,"Le et al, 2022",calibration
+8,"Lipp et al, 2010",calibration
+8,"Ma et al, 2024",calibration
+8,"Minhas et al, 2025",calibration
+8,"Pramanik, 2017",calibration
+8,"Rattanaoudom, 2011",calibration
+8,"Tang, 2006",calibration
+8,"Wang et al, 2018",calibration
+8,"Wang, 2021",calibration
+8,"Wu Y, 2023",calibration
+8,"Yu, 2016",calibration
+8,"Zeng, 2017",calibration
+8,"Zhai et al, 2025",calibration
+8,"Zhang, 2024",calibration
+8,"Zhao, 2013",calibration
+8,"Zhao, 2016",calibration
+8,"Zhao, 2020",calibration
+8,"Zhi et al, 2022",calibration
+8,"Chen et al, 2023",test
+8,"Franke, 2019",test
+8,"Hang, 2015",test
+8,"Luo et al, 2025",test
+8,"Steinle-Darling & Reinhard, 2008",test
+8,"Wang et al, 2025 (2)",test
+8,"Yang et al, 2024",test
+9,"Appleman et al, 2013",fit
+9,"Boo, 2018",fit
+9,"Boonya-atichart, 2017",fit
+9,"Chen et al, 2023",fit
+9,"Franke, 2019",fit
+9,"Le et al, 2022",fit
+9,"Lipp et al, 2010",fit
+9,"Liu Z et al, 2024",fit
+9,"Liu Z et al, 2024 (2)",fit
+9,"Liu et al, 2021",fit
+9,"Liu et al, 2023",fit
+9,"L√©niz-Pizarro, 2022",fit
+9,"Pica, 2019",fit
+9,"Pilevar et al, 2025",fit
+9,"Qi et al, 2022",fit
+9,"Soriano, 2019",fit
+9,"Steinle-Darling & Reinhard, 2008",fit
+9,"Steinle-Darling et al, 2010",fit
+9,"Tang, 2006",fit
+9,"Toure, 2019",fit
+9,"Turk et al, 2025",fit
+9,"Wang et al, 2025",fit
+9,"Wang et al, 2025 (2)",fit
+9,"Wang, 2015",fit
+9,"Wang, 2021",fit
+9,"Yang et al, 2024",fit
+9,"Yu, 2016",fit
+9,"Zeng, 2017",fit
+9,"Zhai et al, 2025",fit
+9,"Zhang, 2024",fit
+9,"Zhao, 2016",fit
+9,"Zhao, 2020",fit
+9,"Zhi et al, 2025",fit
+9,"Abdikheibari, 2022",calibration
+9,"Bi et al, 2024",calibration
+9,"Franke, 2021",calibration
+9,"Fujioka, 2024",calibration
+9,"Griffin, 2024",calibration
+9,"H. Hara-Yamamura, 2022",calibration
+9,"Hang, 2015",calibration
+9,"Kim et al, 2025",calibration
+9,"Li et al, 2021",calibration
+9,"Lu et al, 2025",calibration
+9,"Luo et al, 2025",calibration
+9,"Luo, 2016",calibration
+9,"Ma J., 2022",calibration
+9,"Ma et al, 2024",calibration
+9,"Ma et al, 2024 (2)",calibration
+9,"Rattanaoudom, 2011",calibration
+9,"Rychlewska, 2024",calibration
+9,"Safulko et al., 2023",calibration
+9,"Wang et al, 2018",calibration
+9,"Wu Y, 2023",calibration
+9,"Zhao, 2013",calibration
+9,"Zhao, 2018",calibration
+9,"Ge et al, 2025",test
+9,"Jeong et al, 2024",test
+9,"Minhas et al, 2025",test
+9,"Pramanik, 2017",test
+9,"Tang, 2007",test
+9,"Zhi et al, 2022",test
+10,"Appleman et al, 2013",fit
+10,"Boo, 2018",fit
+10,"Boonya-atichart, 2017",fit
+10,"Chen et al, 2023",fit
+10,"Franke, 2019",fit
+10,"Franke, 2021",fit
+10,"Fujioka, 2024",fit
+10,"Ge et al, 2025",fit
+10,"H. Hara-Yamamura, 2022",fit
+10,"Le et al, 2022",fit
+10,"Lipp et al, 2010",fit
+10,"Liu Z et al, 2024 (2)",fit
+10,"Liu et al, 2021",fit
+10,"Lu et al, 2025",fit
+10,"Luo et al, 2025",fit
+10,"L√©niz-Pizarro, 2022",fit
+10,"Ma J., 2022",fit
+10,"Ma et al, 2024 (2)",fit
+10,"Pica, 2019",fit
+10,"Pramanik, 2017",fit
+10,"Rattanaoudom, 2011",fit
+10,"Safulko et al., 2023",fit
+10,"Steinle-Darling et al, 2010",fit
+10,"Tang, 2007",fit
+10,"Wang et al, 2018",fit
+10,"Wang et al, 2025",fit
+10,"Yang et al, 2024",fit
+10,"Yu, 2016",fit
+10,"Zhai et al, 2025",fit
+10,"Zhao, 2013",fit
+10,"Zhao, 2020",fit
+10,"Zhi et al, 2025",fit
+10,"Abdikheibari, 2022",calibration
+10,"Bi et al, 2024",calibration
+10,"Griffin, 2024",calibration
+10,"Hang, 2015",calibration
+10,"Jeong et al, 2024",calibration
+10,"Kim et al, 2025",calibration
+10,"Liu Z et al, 2024",calibration
+10,"Luo, 2016",calibration
+10,"Ma et al, 2024",calibration
+10,"Minhas et al, 2025",calibration
+10,"Pilevar et al, 2025",calibration
+10,"Qi et al, 2022",calibration
+10,"Rychlewska, 2024",calibration
+10,"Steinle-Darling & Reinhard, 2008",calibration
+10,"Wang et al, 2025 (2)",calibration
+10,"Wang, 2021",calibration
+10,"Wu Y, 2023",calibration
+10,"Zeng, 2017",calibration
+10,"Zhang, 2024",calibration
+10,"Zhao, 2016",calibration
+10,"Zhao, 2018",calibration
+10,"Zhi et al, 2022",calibration
+10,"Li et al, 2021",test
+10,"Liu et al, 2023",test
+10,"Soriano, 2019",test
+10,"Tang, 2006",test
+10,"Toure, 2019",test
+10,"Turk et al, 2025",test
+10,"Wang, 2015",test

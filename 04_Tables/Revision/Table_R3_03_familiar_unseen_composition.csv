@@ -1,0 +1,3 @@
+﻿evaluation_regime,rows,studies,exact_rows,censored_share,exact_rejection_mean,exact_rejection_sd,exact_rejection_q25,exact_rejection_median,exact_rejection_q75,unique_membranes,unique_pfas,mean_missing_predictor_fraction,feed_share_pure_water,feed_share_synthetic,feed_share_real_water,feed_share_unreported
+familiar_rows,297,41,254,0.1447811447811448,0.9044023589523622,0.09160797234868924,0.86525,0.9263,0.97895,56,31,0.09867909867909867,0.3265993265993266,0.5050505050505051,0.16835016835016836,0.0
+unseen_studies,448,13,409,0.08705357142857142,0.8971294219523227,0.12305641798220698,0.8598,0.949,0.988,22,25,0.09855769230769229,0.5602678571428571,0.37723214285714285,0.0625,0.0

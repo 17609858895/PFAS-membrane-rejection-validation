@@ -1,0 +1,11 @@
+﻿fold,outer_train_studies,calibration_studies,calibration_rows,calibration_exact_rows,test_studies,test_rows,current_quantile_unit,exchangeable_claim_unit,bootstrap_models_current_figure
+1,58,13,509,356,3,243,exact calibration rows,studies,8
+2,56,13,840,759,5,242,exact calibration rows,studies,8
+3,55,13,349,333,6,242,exact calibration rows,studies,8
+4,54,12,477,415,7,242,exact calibration rows,studies,8
+5,55,13,723,639,6,243,exact calibration rows,studies,8
+6,54,12,501,360,7,243,exact calibration rows,studies,8
+7,54,12,683,498,7,242,exact calibration rows,studies,8
+8,54,12,246,243,7,243,exact calibration rows,studies,8
+9,55,13,931,686,6,241,exact calibration rows,studies,8
+10,54,12,310,277,7,243,exact calibration rows,studies,8

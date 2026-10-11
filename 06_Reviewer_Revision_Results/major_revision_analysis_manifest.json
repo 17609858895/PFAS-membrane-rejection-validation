@@ -1,0 +1,15 @@
+{
+  "script": "07_Scripts\\run_major_revision_robustness.py",
+  "seed": 20260831,
+  "primary_rows": 2424,
+  "primary_studies": 61,
+  "selected_fixed_split_candidate": "conservative",
+  "repeated_study_partitions": 50,
+  "paired_study_bootstraps": 5000,
+  "webb_six_point_replicates": 9999,
+  "notes": [
+    "The one-off full search compares all 12 declared candidates under grouped inner cross-validation.",
+    "The 50 repeated study partitions prespecify a two-candidate choice (conservative versus d6_c1) to bound computational multiplicity.",
+    "No source file outside the isolated revision package is written by this script."
+  ]
+}

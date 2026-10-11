@@ -1,0 +1,11 @@
+﻿supplementary_item,data_file
+Text S1 / Fig. 1a,Table_S0_evidence_flow.csv
+Table S1,Table_S1_fold_level_metrics.csv
+Table S2,Table_S2_predictor_dictionary.csv
+Table S3,Table_S3_study_inventory.csv
+Table S4,Table_S4_baseline_models.csv
+Fig. S1,Fig_S1_duplicate_audit_summary.csv; Fig_S1_duplicate_audit_row_values.csv
+Fig. S2,Fig_S2_clipping_sensitivity_values.csv
+Fig. S3,Fig_S3_size_matched_temporal_values.csv
+Fig. S4 / Tables S5-S6,Table_S5_ridge_sensitivity.csv; Table_S6_cluster_robust_ols.csv
+Fig. S5,Fig_S5_bootstrap_model_count_sensitivity.csv

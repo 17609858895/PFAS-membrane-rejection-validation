@@ -1,0 +1,4 @@
+﻿upper_clip,rows_changed,maximum_rejection_after_clip,maximum_odds_after_clip,target_identical_to_0.999999
+0.9999,0,0.9999,9999.0000000011,True
+0.99999,0,0.9999,9999.0000000011,True
+0.999999,0,0.9999,9999.0000000011,True
