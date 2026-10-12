@@ -2090,7 +2090,8 @@ def draw_figures(
         ax.plot(np.array(nom)*100,np.array(nom)*100,color=MUTED,linestyle="--",linewidth=1.3)
         ax.errorbar(np.array(nom)*100,means.values*100,yerr=[(means-lo).values*100,(hi-means).values*100],fmt="o-",color=TEAL,markerfacecolor="white",markeredgecolor=INK,capsize=4,linewidth=2)
         clean_axis(ax,"Nominal coverage (%)","Empirical coverage (%)")
-        ax.set_xlim(77,97);ax.set_ylim(55,102);numeric_ticks(ax,n=4)
+        ax.set_xlim(77,97);ax.set_ylim(45,102);numeric_ticks(ax,n=4)
+        ax.set_yticks([50,60,70,80,90,100])
     def f4c(ax):
         width=(interval["hi_90"]-interval["lo_90"])*100
         err=np.abs(interval["prediction"]-y)*100
@@ -2118,7 +2119,7 @@ def draw_figures(
         ax.scatter(sub.coverage_exact*100,sub.mean_width*100,s=70,c=np.arange(len(sub)),cmap="viridis",edgecolor=INK,linewidth=.7)
         clean_axis(ax,"Fold coverage (%)","Interval width (pp)")
         numeric_ticks(ax,n=5)
-        add_metric_box(ax,["Each point = held-out study fold","Intervals calibrated on separate studies"],loc=(.05,.95))
+        add_metric_box(ax,["Each point = held-out","study fold","Intervals calibrated on","separate studies"],loc=(.05,.95))
     panels=[f4a,f4b,f4c,f4d,f4e]
     fig=plt.figure(figsize=(12.2,7.1));gs=fig.add_gridspec(2,3,hspace=.44,wspace=.39)
     axes=[fig.add_subplot(gs[0,:2]),fig.add_subplot(gs[0,2]),fig.add_subplot(gs[1,0]),fig.add_subplot(gs[1,1]),fig.add_subplot(gs[1,2])]
