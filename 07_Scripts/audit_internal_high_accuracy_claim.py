@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 
 import numpy as np
@@ -12,7 +13,8 @@ import generate_pfas_paper_figures as core
 
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "99_Working_Files" / "high_accuracy_claim_audit"
+OUTPUT_ROOT = Path(os.environ.get("PFAS_OUTPUT_ROOT", ROOT))  # outputs; inputs stay under ROOT
+OUT = OUTPUT_ROOT / "99_Working_Files" / "high_accuracy_claim_audit"
 SEED = 20260816
 
 

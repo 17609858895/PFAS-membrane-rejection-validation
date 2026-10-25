@@ -1,0 +1,79 @@
+﻿feature_1,feature_2,spearman_rho
+Dipole moment,pKa,0.7242228397889484
+Monovalent cations,Divalent cations,0.5851067176557873
+Divalent cations,DOC,0.5308506365879195
+Trivalent cations,DOC,0.5238107327484346
+Temperature,PFAS feed concentration,0.4159332521431271
+PFAS feed concentration,DOC,-0.4144701145825995
+PFAS volume,pKa,-0.4105630664787324
+PFAS feed concentration,Trivalent cations,-0.3384296024161974
+Permeate flux,Trivalent cations,0.3310288487218999
+pH,Permeate flux,-0.3269233355325523
+Divalent cations,Trivalent cations,0.321190156239561
+Monovalent cations,DOC,0.31497747350238614
+PFAS feed concentration,Monovalent cations,-0.29765031093157
+Water permeance,Permeate flux,0.2892179099818738
+PFAS feed concentration,Divalent cations,-0.27082332439035106
+O:N ratio,Temperature,-0.25821128145304195
+PFAS volume,Dipole moment,-0.2460666418237861
+Water permeance,Divalent cations,0.2388319887868459
+Temperature,Permeate flux,0.23607971545101633
+pH,DOC,0.22371931765609893
+Monovalent cations,Trivalent cations,0.21656273837113638
+O:N ratio,Permeate flux,-0.1991606301404438
+pKa,Monovalent cations,0.18932253051679893
+Water permeance,Trivalent cations,-0.16623181982225643
+Dipole moment,PFAS feed concentration,0.16411791718175492
+pH,PFAS feed concentration,-0.1560654048642053
+Water permeance,O:N ratio,-0.1549825960308644
+Permeate flux,Monovalent cations,-0.14529151933697126
+pH,Divalent cations,0.14336650641431037
+PFAS volume,Permeate flux,0.1417492487809225
+Water permeance,Temperature,0.14121246215695463
+PFAS volume,Monovalent cations,-0.12692659752350952
+O:N ratio,DOC,-0.12147675280318769
+Permeate flux,PFAS feed concentration,0.11952374674088612
+pKa,Permeate flux,0.11419212209048246
+pKa,Divalent cations,0.11182083512128024
+Dipole moment,Trivalent cations,-0.1098313689053019
+Water permeance,Monovalent cations,0.10008531845113844
+pH,Dipole moment,-0.09243268266125435
+pH,Trivalent cations,-0.09019876775012255
+O:N ratio,pH,-0.0899493658864151
+Permeate flux,DOC,0.08986045162702322
+PFAS volume,Trivalent cations,0.08977342816759432
+pH,pKa,-0.08795502557711993
+PFAS volume,Temperature,0.0860532761990042
+Temperature,Monovalent cations,-0.08552872765993148
+O:N ratio,Divalent cations,-0.08477813469961089
+Water permeance,Dipole moment,0.08298053948454925
+Temperature,DOC,-0.08138491546133857
+Permeate flux,Divalent cations,-0.07873792853928349
+pH,Temperature,-0.07842154266047971
+pKa,Trivalent cations,0.07357335614047582
+Dipole moment,Permeate flux,0.07134277524182993
+O:N ratio,Dipole moment,-0.06685552229584053
+Dipole moment,Monovalent cations,0.0665853850257621
+pKa,DOC,0.065092948394749
+Dipole moment,DOC,-0.06325537939541005
+O:N ratio,PFAS feed concentration,-0.05886725305303276
+PFAS volume,DOC,0.05353310597758467
+Temperature,Divalent cations,0.04766447756642422
+Temperature,Trivalent cations,0.04734953627985372
+pH,Monovalent cations,0.04213483059101818
+O:N ratio,pKa,-0.034947130354211785
+Water permeance,DOC,-0.03455456775009221
+pKa,PFAS feed concentration,-0.027344998070185984
+PFAS volume,Divalent cations,-0.02223286083038879
+Water permeance,pKa,0.022052295898534417
+pH,PFAS volume,-0.020060755262801443
+O:N ratio,Monovalent cations,-0.019493688974394883
+PFAS volume,PFAS feed concentration,-0.01935754559114825
+Dipole moment,Divalent cations,0.01911507701406369
+Water permeance,pH,0.015424291454275367
+O:N ratio,PFAS volume,0.011808126780105309
+Dipole moment,Temperature,0.009939519599942263
+Water permeance,PFAS feed concentration,0.009479326278334931
+Water permeance,PFAS volume,-0.005639179569475072
+pKa,Temperature,0.0035637199910402134
+O:N ratio,Trivalent cations,-0.002378928420182952

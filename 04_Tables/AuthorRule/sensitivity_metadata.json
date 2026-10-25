@@ -1,0 +1,118 @@
+{
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "sklearn": "1.5.1",
+    "xgboost": "3.2.0"
+  },
+  "workbook_sha256": "ecd4349b334d6dfad4e3a076481e0345a59d71ed7d2523d0eb4a4082e8095a3a",
+  "author_rules_mapped_to_exact_workbook_values": {
+    "mem": [
+      "NF270-PAA_Jeong",
+      "NF270-PEI_Jeong"
+    ],
+    "ref_id": [
+      "Ma J., 2022",
+      "Ma et al, 2024 (2)"
+    ]
+  },
+  "features": [
+    "pwp_LMH/bar",
+    "ON",
+    "pH",
+    "volume_Å3",
+    "dipole_debye",
+    "pKa",
+    "temp_ºC",
+    "flux_LMH",
+    "pfas_feed_conc_µg/L",
+    "mon_cat_mM",
+    "di_cat_mM",
+    "tri_cat_mM",
+    "doc_mg/L"
+  ],
+  "same_model_configurations": {
+    "conservative": {
+      "name": "conservative",
+      "depth": 3,
+      "child": 14,
+      "eta": 0.045,
+      "rounds": 130,
+      "lam": 7.0,
+      "alpha": 0.15,
+      "sub": 0.82,
+      "col": 0.82,
+      "scale": 1.2
+    },
+    "d6_c1": {
+      "name": "d6_c1",
+      "depth": 6,
+      "child": 1,
+      "eta": 0.025,
+      "rounds": 720,
+      "lam": 2.0,
+      "alpha": 0.0,
+      "sub": 0.9,
+      "col": 0.9,
+      "scale": 0.8
+    }
+  },
+  "same_model_fit_seed": 20261716,
+  "grouped_config": {
+    "name": "conservative",
+    "depth": 3,
+    "child": 14,
+    "eta": 0.045,
+    "rounds": 145,
+    "lam": 7.0,
+    "alpha": 0.15,
+    "sub": 0.82,
+    "col": 0.82,
+    "scale": 1.2
+  },
+  "grouped_fit_seed": "700 + fold, folds numbered 1 to 10",
+  "original_holdout_study_ids": [
+    "Chen et al, 2023",
+    "Franke, 2019",
+    "Franke, 2021",
+    "Ge et al, 2025",
+    "Liu Z et al, 2024 (2)",
+    "Liu et al, 2023",
+    "L√©niz-Pizarro, 2022",
+    "Soriano, 2019",
+    "Steinle-Darling & Reinhard, 2008",
+    "Toure, 2019",
+    "Yang et al, 2024",
+    "Zhang, 2024",
+    "Zhao, 2016"
+  ],
+  "author_rule_holdout_study_ids": [
+    "Chen et al, 2023",
+    "Franke, 2019",
+    "Franke, 2021",
+    "Ge et al, 2025",
+    "Liu Z et al, 2024 (2)",
+    "Liu et al, 2023",
+    "L√©niz-Pizarro, 2022",
+    "Soriano, 2019",
+    "Steinle-Darling & Reinhard, 2008",
+    "Toure, 2019",
+    "Yang et al, 2024",
+    "Zhang, 2024",
+    "Zhao, 2016"
+  ],
+  "shared_rows_keep_original_regimes_and_folds": true,
+  "shared_training_rows_keep_original_train_test_split_order": true,
+  "new_rows_inherit_outer_study_identity": true,
+  "new_source_study_Fang_role": "development; study fold 1 declared before fitting",
+  "new_development_rows_allocation": "train_test_split(test_size=0.15, random_state=20260836, shuffle=True) applied only to newly added development rows",
+  "new_development_rows": 26,
+  "new_development_train_rows": 22,
+  "new_development_familiar_test_rows": 4,
+  "new_unseen_rows": 0,
+  "metrics": "R2, RMSE, MAE on exact rows; RMSE/MAE additionally reported in percentage points. Logit metrics use existing core.evaluation clipping [0.500001,0.999999]. C-index pooled censored-compatible; separate equal-study within-study C-index also supplied.",
+  "no_hyperparameter_selection_performed": true,
+  "not_an_exact_original_snapshot_or_fitted_model_reproduction": true,
+  "author_rule_view_contains_26_source_labelled_UF_rows": true,
+  "runtime_seconds": 9.76
+}

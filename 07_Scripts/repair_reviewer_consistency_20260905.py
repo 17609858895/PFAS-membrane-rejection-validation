@@ -6,7 +6,7 @@ The 5,000-replicate study bootstrap conditions on the stored out-of-fold fits;
 it is not a bootstrap that retrains the complete model-selection procedure.
 """
 from pathlib import Path
-import hashlib, json, math
+import hashlib, json, math, os
 import numpy as np
 import pandas as pd
 from sklearn.cluster import KMeans
@@ -19,7 +19,8 @@ import run_major_revision_robustness as major
 import audit_internal_high_accuracy_claim as audit
 
 ROOT=Path(__file__).resolve().parents[1]
-OUT=ROOT/'04_Tables'/'Consistency_20260905'
+OUTPUT_ROOT=Path(os.environ.get('PFAS_OUTPUT_ROOT',ROOT))  # outputs; inputs stay under ROOT
+OUT=OUTPUT_ROOT/'04_Tables'/'Consistency_20260905'
 SEED=20260831
 
 def save(frame, name):
@@ -50,7 +51,7 @@ def table1_sd(df,x):
         masks[name]=mask
     for name in ['Study-blocked','Membrane-blocked','PFAS-blocked']:masks[name]=np.ones(len(df),bool)
     masks['Publication-year holdout']=df.ref_year.gt(2023).to_numpy()
-    original=pd.read_csv(ROOT/'04_Tables/reviewer_m1_claim_matched_metrics.csv')
+    original=pd.read_csv(OUTPUT_ROOT/'04_Tables/reviewer_m1_claim_matched_metrics.csv')
     rows=[]
     for _,row in original.iterrows():
         name=row['strategy']; mask=masks[name]
@@ -63,7 +64,7 @@ def table1_sd(df,x):
     save(pd.DataFrame(membership),'Table_C02_repeated_test_row_memberships.csv')
 
 def paired_gaps():
-    data=pd.read_csv(ROOT/'04_Tables/Revision/Table_R3_05_repeated_50_study_partition_metrics.csv')
+    data=pd.read_csv(OUTPUT_ROOT/'04_Tables/Revision/Table_R3_05_repeated_50_study_partition_metrics.csv')
     pivot=data.pivot(index='repeat',columns='evaluation_regime',values=['r2','logit_r2','rmse_pp','mae_pp','nrmse_by_test_sd','c_index'])
     differences=pd.DataFrame({m:pivot[(m,'familiar_rows')]-pivot[(m,'unseen_studies')] for m in ['r2','logit_r2','rmse_pp','mae_pp','nrmse_by_test_sd','c_index']}).reset_index()
     save(differences,'Table_C03_paired_partition_differences.csv')
@@ -162,7 +163,7 @@ def intervals(df,x):
     save(pd.DataFrame(members),'Table_C13_interval_study_memberships.csv')
     save(pd.DataFrame(rows_out),'Table_C14_interval_row_outputs.csv')
     frame=pd.DataFrame(folds);save(frame,'Table_C15_interval_fold_summary.csv')
-    prior=pd.read_csv(ROOT/'04_Tables/Revision/Table_R3_12_study_unit_conformal_folds.csv')
+    prior=pd.read_csv(OUTPUT_ROOT/'04_Tables/Revision/Table_R3_12_study_unit_conformal_folds.csv')
     assert np.allclose(frame.width_0_1_pp,prior.mean_interval_width_pp,atol=1e-5)
     assert np.allclose(frame.study_coverage,prior.study_all_exact_rows_coverage)
 

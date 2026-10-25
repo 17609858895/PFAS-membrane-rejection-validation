@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import math
+import os
 import re
 import sys
 import time
@@ -34,10 +35,13 @@ from scientific_palettes import STYLE_COLORS, get_palette  # noqa: E402
 
 
 SOURCE_XLSX = ROOT / "05_Source_Data" / "es6c02287_si_002.xlsx"
-TABLE_ROOT = ROOT / "04_Tables"
+OUTPUT_ROOT = Path(os.environ.get("PFAS_OUTPUT_ROOT", ROOT))  # outputs; inputs stay under ROOT
+TABLE_ROOT = OUTPUT_ROOT / "04_Tables"
 SUPP_TABLE_ROOT = TABLE_ROOT / "Supplementary"
-FIG_ROOT = ROOT / "03_Figures" / "Supplementary"
-CACHE_PATH = ROOT / "99_Working_Files" / "crossref_study_doi_cache.json"
+FIG_ROOT = OUTPUT_ROOT / "03_Figures" / "Supplementary"
+CACHE_PATH = OUTPUT_ROOT / "99_Working_Files" / "crossref_study_doi_cache.json"
+# Frozen Crossref title->DOI lookups (retrieved 2026-08/09); used instead of network queries when present.
+FROZEN_CACHE_PATH = ROOT / "05_Source_Data" / "derived" / "crossref_study_doi_cache.json"
 
 CORAL, BLUE, GREEN, TEAL, PURPLE, PINK, GOLD, LAVENDER, GRAY = get_palette(
     "nature_new", n=9
@@ -182,6 +186,8 @@ def normalize_title(value: str) -> str:
 def load_crossref_cache() -> dict[str, dict]:
     if CACHE_PATH.exists():
         return json.loads(CACHE_PATH.read_text(encoding="utf-8"))
+    if FROZEN_CACHE_PATH.exists():
+        return json.loads(FROZEN_CACHE_PATH.read_text(encoding="utf-8"))
     return {}
 
 

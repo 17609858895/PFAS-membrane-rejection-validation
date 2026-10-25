@@ -1,0 +1,7 @@
+﻿entity_type,metric,groups,spearman_rho_vs_rows,p_value
+"Study (LOSO, 115 rounds)",model_rmse_pp,52,-0.32594915409791153,0.0183679871868426
+"Study (LOSO, 115 rounds)",model_mae_pp,52,-0.3072355966860771,0.026723047048253814
+Membrane (harmonized),rmse_pp,66,-0.09080474450218558,0.4683868504449886
+Membrane (harmonized),mae_pp,66,-0.10403097140363322,0.40582538301219917
+PFAS (harmonized),rmse_pp,31,0.5616868141037321,0.001009150082841065
+PFAS (harmonized),mae_pp,31,0.5183094200547729,0.0028178162903905544

@@ -1,0 +1,77 @@
+﻿dataset,predictor,reference,metric,bootstrap_median_difference,q025,q975,fraction_draws_better,draws,resampling_unit
+P2424,"Conservative AFT, 13 features (145 rounds)",Training-fold exact-row mean,R2,0.005161551198226144,-0.28193929620129893,0.25081197373250025,0.5138,5000,study; fitted predictions held fixed
+P2424,"Conservative AFT, 13 features (145 rounds)",Training-fold exact-row mean,RMSE (pp),-0.025336061800543597,-1.3599137602486013,1.2998508621927047,0.5138,5000,study; fitted predictions held fixed
+P2424,"Conservative AFT, 13 features (145 rounds)",Training-fold exact-row mean,MAE (pp),-1.0503127879816248,-2.3551353581873955,0.5162122826570216,0.9094,5000,study; fitted predictions held fixed
+P2424,"Conservative AFT, 13 features (145 rounds)",Training-fold exact-row mean,Within-study C,0.14032280522830767,0.085968581849455,0.18792136433542714,1.0,5000,study; fitted predictions held fixed
+P2424,"Linear censored-normal (Tobit), 13 features",Training-fold exact-row mean,R2,-0.16448486583588462,-0.4220448978245067,0.042256607955177196,0.0584,5000,study; fitted predictions held fixed
+P2424,"Linear censored-normal (Tobit), 13 features",Training-fold exact-row mean,RMSE (pp),0.8032328477121533,-0.20874643036256785,1.8984348427654913,0.0584,5000,study; fitted predictions held fixed
+P2424,"Linear censored-normal (Tobit), 13 features",Training-fold exact-row mean,MAE (pp),-0.6574657514099163,-1.8619502968856905,0.5461511525493522,0.8668,5000,study; fitted predictions held fixed
+P2424,"Linear censored-normal (Tobit), 13 features",Training-fold exact-row mean,Within-study C,0.1315706112526881,0.08448117935782497,0.17675773889338764,1.0,5000,study; fitted predictions held fixed
+P2424,Physical censored-normal: log volume + log permeance,Training-fold exact-row mean,R2,-0.24624433905503407,-0.4994542268217454,-0.026144731658964356,0.0118,5000,study; fitted predictions held fixed
+P2424,Physical censored-normal: log volume + log permeance,Training-fold exact-row mean,RMSE (pp),1.1817648041015287,0.12055524611427074,2.2688040658760698,0.0118,5000,study; fitted predictions held fixed
+P2424,Physical censored-normal: log volume + log permeance,Training-fold exact-row mean,MAE (pp),-0.4109457870014044,-1.8524216766816606,1.217821278993989,0.6994,5000,study; fitted predictions held fixed
+P2424,Physical censored-normal: log volume + log permeance,Training-fold exact-row mean,Within-study C,0.12463632937590985,0.08398748133729891,0.1634395932118283,1.0,5000,study; fitted predictions held fixed
+P2424,Physical censored-normal: + RO indicator,Training-fold exact-row mean,R2,-0.23249045857450357,-0.45186276299411576,-0.028357005708523023,0.0118,5000,study; fitted predictions held fixed
+P2424,Physical censored-normal: + RO indicator,Training-fold exact-row mean,RMSE (pp),1.122188244528525,0.12375509570175001,2.091182736345227,0.0118,5000,study; fitted predictions held fixed
+P2424,Physical censored-normal: + RO indicator,Training-fold exact-row mean,MAE (pp),-0.45626380103662934,-1.7746557473992572,1.0229461011754926,0.736,5000,study; fitted predictions held fixed
+P2424,Physical censored-normal: + RO indicator,Training-fold exact-row mean,Within-study C,0.11433652638821676,0.07248574505154413,0.15409263538097692,1.0,5000,study; fitted predictions held fixed
+P2424,2-feature AFT (PFAS volume + water permeance),Training-fold exact-row mean,R2,-0.17248378362943428,-0.42589483631342395,0.029051670960652944,0.0498,5000,study; fitted predictions held fixed
+P2424,2-feature AFT (PFAS volume + water permeance),Training-fold exact-row mean,RMSE (pp),0.8417868819256995,-0.13989836603643352,1.933195814320642,0.0498,5000,study; fitted predictions held fixed
+P2424,2-feature AFT (PFAS volume + water permeance),Training-fold exact-row mean,MAE (pp),-0.3692939410045226,-1.5688499336085842,1.1191568203902749,0.6998,5000,study; fitted predictions held fixed
+P2424,2-feature AFT (PFAS volume + water permeance),Training-fold exact-row mean,Within-study C,0.08928424116258507,0.046600914248303586,0.13050251526711545,1.0,5000,study; fitted predictions held fixed
+P2424,Empirical AFT (logP + PFAS volume),Training-fold exact-row mean,R2,-0.3093835676292058,-0.5163857446720936,-0.12535819029820128,0.0004,5000,study; fitted predictions held fixed
+P2424,Empirical AFT (logP + PFAS volume),Training-fold exact-row mean,RMSE (pp),1.4708927216060754,0.5559883946536203,2.35108202688752,0.0004,5000,study; fitted predictions held fixed
+P2424,Empirical AFT (logP + PFAS volume),Training-fold exact-row mean,MAE (pp),-0.025166598437148302,-1.2787316304944092,1.4020667111204383,0.5124,5000,study; fitted predictions held fixed
+P2424,Empirical AFT (logP + PFAS volume),Training-fold exact-row mean,Within-study C,0.0571581860345199,0.027717713057241345,0.0887313609274016,1.0,5000,study; fitted predictions held fixed
+P2424,"PFAS-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,R2,0.016448030781365697,-0.13145038161075723,0.12597944929488997,0.5916,5000,study; fitted predictions held fixed
+P2424,"PFAS-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,RMSE (pp),-0.08289000648931744,-0.6740919463790318,0.6111518218380605,0.5916,5000,study; fitted predictions held fixed
+P2424,"PFAS-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,MAE (pp),-0.16108904357266507,-0.7175543342386321,0.4378273080116499,0.701,5000,study; fitted predictions held fixed
+P2424,"PFAS-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,Within-study C,0.06595488613412542,0.03915389277282575,0.09744485873961646,1.0,5000,study; fitted predictions held fixed
+P2424,"Membrane-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,R2,0.0633252354451952,0.0006499154280526888,0.15242874186338728,0.976,5000,study; fitted predictions held fixed
+P2424,"Membrane-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,RMSE (pp),-0.32526239395247547,-0.7344532776316524,-0.0033664969340447683,0.976,5000,study; fitted predictions held fixed
+P2424,"Membrane-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,MAE (pp),-0.5797268848642672,-1.1615942788772884,-0.06298864550152476,0.9864,5000,study; fitted predictions held fixed
+P2424,"Membrane-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,Within-study C,0.035328945783703644,0.011379173193239363,0.06255343557490409,0.9974,5000,study; fitted predictions held fixed
+P2424,Training-fold exact-row median,Training-fold exact-row mean,R2,-0.11738619871069611,-0.2405754089988338,0.029185147444125134,0.0574,5000,study; fitted predictions held fixed
+P2424,Training-fold exact-row median,Training-fold exact-row mean,RMSE (pp),0.5797852258836045,-0.13312457763913524,1.1799592403609502,0.0574,5000,study; fitted predictions held fixed
+P2424,Training-fold exact-row median,Training-fold exact-row mean,MAE (pp),-0.3196723187753623,-1.1616973401602217,0.6031175942074386,0.7604,5000,study; fitted predictions held fixed
+P2424,Training-fold exact-row median,Training-fold exact-row mean,Within-study C,0.0,0.0,0.0,0.0,5000,study; fitted predictions held fixed
+P2424,Grouped-nested AFT (12 candidates; inner GroupKFold by study),Training-fold exact-row mean,R2,-0.021122459263066218,-0.30352064278647306,0.23553137298182478,0.4384,5000,study; fitted predictions held fixed
+P2424,Grouped-nested AFT (12 candidates; inner GroupKFold by study),Training-fold exact-row mean,RMSE (pp),0.10514509171000963,-1.2477220968785183,1.4201702535381624,0.4384,5000,study; fitted predictions held fixed
+P2424,Grouped-nested AFT (12 candidates; inner GroupKFold by study),Training-fold exact-row mean,MAE (pp),-0.9194652445674047,-2.243036840534519,0.6204965794318166,0.8854,5000,study; fitted predictions held fixed
+P2424,Grouped-nested AFT (12 candidates; inner GroupKFold by study),Training-fold exact-row mean,Within-study C,0.1319877943741244,0.07942470380742694,0.1804936929563546,1.0,5000,study; fitted predictions held fixed
+U2487,"Conservative AFT, 13 features (145 rounds)",Training-fold exact-row mean,R2,0.027495122257864102,-0.17411790417106288,0.21182345906850045,0.6068,5000,study; fitted predictions held fixed
+U2487,"Conservative AFT, 13 features (145 rounds)",Training-fold exact-row mean,RMSE (pp),-0.19072635656434667,-1.4547366625762896,1.1205920998375756,0.6068,5000,study; fitted predictions held fixed
+U2487,"Conservative AFT, 13 features (145 rounds)",Training-fold exact-row mean,MAE (pp),-1.3522136843278583,-2.8876152981412955,0.4617439558066771,0.9308,5000,study; fitted predictions held fixed
+U2487,"Conservative AFT, 13 features (145 rounds)",Training-fold exact-row mean,Within-study C,0.13749750490350887,0.08075288785400926,0.18829319960849705,1.0,5000,study; fitted predictions held fixed
+U2487,"Linear censored-normal (Tobit), 13 features",Training-fold exact-row mean,R2,-0.027729045012183984,-0.21741217263331075,0.16878953082868625,0.3884,5000,study; fitted predictions held fixed
+U2487,"Linear censored-normal (Tobit), 13 features",Training-fold exact-row mean,RMSE (pp),0.1840637655945745,-1.1922708345032003,1.358912592121058,0.3884,5000,study; fitted predictions held fixed
+U2487,"Linear censored-normal (Tobit), 13 features",Training-fold exact-row mean,MAE (pp),-1.2429454474648596,-2.686473726217457,0.27927741140342127,0.9504,5000,study; fitted predictions held fixed
+U2487,"Linear censored-normal (Tobit), 13 features",Training-fold exact-row mean,Within-study C,0.1475625274729345,0.09558843997606895,0.1941880664650984,1.0,5000,study; fitted predictions held fixed
+U2487,Physical censored-normal: log volume + log permeance,Training-fold exact-row mean,R2,-0.10962211523447862,-0.31291085116195155,0.06502108118228865,0.1078,5000,study; fitted predictions held fixed
+U2487,Physical censored-normal: log volume + log permeance,Training-fold exact-row mean,RMSE (pp),0.7278043922739403,-0.4322810555071965,1.9378184450943439,0.1078,5000,study; fitted predictions held fixed
+U2487,Physical censored-normal: log volume + log permeance,Training-fold exact-row mean,MAE (pp),-1.033723016088123,-2.690172772175733,0.8879518378104858,0.863,5000,study; fitted predictions held fixed
+U2487,Physical censored-normal: log volume + log permeance,Training-fold exact-row mean,Within-study C,0.13132768206857948,0.08950266195306908,0.1721822717901185,1.0,5000,study; fitted predictions held fixed
+U2487,Physical censored-normal: + RO indicator,Training-fold exact-row mean,R2,-0.14751042069915365,-0.31594469990884055,0.008607680591526824,0.0306,5000,study; fitted predictions held fixed
+U2487,Physical censored-normal: + RO indicator,Training-fold exact-row mean,RMSE (pp),0.9760641894197475,-0.04816347015046665,1.9942136628315599,0.0306,5000,study; fitted predictions held fixed
+U2487,Physical censored-normal: + RO indicator,Training-fold exact-row mean,MAE (pp),-0.9967632411727667,-2.5127799235261175,0.773306384728319,0.8724,5000,study; fitted predictions held fixed
+U2487,Physical censored-normal: + RO indicator,Training-fold exact-row mean,Within-study C,0.1340273628749794,0.0916323375334683,0.1745719953192572,1.0,5000,study; fitted predictions held fixed
+U2487,2-feature AFT (PFAS volume + water permeance),Training-fold exact-row mean,R2,-0.021265914224502636,-0.2306500125073659,0.15960688243849808,0.415,5000,study; fitted predictions held fixed
+U2487,2-feature AFT (PFAS volume + water permeance),Training-fold exact-row mean,RMSE (pp),0.14638273665817536,-1.0885223982197048,1.45355728979597,0.415,5000,study; fitted predictions held fixed
+U2487,2-feature AFT (PFAS volume + water permeance),Training-fold exact-row mean,MAE (pp),-1.195696913144662,-2.6583706338187714,0.635527713272989,0.9056,5000,study; fitted predictions held fixed
+U2487,2-feature AFT (PFAS volume + water permeance),Training-fold exact-row mean,Within-study C,0.07765743384066408,0.03460229464420045,0.1204754510909958,1.0,5000,study; fitted predictions held fixed
+U2487,Empirical AFT (logP + PFAS volume),Training-fold exact-row mean,R2,-0.21676257801127785,-0.3673336819479406,-0.07220954260225348,0.0032,5000,study; fitted predictions held fixed
+U2487,Empirical AFT (logP + PFAS volume),Training-fold exact-row mean,RMSE (pp),1.4032778410424163,0.42413672919936357,2.3092919710941007,0.0032,5000,study; fitted predictions held fixed
+U2487,Empirical AFT (logP + PFAS volume),Training-fold exact-row mean,MAE (pp),-0.5208099336193461,-1.9834218508102333,1.1829946284658954,0.7308,5000,study; fitted predictions held fixed
+U2487,Empirical AFT (logP + PFAS volume),Training-fold exact-row mean,Within-study C,0.06393130508396414,0.03291315724074748,0.09683816273376152,1.0,5000,study; fitted predictions held fixed
+U2487,"PFAS-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,R2,0.04242019729226543,-0.06441283789323887,0.1278034912314822,0.7938,5000,study; fitted predictions held fixed
+U2487,"PFAS-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,RMSE (pp),-0.29238193417173264,-0.9011072689933671,0.3978020625727182,0.7938,5000,study; fitted predictions held fixed
+U2487,"PFAS-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,MAE (pp),-0.23433760354436384,-0.9309087155084766,0.498394088454743,0.7354,5000,study; fitted predictions held fixed
+U2487,"PFAS-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,Within-study C,0.07752454941300083,0.048671954419602065,0.10975620693555634,1.0,5000,study; fitted predictions held fixed
+U2487,"Membrane-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,R2,0.06972415052915215,0.018446858120947804,0.15288642880946984,0.9966,5000,study; fitted predictions held fixed
+U2487,"Membrane-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,RMSE (pp),-0.4830498034291386,-0.9473873882533327,-0.12388111713457446,0.9966,5000,study; fitted predictions held fixed
+U2487,"Membrane-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,MAE (pp),-0.9656523799162935,-1.7809779213652104,-0.22622922099079115,0.9952,5000,study; fitted predictions held fixed
+U2487,"Membrane-specific training mean (shrunk, k = 5)",Training-fold exact-row mean,Within-study C,0.04056031519580001,0.015909034243831638,0.06811943001895104,0.999,5000,study; fitted predictions held fixed
+U2487,Training-fold exact-row median,Training-fold exact-row mean,R2,-0.11148103878246018,-0.2127536660357665,0.010149926416493505,0.033,5000,study; fitted predictions held fixed
+U2487,Training-fold exact-row median,Training-fold exact-row mean,RMSE (pp),0.7413916607583877,-0.05663706522608114,1.3971327556923652,0.033,5000,study; fitted predictions held fixed
+U2487,Training-fold exact-row median,Training-fold exact-row mean,MAE (pp),-0.615871069603882,-1.6456866045207268,0.5257768869018783,0.8596,5000,study; fitted predictions held fixed
+U2487,Training-fold exact-row median,Training-fold exact-row mean,Within-study C,0.0,0.0,0.0,0.0,5000,study; fitted predictions held fixed

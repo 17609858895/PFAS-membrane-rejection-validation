@@ -1,5 +1,7 @@
 03_Figures/
-04_Tables/
+04_Tables/*
+!04_Tables/Round2/
+!04_Tables/AuthorRule/
 99_Working_Files/
 __pycache__/
 *.py[cod]
@@ -7,3 +9,4 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+reproduced/

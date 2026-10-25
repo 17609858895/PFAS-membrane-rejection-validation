@@ -1,0 +1,3 @@
+﻿dataset,design,large_error_threshold_pp,exact_rows,flagged_large,flagged_small,retained_large,retained_small,sensitivity,specificity,flag_rate_exact,rmse_all_pp,rmse_retained_pp,rmse_flagged_pp,censored_rows,censored_flagged,lb_violation_retained,lb_violation_flagged
+P2424,Leave-one-study-out (115 rounds),10.0,2117,66,186,435,1430,0.1317365269461078,0.8849009900990099,0.11903637222484648,10.476817805245894,10.252856738565859,12.005121079260103,307,40,0.7865168539325843,0.975
+P2424,Leave-one-study-out (115 rounds),20.0,2117,27,225,128,1737,0.17419354838709677,0.8853211009174312,0.11903637222484648,10.476817805245894,10.252856738565859,12.005121079260103,307,40,0.7865168539325843,0.975

@@ -1,0 +1,7 @@
+﻿label,eligibility_rule,role,rows,studies,membranes,pfas,censored_rows,censored_pct,exact_rows
+W2517,All rows of worksheet PFAS_literature_dataset_2b,Source workbook,2517,62,118,37,307,12.2,2210
+R2450,Rejection >= 0.50,Intermediate,2450,62,116,37,307,12.53,2143
+P2424,Rejection >= 0.50 and membrane class NF or RO,Primary analysis set,2424,61,112,37,307,12.67,2117
+A2353,"Rejection >= 0.50; omit membrane IDs NF270-PEI_Jeong, NF270-PAA_Jeong and reference IDs 'Ma J., 2022', 'Ma et al, 2024 (2)'",Author-rule sensitivity,2353,60,112,37,307,13.05,2046
+S2327,Intersection of P2424 and A2353,Overlap description only,2327,59,108,37,307,13.19,2020
+U2487,Membrane class NF or RO; no rejection threshold,Threshold sensitivity,2487,61,114,37,307,12.34,2180

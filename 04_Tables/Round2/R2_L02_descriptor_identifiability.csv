@@ -1,0 +1,6 @@
+﻿quantity,value
+PFAS identities,37.0
+"Distinct (volume, dipole, pKa) descriptor triples",37.0
+Membrane identities,112.0
+"Distinct (permeance, O:N) pairs",151.0
+"Share of rows whose (permeance, O:N) pair occurs in one study only (%)",70.58580858085809

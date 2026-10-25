@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import math
+import os
 import shutil
 import warnings
 from dataclasses import dataclass
@@ -31,9 +32,10 @@ if SCRIPT_PATH.parent.name.startswith("Fig"):
     ROOT = SCRIPT_PATH.parents[2]
 else:
     ROOT = SCRIPT_PATH.parents[1]
-FIG_ROOT = ROOT / "03_Figures"
-TABLE_ROOT = ROOT / "04_Tables"
-TMP_ROOT = ROOT / "99_Working_Files"
+OUTPUT_ROOT = Path(os.environ.get("PFAS_OUTPUT_ROOT", ROOT))  # outputs; inputs stay under ROOT
+FIG_ROOT = OUTPUT_ROOT / "03_Figures"
+TABLE_ROOT = OUTPUT_ROOT / "04_Tables"
+TMP_ROOT = OUTPUT_ROOT / "99_Working_Files"
 JSON_PATH = TMP_ROOT / "sheets" / "pfas_data.json"
 WORKBOOK_PATH = ROOT / "05_Source_Data" / "es6c02287_si_002.xlsx"
 STYLE_ROOT = ROOT / "07_Scripts" / "figure_style"
@@ -692,18 +694,13 @@ def save_publication_figure(
 
 
 def load_data() -> tuple[pd.DataFrame, pd.DataFrame]:
-    if JSON_PATH.exists():
-        payload = json.loads(JSON_PATH.read_text(encoding="utf-8"))
-        sheet = next(
-            s for s in payload["sheets"] if s["name"] == "PFAS_literature_dataset_2b"
-        )
-        raw = pd.DataFrame(sheet["values"][1:], columns=sheet["values"][0])
-    else:
-        raw = pd.read_excel(
-            WORKBOOK_PATH,
-            sheet_name="PFAS_literature_dataset_2b",
-            engine="openpyxl",
-        )
+    # Always read the unmodified source workbook; earlier versions could fall back
+    # to a cached JSON export in 99_Working_Files, which is no longer used.
+    raw = pd.read_excel(
+        WORKBOOK_PATH,
+        sheet_name="PFAS_literature_dataset_2b",
+        engine="openpyxl",
+    )
     numeric = [
         "ref_year",
         "Rejection",

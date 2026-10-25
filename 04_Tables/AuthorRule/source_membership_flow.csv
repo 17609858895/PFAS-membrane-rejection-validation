@@ -1,0 +1,6 @@
+﻿analysis_set,rows,studies,membranes,PFAS,censored,source_labelled_UF_rows
+Public workbook,2517,62,118,37,307,28
+R >= 0.50,2450,62,116,37,307,26
+Current primary NF/RO,2424,61,112,37,307,0
+Author-email-rule reconstruction,2353,60,112,37,307,26
+NF/RO intersection,2327,59,108,37,307,0

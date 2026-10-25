@@ -1,6 +1,6 @@
 # PFAS membrane-rejection validation: data and code
 
-Source data, analysis scripts, model configurations and machine-readable results for the claim-matched validation of PFAS rejection by nanofiltration and reverse-osmosis membranes.
+Source data, analysis scripts, configurations, row-level logs and machine-readable results for the claim-matched validation of PFAS rejection by nanofiltration and reverse-osmosis membranes.
 
 ## Source data
 
@@ -10,36 +10,67 @@ Tomsovic Y, Gu S, Doudrick K, Straub AP. *Mechanistic Insights into PFAS Rejecti
 
 The source article and its Supporting Information are distributed under the Creative Commons Attribution 4.0 International licence. The workbook is redistributed here with attribution.
 
-The analysis retains NF/RO records with rejection ≥0.50 from worksheet `PFAS_literature_dataset_2b`, yielding 2,424 records from 61 studies, 112 membranes and 37 PFAS. The source article reports 2,353 records from 60 studies. The exact membership responsible for the net difference of 71 records and one study remains unresolved. `source_reconciliation/` provides the row-level filtering audit and study counts.
+SHA-256 of the workbook: `ecd4349b334d6dfad4e3a076481e0345a59d71ed7d2523d0eb4a4082e8095a3a`
+
+`05_Source_Data/derived/crossref_study_doi_cache.json` is a frozen Crossref title-to-DOI lookup used for the study inventory (Table S2); with it, no network access is needed.
+
+## Analysis sets
+
+The present study modifies the source dataset through its own eligibility rules. Every result is labelled by one of three analysis sets:
+
+| Label | Rule | Rows | Studies |
+|---|---|---|---|
+| `P2424` (primary) | worksheet `PFAS_literature_dataset_2b`, rejection ≥ 0.50, membrane class NF or RO | 2,424 | 61 |
+| `A2353` (author-rule sensitivity) | rejection ≥ 0.50, omitting membrane IDs NF270-PEI_Jeong, NF270-PAA_Jeong and reference IDs `Ma J., 2022`, `Ma et al, 2024 (2)` as stated by the source first author | 2,353 | 60 |
+| `U2487` (threshold sensitivity) | membrane class NF or RO, no rejection threshold | 2,487 | 61 |
+
+`04_Tables/Round2/R2_A01_row_level_eligibility_log.csv` lists all 2,517 workbook rows with Excel row number, a stable row identifier, study, DOI, membrane, PFAS, reason codes and membership of each set; `R2_A02_dataset_registry.csv` gives the counts. A2353 matches the published row and study counts, but the source modelling rows were not supplied, so its identity with the original modelling set cannot be verified.
 
 ## Environment
 
-The analysis used Python 3.12.3. Install the pinned dependencies in an isolated environment:
+Python 3.12.3. Install the exact versions in an isolated environment:
 
 ```bash
-python -m pip install -r requirements.txt
+python -m pip install -r requirements-lock.txt
 ```
+
+`requirements.txt` lists the direct dependencies only.
 
 ## Reproduction
 
-Run these commands from the repository root, in order:
+Run everything from the repository root with one command:
 
 ```bash
-python 07_Scripts/generate_pfas_paper_figures.py
-python 07_Scripts/run_reviewer_requested_checks.py
-python 07_Scripts/build_supplementary_evidence.py
-python 07_Scripts/audit_disjoint_high_accuracy_claim.py
-python 07_Scripts/generate_disjoint_transfer_fig2.py
-python 07_Scripts/run_major_revision_robustness.py
-python 07_Scripts/repair_reviewer_consistency_20260905.py
+python run_all.py
 ```
 
-The scripts write figures to `03_Figures`, tables to `04_Tables`, and intermediate results to `99_Working_Files`. Precomputed machine-readable results are included in `04_Tables`, including the inputs required by the final consistency script.
+`run_all.py` executes the scripts below in this order and writes all outputs to `reproduced/<UTC timestamp>/` (or `--output-root DIR`), so committed results are never overwritten. Use `--steps` to run selected steps.
 
-## Configurations and analysis outputs
+| Step | Script | Outputs |
+|---|---|---|
+| figures | `07_Scripts/generate_pfas_paper_figures.py` | main-text figure data, split, censoring, interval, SHAP and association tables |
+| checks | `07_Scripts/run_reviewer_requested_checks.py` | baselines, retransformation, temporal controls, ridge/OLS sensitivity |
+| supplementary | `07_Scripts/build_supplementary_evidence.py` | Supplementary tables and Figs S1–S4 |
+| fixed_split | `07_Scripts/audit_disjoint_high_accuracy_claim.py` | fixed 13-study holdout (Fig. 3 numbers) |
+| fig3 | `07_Scripts/generate_disjoint_transfer_fig2.py` | Fig. 3 |
+| robustness | `07_Scripts/run_major_revision_robustness.py` | `04_Tables/Revision` |
+| consistency | `07_Scripts/repair_reviewer_consistency_20260905.py` | `04_Tables/Consistency_20260905` |
+| author_rule | `07_Scripts/run_author_rule_sensitivity.py` | `04_Tables/AuthorRule` (Table S16) |
+| round2 | `07_Scripts/run_round2_revision_analyses.py` | `04_Tables/Round2` (Tables S17–S26, harmonised and nested designs, baselines, diagnostics) |
+| round2_figures | `07_Scripts/draw_round2_supplementary_figures.py` | Figs S5–S7 |
+| records | `07_Scripts/build_reproducibility_records.py` | lock file, data dictionary, provenance table, manifest, verification |
 
-`candidate_configurations.json` records the 12 candidate architectures. The scripts specify the normal AFT loss, scale parameters, tree settings and fixed random seeds. `06_Reviewer_Revision_Results/` contains the applicability-distance and temporal-matching definitions and the analysis configuration.
+The final step writes `reproducibility_manifest.csv` (every output with its generating script, runtime and SHA-256 checksum, plus checksums of inputs and code) and `verification_against_committed.csv`. A clean regeneration on Windows (32 cores) took about 22 min and reproduced all 86 committed result tables underlying the previously reported analyses and Table S16 (84 byte-identical, 2 identical to numerical precision). PNG/PDF checksums can differ between runs because of embedded metadata; verification therefore uses the numerical tables.
 
-`04_Tables/Revision/` contains the architecture comparison, 50 study-partition memberships and metrics, threshold sensitivity, paired study bootstrap, Webb-weight inference and study-level interval analysis. `04_Tables/Consistency_20260905/` contains the filtered analysis snapshot, row identifiers, baseline predictions, within-study concordance, bootstrap draws and interval outputs.
+All random seeds are fixed in the scripts; `04_Tables/Round2/R2_P02_display_item_provenance.csv` (Table S27) gives the dataset, splitter, folds, seeds, loss, hyperparameter source, post-processing, script and result files for every table and figure.
 
-The primary ranking comparison is the equal-weight mean of within-study C-index over 59 scorable studies: 0.639105 for the model versus 0.500000 for the constant baseline. Pooled concordance is a separate descriptive measure. The bootstrap resamples studies while holding the fitted predictions fixed. The 50-partition analysis selects between two prespecified architectures; the fixed-split analysis evaluates all 12 candidates. Partition ranges describe variation across the sampled partitions.
+## Contents
+
+- `candidate_configurations.json` — the 12 candidate AFT architectures.
+- `06_Reviewer_Revision_Results/` — applicability-distance and temporal-matching definitions and the analysis configuration.
+- `04_Tables/` — precomputed machine-readable results (top level, `Supplementary/`, `Revision/`, `Consistency_20260905/`, `AuthorRule/`, `Round2/`).
+- `04_Tables/Round2/R2_P01_data_dictionary.csv` — source, unit, transformation, missingness, imputation rule and pipeline stage of every predictor.
+- `04_Tables/Round2/R2_C02_test_fold_membership_long.csv` — test-fold membership of every row for every design; `R2_B04_row_level_out_of_fold_predictions.csv` — leave-one-study-out and 10-fold out-of-fold predictions with training-fold baselines.
+- `source_reconciliation/` — earlier row-level filter audit sent to the source authors.
+
+The primary ranking comparison is the equal-weight mean of within-study C-index over 59 scorable studies: 0.639 for the model versus 0.500 for the constant baseline. Bootstrap intervals resample studies while holding fitted predictions fixed. Partition ranges describe variation across sampled partitions, not population confidence intervals.

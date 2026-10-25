@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -26,8 +27,9 @@ from ml_publication_style import (  # noqa: E402
 from scientific_palettes import get_palette  # noqa: E402
 
 
-OUT = ROOT / "03_Figures" / "Fig02_Disjoint_familiar_vs_unseen_study_transfer"
-AUDIT_OUT = ROOT / "99_Working_Files" / "high_accuracy_claim_audit"
+OUTPUT_ROOT = Path(os.environ.get("PFAS_OUTPUT_ROOT", ROOT))  # outputs; inputs stay under ROOT
+OUT = OUTPUT_ROOT / "03_Figures" / "Fig02_Disjoint_familiar_vs_unseen_study_transfer"
+AUDIT_OUT = OUTPUT_ROOT / "99_Working_Files" / "high_accuracy_claim_audit"
 STEM = "Fig02_Disjoint_familiar_vs_unseen_study_transfer"
 
 configure_publication_style()

@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import math
+import os
 import sys
 from pathlib import Path
 
@@ -18,8 +19,9 @@ from sklearn.preprocessing import StandardScaler
 
 SCRIPT_PATH = Path(__file__).resolve()
 ROOT = SCRIPT_PATH.parents[1]
-TABLE_ROOT = ROOT / "04_Tables" / "Revision"
-WORK_ROOT = ROOT / "99_Working_Files" / "major_revision"
+OUTPUT_ROOT = Path(os.environ.get("PFAS_OUTPUT_ROOT", ROOT))  # outputs; inputs stay under ROOT
+TABLE_ROOT = OUTPUT_ROOT / "04_Tables" / "Revision"
+WORK_ROOT = OUTPUT_ROOT / "99_Working_Files" / "major_revision"
 SEED = 20260831
 REPEATED_SPLITS = 50
 PAIRED_BOOTSTRAPS = 5000
@@ -38,7 +40,7 @@ def save_csv(frame: pd.DataFrame, name: str) -> Path:
     TABLE_ROOT.mkdir(parents=True, exist_ok=True)
     path = TABLE_ROOT / name
     frame.to_csv(path, index=False, encoding="utf-8-sig")
-    print(f"wrote {path.relative_to(ROOT)} ({len(frame)} rows)", flush=True)
+    print(f"wrote {path} ({len(frame)} rows)", flush=True)
     return path
 
 
@@ -46,7 +48,7 @@ def save_json(payload: object, name: str) -> Path:
     WORK_ROOT.mkdir(parents=True, exist_ok=True)
     path = WORK_ROOT / name
     path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"wrote {path.relative_to(ROOT)}", flush=True)
+    print(f"wrote {path}", flush=True)
     return path
 
 
@@ -645,7 +647,7 @@ def eligibility_webb_and_common_support(df: pd.DataFrame) -> None:
             }
         )
 
-    overlap = pd.read_csv(ROOT / "04_Tables" / "monovalent_overlap_diagnostic.csv")
+    overlap = pd.read_csv(OUTPUT_ROOT / "04_Tables" / "monovalent_overlap_diagnostic.csv")
     mon_work = prepare_within_work(df, "mon_cat_mM", exact_only=True)
     aligned = (
         len(overlap) == len(mon_work)
@@ -667,7 +669,7 @@ def eligibility_webb_and_common_support(df: pd.DataFrame) -> None:
             **fit_within_ols(subset, "mon_cat_mM", rng, webb=True),
         }
     )
-    summary = pd.read_csv(ROOT / "04_Tables" / "monovalent_overlap_summary.csv").iloc[0]
+    summary = pd.read_csv(OUTPUT_ROOT / "04_Tables" / "monovalent_overlap_summary.csv").iloc[0]
     common = pd.DataFrame(
         [
             {

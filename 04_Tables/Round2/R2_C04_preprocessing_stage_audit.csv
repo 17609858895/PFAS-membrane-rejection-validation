@@ -1,0 +1,11 @@
+﻿operation,implementation,data used / stage
+"log1p transform of flux, feed concentration and ion/DOC predictors",Row-wise deterministic,Before splitting; uses no sample statistics
+"Clipping of rejection to [0.500001, 0.999999] and logit/odds",Row-wise deterministic,Before splitting; uses no sample statistics
+Missing predictors in XGBoost,Native sparsity-aware split routing,Learned inside each training fold only
+"Median imputation and standardisation (kNN distance, propensity, linear/Tobit models)",SimpleImputer + StandardScaler,Fitted on each training fold; applied to the paired test fold
+"Hyperparameter selection, nested analyses (Round 2)",Inner GroupKFold(3) by study or KFold(3),Inside each outer training fold only
+"Hyperparameter selection, published conservative architecture","Three-fold GroupKFold on the 1,679 fixed-split fitting rows",Fixed-split development rows; reused for other designs (disclosed; see nested analysis)
+Applicability threshold (Round 2 out-of-fold rule),P90 of leave-own-study-out kNN distances among training rows,Each outer training fold only
+Applicability threshold (published retrospective display),Pooled P90 of held-out relative distances,Uses pooled held-out predictor distances (retrospective)
+K-means labels for cluster stratification,KMeans(k=10) after median imputation and scaling,"Full predictor matrix, outcomes not used; reconstructs the source design"
+Training-fold mean baseline,Mean exact rejection of training rows,Recomputed in every outer fold

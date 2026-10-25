@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import math
+import os
 import sys
 from pathlib import Path
 
@@ -17,7 +18,8 @@ from sklearn.preprocessing import StandardScaler
 
 SCRIPT_PATH = Path(__file__).resolve()
 ROOT = SCRIPT_PATH.parents[1]
-TABLE_ROOT = ROOT / "04_Tables"
+OUTPUT_ROOT = Path(os.environ.get("PFAS_OUTPUT_ROOT", ROOT))  # outputs; inputs stay under ROOT
+TABLE_ROOT = OUTPUT_ROOT / "04_Tables"
 sys.path.insert(0, str(SCRIPT_PATH.parent))
 
 import generate_pfas_paper_figures as core  # noqa: E402
@@ -26,7 +28,7 @@ import generate_pfas_paper_figures as core  # noqa: E402
 def save_csv(frame: pd.DataFrame, name: str) -> None:
     path = TABLE_ROOT / name
     frame.to_csv(path, index=False, encoding="utf-8-sig")
-    print(f"wrote {path.relative_to(ROOT)} ({len(frame)} rows)")
+    print(f"wrote {path} ({len(frame)} rows)")
 
 
 def pooled_and_fold_summary(

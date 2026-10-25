@@ -1,0 +1,40 @@
+{
+  "script": "07_Scripts/run_round2_revision_analyses.py",
+  "seed": 20261025,
+  "sections_run": [
+    "aft",
+    "applicability",
+    "author",
+    "baselines",
+    "censoring",
+    "folds",
+    "frequency",
+    "harmonized",
+    "leakage",
+    "nested",
+    "registry",
+    "support",
+    "temporal"
+  ],
+  "section_runtime_seconds": {
+    "registry": 0.2,
+    "folds": 10.8,
+    "leakage": 2.2,
+    "harmonized": 61.4,
+    "nested": 206.2,
+    "baselines": 25.1,
+    "aft": 4.5,
+    "censoring": 11.3,
+    "applicability": 40.1,
+    "temporal": 4.3,
+    "support": 0.1,
+    "frequency": 11.9,
+    "author": 3.9
+  },
+  "total_runtime_seconds": 386.6,
+  "datasets": {
+    "P2424": 2424,
+    "A2353": 2353,
+    "U2487": 2487
+  }
+}
