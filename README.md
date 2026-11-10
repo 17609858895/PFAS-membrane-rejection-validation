@@ -62,6 +62,18 @@ python run_all.py
 
 The final step writes `reproducibility_manifest.csv` (every output with its generating script, runtime and SHA-256 checksum, plus checksums of inputs and code) and `verification_against_committed.csv`. A clean regeneration on Windows (32 cores) took about 22 min and reproduced all 86 committed result tables underlying the previously reported analyses and Table S16 (84 byte-identical, 2 identical to numerical precision). PNG/PDF checksums can differ between runs because of embedded metadata; verification therefore uses the numerical tables.
 
+### Floating-point reproducibility
+
+Byte-for-byte identity of regenerated tables depends on last-digit floating-point behaviour of multithreaded linear algebra (Intel MKL in this environment) and is not guaranteed across machines or sessions; the reported values do not depend on it.
+
+As a second check (11 November 2026), commit `a9d6aec51788d6d19fc3f9a7d1234d94167a2787` was cloned into an empty directory and `python run_all.py` was run with all 24 distributions matching `requirements-lock.txt`. All 11 steps completed in about 17 min. Of the 123 regenerated tables (the 86 tables above plus 37 tables in `04_Tables/Round2`):
+
+- 99 were byte-identical to the committed files;
+- 23 differed by less than 5e-6 in any value. `verification_against_committed.csv` labels differences below 1e-9 `numerically identical`, below 1e-6 `within 1e-6` and anything larger `differs`, so `R2_F01` and `R2_F02` are labelled `differs`; their maximum differences (1.5e-6 and 4.5e-6) come only from the censored-normal (Tobit) models fitted by numerical maximum likelihood;
+- one auxiliary table, `04_Tables/Consistency_20260905/Table_C06_within_study_concordance.csv`, differed only for the `AFT logistic-normal mean on rejection scale` summary. Rows with identical P50 predictions are exact ties, but their logistic-normal means can differ in the last floating-point digit after Gauss-Hermite integration, which breaks the tie arbitrarily and changes the per-study concordance of that summary (mean within-study C 0.640 in this run versus 0.638 in the committed file).
+
+The within-study C of the logistic-normal-mean summary is not reported in the manuscript or Supplementary Information. The P50 within-study C (0.639) and every reported value were unchanged at their reported precision. Later commits differ from `a9d6aec` only in this documentation section.
+
 All random seeds are fixed in the scripts; `04_Tables/Round2/R2_P02_display_item_provenance.csv` (Table S27) gives the dataset, splitter, folds, seeds, loss, hyperparameter source, post-processing, script and result files for every table and figure.
 
 ## Contents
